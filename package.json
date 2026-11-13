@@ -1,0 +1,10 @@
+{
+  "name": "toefl-ibt-2026-practice",
+  "version": "1.0.0",
+  "description": "Open-source, self-hosted TOEFL iBT 2026-format mock tests with AI grading by Gemini. Zero dependencies.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "validate": "node lib/validate.js test2" },
+  "keywords": ["toefl", "toefl-ibt", "toefl-2026", "practice-test", "mock-test", "reading", "listening", "writing", "speaking", "gemini"],
+  "license": "MIT",
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,2150 @@
+{
+  "id": "test6",
+  "title": "Practice Test 6",
+  "timings": {
+    "reading": {
+      "router": 20,
+      "lower": 9,
+      "upper": 9
+    },
+    "listening": {
+      "router": 18,
+      "lower": 7,
+      "upper": 11
+    },
+    "writing": {
+      "build": 6,
+      "email": 7,
+      "discussion": 10
+    },
+    "speaking": 8
+  },
+  "audio": {
+    "l_c1": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Where did you leave the keys to the equipment room?"
+        }
+      ]
+    },
+    "l_c2": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Haven't you finished the reading for Thursday yet?"
+        }
+      ]
+    },
+    "l_c3": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Would you rather meet at the library or the café?"
+        }
+      ]
+    },
+    "l_c4": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "The printer on the third floor is jammed again."
+        }
+      ]
+    },
+    "l_c5": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Do you know whether the seminar's been moved to Friday?"
+        }
+      ]
+    },
+    "l_c6": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "I thought the deadline for the scholarship was next week."
+        }
+      ]
+    },
+    "l_c7": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "You wouldn't happen to have a spare charger, would you?"
+        }
+      ]
+    },
+    "l_c8": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "I can't believe how crowded the gym gets after six."
+        }
+      ]
+    },
+    "l_c9": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Shouldn't someone have told the new tenants about the water shutoff?"
+        }
+      ]
+    },
+    "l_c10": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "If I'd known the talk was being recorded, I wouldn't have rushed over."
+        }
+      ]
+    },
+    "l_conv1": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Hi, welcome to the Rec Center. How can I help?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Hi. I signed up for the eight-week strength program, but I just got my new class schedule, and my chemistry lab now runs until six on Tuesdays."
+        },
+        {
+          "v": "Fenrir",
+          "t": "And the program meets Tuesdays and Thursdays at five thirty, right?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Exactly. So I'd miss half the sessions. Is it possible to get a refund?"
+        },
+        {
+          "v": "Fenrir",
+          "t": "Refunds are only possible before a program starts, and this one started last week. But there's an evening group that meets at seven on Mondays and Wednesdays. Same trainer, same plan."
+        },
+        {
+          "v": "Aoede",
+          "t": "Oh. I have choir until seven thirty on Mondays, though. Wednesdays would be fine."
+        },
+        {
+          "v": "Fenrir",
+          "t": "Hmm. Well, the trainer usually lets people mix groups, as long as nobody goes over two sessions a week. You could do Wednesday evening and Thursday afternoon."
+        },
+        {
+          "v": "Aoede",
+          "t": "That could work. Do I need to fill out a form?"
+        },
+        {
+          "v": "Fenrir",
+          "t": "No, just email the trainer, Coach Rivera, so she can keep track of numbers. I'll write down her address for you."
+        }
+      ]
+    },
+    "l_conv2": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Come in, Daniel. You wanted to talk about your paper?"
+        },
+        {
+          "v": "Puck",
+          "t": "Yes. I was planning to write about how the first newspapers spread news in the sixteen hundreds, but most of the sources I've found are in Dutch or German."
+        },
+        {
+          "v": "Kore",
+          "t": "That's not surprising. Some of the earliest weekly papers were printed in those regions. Do you read either language?"
+        },
+        {
+          "v": "Puck",
+          "t": "Not really. I took a year of German, but that was a long time ago."
+        },
+        {
+          "v": "Kore",
+          "t": "Then I'd narrow the topic. The English papers of the sixteen twenties were often translations of Dutch ones. You could look at what the English printers chose to leave out."
+        },
+        {
+          "v": "Puck",
+          "t": "So I'd compare the English versions with the originals? Wouldn't I still need Dutch?"
+        },
+        {
+          "v": "Kore",
+          "t": "Only for a few short passages. Several scholars have already published translations of the key issues, so you'd be working mostly from those."
+        },
+        {
+          "v": "Puck",
+          "t": "Oh, that sounds much more manageable. I'll check the library catalog tonight."
+        }
+      ]
+    },
+    "l_ann1": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Attention, students. Because of the heat advisory issued this morning, the university is opening two cooling rooms from noon to eight p.m. today: the ground floor of Barlow Library and the main lounge of the Student Union. Both will have free water stations. Outdoor intramural games scheduled for this afternoon are postponed, not cancelled. Team captains will receive new dates by email. If you feel dizzy or unwell, please visit the health center, which will stay open until ten tonight."
+        }
+      ]
+    },
+    "l_ann2": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Before we start, a quick change to the field trip. We were scheduled to visit the printing museum on Saturday the twelfth, but the museum has asked us to come on Friday the eleventh instead, since they're holding a private event that weekend. I know some of you have classes on Friday morning, so we'll leave at one p.m. rather than nine a.m. That means we'll have less time there, so please read the exhibit guide I posted online before we go. And if you really can't make Friday, see me after class about an alternative assignment."
+        }
+      ]
+    },
+    "l_talk1": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Today I'd like to look at why some volcanoes erupt explosively while others simply let lava pour out. The key factor is the viscosity of the magma, which is basically how thick and sticky it is. Magma that's low in silica, like what we see in Hawaii, is runny. Gas bubbles can rise through it and escape easily, so the lava flows out fairly gently. You can sometimes walk right up to the edge of a flow, though I wouldn't recommend it. Magma that's rich in silica is a different story. It's so thick that the gas can't get out. Pressure builds up, a bit like when you shake a bottle of soda with the cap on. When the pressure finally overcomes the rock above it, the magma shatters into ash and fragments, and you get an explosive eruption. Now, you might expect the amount of gas to be what matters most. And gas content is important, but two magmas with the same amount of gas can behave completely differently, depending on how easily that gas escapes. That's why volcanologists pay so much attention to silica content when they assess hazards. Next time, we'll look at what happens when magma meets groundwater, which can make even runny magma explosive."
+        }
+      ]
+    },
+    "l_talk2": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Last week we talked about kinship terms, the words people use for their relatives. Today I want to show you how those terms can reveal the way a society is organized. In English, we use one word, cousin, for the children of all our parents' brothers and sisters. We don't distinguish between your mother's side and your father's side. But in many societies, that distinction is crucial. Take the system that anthropologists call Iroquois, named after the Native American nations where it was first described, though it's found all over the world. In this system, the children of your father's brother and of your mother's sister are called by the same terms as your own brothers and sisters. Only the children of your father's sister and of your mother's brother are what we would call cousins. So why would a society group relatives this way? One explanation is marriage rules. In many of these societies, you're expected to marry a cousin of the second type, but never one of the first type, since they count as siblings. So the vocabulary itself tells you who is a possible spouse. I should add that not everyone accepts this explanation, because some groups use these terms without any such marriage rules. Still, it's a useful reminder that kinship terms aren't just labels. They can carry social expectations."
+        }
+      ]
+    },
+    "l_c11": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "What time does the pool open tomorrow?"
+        }
+      ]
+    },
+    "l_c12": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Can I borrow your pen for a minute?"
+        }
+      ]
+    },
+    "l_c13": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "How was your weekend?"
+        }
+      ]
+    },
+    "l_c14": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Is this seat taken?"
+        }
+      ]
+    },
+    "l_c15": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Why are you wearing a coat? It's warm today."
+        }
+      ]
+    },
+    "l_c16": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Did you finish the homework?"
+        }
+      ]
+    },
+    "l_conv3": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Hi. I'd like to use the gym, but I forgot my student card."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Oh, I'm sorry. You need your card to come in. Do you have another photo ID?"
+        },
+        {
+          "v": "Puck",
+          "t": "I have my driver's license."
+        },
+        {
+          "v": "Zephyr",
+          "t": "That's fine. I can find you in the system with your name. Can you spell your last name for me?"
+        },
+        {
+          "v": "Puck",
+          "t": "Sure. It's K, O, W, A, L, S, K, I."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Thanks. Okay, you're all set. But please bring your card next time. We can only do this once a semester."
+        }
+      ]
+    },
+    "l_conv4": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Are you going to the volcano lecture at the science museum on Friday?"
+        },
+        {
+          "v": "Charon",
+          "t": "I wanted to, but I have to work until seven."
+        },
+        {
+          "v": "Kore",
+          "t": "It starts at seven thirty, so you could still make it."
+        },
+        {
+          "v": "Charon",
+          "t": "Really? I thought it started at seven. Then yes, I'll come. Should I buy a ticket online?"
+        },
+        {
+          "v": "Kore",
+          "t": "No, it's free for students. Just bring your student card."
+        }
+      ]
+    },
+    "l_ann3": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Hello, shoppers. Greenway Market will close early today, at five p.m., because of the storm that is coming this evening. Our café is already closed. If you ordered a cake to pick up today, you can pick it up tomorrow morning instead, starting at eight. We are sorry for the trouble. Please drive safely."
+        }
+      ]
+    },
+    "l_talk3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Today, let's talk about green roofs. A green roof is a roof covered with soil and plants. Many cities are building them because summers are getting hotter. A normal dark roof gets very hot in the sun. But plants keep a roof cool, because they hold water and give off moisture into the air. This also helps the rooms below stay cooler, so people use less air conditioning. Green roofs help in another way, too. When it rains hard, the soil holds some of the water, so less water rushes into the streets at once. Green roofs cost more to build than normal roofs, but many cities think they are worth it."
+        }
+      ]
+    },
+    "l_talk4": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "In our anthropology class, we've been talking about families. In some cultures, a family means only parents and children. In others, a family is much larger. It can include grandparents, aunts, uncles, and cousins, all living in one house. Anthropologists call this an extended family. In an extended family, older people often help take care of the children while the parents work. In return, younger family members take care of the older ones when they get sick. Today, more people in many countries live in small families, often because they move to cities for jobs. But extended families are still common in many parts of the world."
+        }
+      ]
+    },
+    "l_c17": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "I'm surprised you didn't sign up for the advanced section."
+        }
+      ]
+    },
+    "l_c18": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Do you think the committee will approve the proposal as it stands?"
+        }
+      ]
+    },
+    "l_c19": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Weren't the lab results supposed to be posted by now?"
+        }
+      ]
+    },
+    "l_c20": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "I'd have offered to help, but nobody mentioned the move was this weekend."
+        }
+      ]
+    },
+    "l_c21": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "You might want to double-check those figures before you submit the report."
+        }
+      ]
+    },
+    "l_c22": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "So much for finishing early today."
+        }
+      ]
+    },
+    "l_conv5": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Professor Adeyemi, do you have a minute? It's about my proposal for the independent study."
+        },
+        {
+          "v": "Puck",
+          "t": "Of course. You want to look at how families use group chats, right?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Right. My idea is that in my extended family, the group chat has basically replaced the weekly visits my grandparents used to organize. Who gets added, who gets left out. It seems to define who counts as family."
+        },
+        {
+          "v": "Puck",
+          "t": "It's a promising question. My concern is that you'd be studying your own relatives."
+        },
+        {
+          "v": "Aoede",
+          "t": "I thought that would be an advantage. I already have access, and people trust me."
+        },
+        {
+          "v": "Puck",
+          "t": "It is an advantage, in some ways. But think about what happens when you write that your aunt was quietly removed from the chat. You'll still be at the next family wedding."
+        },
+        {
+          "v": "Aoede",
+          "t": "Hmm. I hadn't thought about it that way."
+        },
+        {
+          "v": "Puck",
+          "t": "I'm not saying drop it. But you might include two or three other families, ones you don't know, so yours isn't the only case. And you'll need consent forms that explain exactly how the messages will be used."
+        },
+        {
+          "v": "Aoede",
+          "t": "That would make it a much bigger project, though."
+        },
+        {
+          "v": "Puck",
+          "t": "It would. So narrow the time frame. Six months of messages rather than five years would be plenty."
+        },
+        {
+          "v": "Aoede",
+          "t": "Okay. I'll revise the proposal and send it to you by Friday."
+        }
+      ]
+    },
+    "l_ann4": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "This is a message from Campus Recreation. As many of you know, the aquatics center will close on April first for a long-planned renovation of its filtration system. What has changed is the timeline. Because the contractor has found additional damage to the roof, the closure, which was originally expected to last six weeks, is now projected to run through the end of the summer term. Members who bought a spring-only pool pass will automatically receive a partial refund, so no action is needed. Annual members, on the other hand, can choose between a refund for the months affected and a free upgrade that adds guest passes once the pool reopens. To make that choice, log in to your recreation account before March twentieth. If you don't, we'll assume you'd like the refund."
+        }
+      ]
+    },
+    "l_talk5": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "When people talk about the printing revolution, they usually mean Gutenberg and the fourteen fifties. But East Asian printers had been using carved woodblocks for centuries, and movable type was invented in China around the ten forties, roughly four hundred years before Gutenberg. So the interesting question isn't who was first. It's why movable type transformed European publishing so quickly but remained, for a long time, a fairly minor technique in China. Part of the answer is the writing system itself. An alphabet needs only a few dozen letters, plus punctuation and capitals. A printer can cast thousands of copies of each and reuse them endlessly. Written Chinese, by contrast, uses thousands of distinct characters. A printer would need an enormous stock of type, and finding the right pieces could take longer than carving a whole new block. Woodblocks also had a practical advantage. Once a block was carved, it could be stored and used again years later, whenever demand for the book returned. With movable type, you'd break up the page after printing. Now, I don't want to suggest the technology was simply unsuitable. Korean printers used metal movable type quite successfully, and some Chinese projects used it on a large scale. The point is that the economics differed. For most Chinese publishers, woodblocks were the more sensible choice, not a backward one."
+        }
+      ]
+    },
+    "l_talk6": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Let's continue with urban flooding. For most of the twentieth century, the dominant strategy was what engineers call gray infrastructure: pipes, concrete channels, and storm drains designed to move rainwater out of the city as fast as possible. The trouble is that these systems are sized for historical rainfall. When storms become more intense, as they are in many regions, the pipes simply overflow, and replacing them with larger ones is enormously expensive and disruptive. So a number of cities have taken a different approach, sometimes called the sponge city model. Instead of rushing water away, the idea is to slow it down and soak it up where it falls, using wetlands, permeable pavement that lets water seep through, and parks designed to flood temporarily. In Copenhagen, for instance, some public squares are built slightly below street level. On a normal day, they're basketball courts or plazas. During a cloudburst, they fill with water and then drain slowly. Now, I want to be careful here. Sponge features aren't a replacement for pipes. In dense city centers, there often isn't enough open land, and permeable surfaces can clog if they aren't maintained. Most planners see the two systems as complementary. The real shift is in the goal: not removing water from the city, but deciding where it can safely go."
+        }
+      ]
+    },
+    "sp_r1": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Welcome to the fitness center."
+        }
+      ]
+    },
+    "sp_r2": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Please scan your card at the front desk."
+        }
+      ]
+    },
+    "sp_r3": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Lockers are free, but you need to bring your own lock."
+        }
+      ]
+    },
+    "sp_r4": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Towels can be borrowed from the counter near the pool."
+        }
+      ]
+    },
+    "sp_r5": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "If a machine is broken, put a sign on it and tell a staff member."
+        }
+      ]
+    },
+    "sp_r6": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Group classes fill up quickly, so members should reserve a place at least a day in advance."
+        }
+      ]
+    },
+    "sp_r7": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Anyone who hasn't finished the orientation can't use the climbing wall until a trainer signs their form."
+        }
+      ]
+    },
+    "sp_i1": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Thank you for joining this study about how people read. To begin, could you tell me what kinds of things you usually read in a typical week?"
+        }
+      ]
+    },
+    "sp_i2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Some people prefer printed books, while others prefer reading on a screen. Which do you prefer, and why?"
+        }
+      ]
+    },
+    "sp_i3": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Some people believe that reading on screens has made it harder for people to concentrate on long texts. Do you agree or disagree? Please explain."
+        }
+      ]
+    },
+    "sp_i4": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Let me ask one last question. Some libraries are reducing their collections of printed books to create more space for computers and group study. Do you think this is a good decision? Why or why not?"
+        }
+      ]
+    }
+  },
+  "reading": {
+    "stage1": {
+      "id": "r1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Volcanoes form where molten rock from deep inside the Earth reaches the surface. Most {of} them {are} found {along} the {edges} of {tectonic} plates, {where} the crust {is} either {pulling} apart {or} sinking {beneath} another plate. A few, such as those in Hawaii, sit far from any plate boundary, above unusually hot regions of the mantle."
+        },
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Before movable type reached Europe, every book had to be copied by hand. The {arrival} of mechanical printing {transformed} the {economics} of {publishing}: a {single} press {could} produce {more} pages {in} a day {than} a {scribe} could copy in a year. As a result, the price of books fell, and reading slowly ceased to be a privilege of the wealthy."
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "NOTICE: Westbrook Recreation Center\n\nBeginning Monday, March 3, the second-floor weight room will be closed for floor replacement. The work is expected to take about three weeks. During this period, the free weights will be moved to the multipurpose room on the first floor, and that room's evening yoga classes will be held in Studio B instead. The cardio area and the pool are not affected. Members who have booked a personal training session in the weight room will be contacted by their trainer about a new location.",
+          "items": [
+            {
+              "id": "r1_d1_1",
+              "q": "What is the main purpose of the notice?",
+              "options": [
+                "To advertise new evening yoga classes held in Studio B",
+                "To announce a temporary relocation of equipment and classes",
+                "To explain why the pool and cardio area will close for repairs",
+                "To ask members to book personal training sessions with a trainer"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_d1_2",
+              "q": "What can be inferred about the multipurpose room?",
+              "options": [
+                "It is usually where evening yoga classes are held",
+                "It is located on the second floor",
+                "It will be closed for about three weeks",
+                "It is reserved for personal training"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "From: Campus Print Services\nTo: Daniela Ortiz\nSubject: Your poster order #4471\n\nDear Daniela,\n\nThank you for your order of 40 color posters for the Film Society screening. Unfortunately, the file you uploaded has a low resolution, so the images would look blurry at the size you selected. We can either print the posters at a smaller size (A3 instead of A2) at a reduced price, or hold the order until you send a higher-quality file. Please note that if we receive a new file after 3 p.m. on Thursday, we cannot guarantee delivery before Friday's event. Simply reply with your choice. No payment will be taken until the posters are printed.\n\nBest wishes,\nOmar Haddad\nCampus Print Services",
+          "items": [
+            {
+              "id": "r1_d2_1",
+              "q": "Why did Omar write to Daniela?",
+              "options": [
+                "To report a problem with a file she sent",
+                "To confirm that her posters are ready for pickup",
+                "To ask her to pay for her order in advance",
+                "To invite her to a Film Society screening"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_d2_2",
+              "q": "What is true about the smaller posters?",
+              "options": [
+                "They would be delivered after Friday",
+                "They would require a new file",
+                "They would be printed in black and white",
+                "They would be cheaper"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_d2_3",
+              "q": "What will most likely happen if Daniela sends a new file on Thursday evening?",
+              "options": [
+                "Her order will be cancelled automatically",
+                "She will be charged an extra rush fee",
+                "The posters might arrive too late",
+                "The shop will print the posters at A3 size"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "academic",
+          "title": "Read an Academic Passage",
+          "text": "Kinship Beyond Biology\n\nEarly anthropologists assumed that kinship everywhere was a cultural reflection of biological relatedness: people were related because they shared descent from a common ancestor. Fieldwork in the twentieth century complicated this view. Researchers found societies in which a child's relatives were determined only through the mother's line, so that a father belonged to a different kin group from his own children. Elsewhere, kinship could be created through everyday acts. In some communities, people who regularly shared food from the same hearth came to be regarded as kin, regardless of birth.\n\nThese findings led some scholars to argue that kinship is better understood as something people do rather than something they are born with. Critics of this position, however, caution against dismissing biology entirely. They note that even in societies where kinship can be acquired, ties traced through birth often carry obligations that acquired ties do not, such as rights to inherit land. The current consensus, if there is one, is that biology supplies the raw material, but each society decides which connections count, and how much.",
+          "items": [
+            {
+              "id": "r1_a1_1",
+              "q": "The word 'complicated' in the passage is closest in meaning to",
+              "options": [
+                "disproved entirely",
+                "strongly confirmed",
+                "made less simple",
+                "delayed"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_a1_2",
+              "q": "According to the passage, in a society where relatives are determined only through the mother's line,",
+              "options": [
+                "children belong to their father's kin group",
+                "a father may be outside his children's kin group",
+                "people become kin by sharing food from one hearth",
+                "land is passed from fathers to sons"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_a1_3",
+              "q": "Why does the author mention people who share food from the same hearth?",
+              "options": [
+                "To show that shared activity can create kinship",
+                "To explain how families divided their food supplies",
+                "To give an example of descent traced through the mother's line",
+                "To suggest that birth ties carry more obligations than shared meals"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_a1_4",
+              "q": "What can be inferred about the critics mentioned in paragraph 2?",
+              "options": [
+                "They reject the idea that kinship can ever be acquired",
+                "They believe that acquired ties and birth ties carry equal obligations",
+                "They were the first to study societies that trace descent through mothers",
+                "They grant acquired kinship but stress birth ties"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_a1_5",
+              "q": "Which of the following best describes the organization of the passage?",
+              "options": [
+                "Historical events are presented in time order",
+                "An early view is described, challenged by evidence, and then debated",
+                "Two societies are compared to show that one is more advanced",
+                "A problem is described and a single solution is recommended"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "r2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Summers in many cities are getting hotter. To {stay} cool, {some} cities {are} planting {more} trees {along} their {streets}. Trees {give} shade {and} make {the} air {feel} cooler. They also make the city a nicer place to walk."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "GREEN LEAF CAFE (Student Center, Level 1)\n\nBreakfast (7:00-10:30 a.m.)\nEgg sandwich: $4.50\nOatmeal with fruit: $3.75\n\nLunch (11:30 a.m.-3:00 p.m.)\nSoup of the day: $4.00\nChicken rice bowl: $7.25\nVegetable wrap: $6.50\n\nShow your student card for 10% off any drink.",
+            "items": [
+              {
+                "id": "r2l_d1_1",
+                "q": "A student arrives at 10:00 a.m. What can she order?",
+                "options": [
+                  "Soup of the day",
+                  "Oatmeal with fruit",
+                  "A chicken rice bowl",
+                  "A vegetable wrap"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_d1_2",
+                "q": "How can students get a discount?",
+                "options": [
+                  "By ordering breakfast before 10:30 a.m.",
+                  "By buying two items at lunch",
+                  "By showing their card for a drink",
+                  "By eating at the cafe on Level 1"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "FITNESS CENTER: SPRING CLASS SCHEDULE\n\nMonday and Wednesday: Spin Class, 6:00-6:45 p.m. (Room 2)\nTuesday and Thursday: Beginner Swimming, 7:00-8:00 a.m. (Pool)\nFriday: Yoga for Everyone, 5:30-6:30 p.m. (Room 1)\n\nAll classes are free for members. Non-members pay $5 per class. Spin classes fill up quickly, so sign up at the front desk one day before. Please bring a towel and a water bottle.",
+            "items": [
+              {
+                "id": "r2l_d2_1",
+                "q": "When is the swimming class?",
+                "options": [
+                  "Monday and Wednesday nights",
+                  "Tuesday and Thursday mornings",
+                  "Friday evenings",
+                  "Daily at 7:00 a.m."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_d2_2",
+                "q": "What must people do before a spin class?",
+                "options": [
+                  "Pay $5 at the pool",
+                  "Bring their own bike",
+                  "Arrive by 5:30 p.m. sharp",
+                  "Sign up a day early"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_d2_3",
+                "q": "Who has to pay for classes?",
+                "options": [
+                  "People who are not members",
+                  "Students in the beginner class",
+                  "Everyone who does yoga",
+                  "Members without a towel"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Long ago, people in Europe made books by hand. A writer copied every page with a pen, so one book could take many months to finish. Books were very expensive, and only rich people owned them. In the 1450s, a man named Johannes Gutenberg built a printing press. It used small metal letters that could be moved and used again. With the press, workers could make hundreds of pages in one day. Soon, books became cheaper, and more people learned to read. Printing shops opened in many cities, and news traveled faster than before.",
+            "items": [
+              {
+                "id": "r2l_a1_1",
+                "q": "What is the passage mainly about?",
+                "options": [
+                  "How writers copied books by hand",
+                  "How printing changed books",
+                  "Why rich people liked books",
+                  "How to build a printing press"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_a1_2",
+                "q": "Why were books expensive before the printing press?",
+                "options": [
+                  "Metal letters cost a lot of money",
+                  "Writers charged too much",
+                  "Copying by hand was slow",
+                  "Printing shops were far away"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_a1_3",
+                "q": "What was special about the metal letters?",
+                "options": [
+                  "They could be used again",
+                  "They were made of gold",
+                  "They were very large",
+                  "They were hand-drawn"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_a1_4",
+                "q": "According to the passage, what happened after books became cheaper?",
+                "options": [
+                  "Fewer cities had printing shops",
+                  "Writers stopped using pens",
+                  "News traveled more slowly",
+                  "More people learned to read"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_a1_5",
+                "q": "The word 'finish' in the passage is closest in meaning to",
+                "options": [
+                  "start over",
+                  "sell",
+                  "read",
+                  "complete"
+                ],
+                "answer": 3
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "r2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Coastal cities face a difficult choice as sea levels rise. Engineers {have} traditionally {relied} on {rigid} barriers {such} as {seawalls}, yet {these} structures {are} costly {to} maintain {and} may {intensify} erosion along neighboring coasts. Increasingly, planners favor living shorelines of marsh and oyster reef that absorb wave energy instead of deflecting it."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "Marisol Vega, 3 hrs\n\nHuge thanks to everyone who came out to the Elmwood tree planting on Saturday! Despite the drizzle, 64 volunteers planted 120 young trees along Harper Avenue, which, as some of you know, recorded the highest street temperatures in the city last July. A quick note for those who signed up to water the new trees: the city has asked us to hold off until the soil dries out, probably not before Thursday. Watering schedules will go out by email, so there's no need to message me individually. And if you borrowed a shovel from the community center, please drop it off by Wednesday. They're short on tools for another event.",
+            "items": [
+              {
+                "id": "r2u_d1_1",
+                "q": "Why does Marisol mention Harper Avenue's temperatures last July?",
+                "options": [
+                  "To explain why the planting was postponed",
+                  "To warn volunteers about working in hot weather",
+                  "To suggest why that street was chosen for planting",
+                  "To compare this summer with last summer"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_d1_2",
+                "q": "What does Marisol ask the volunteers who will water the trees to do?",
+                "options": [
+                  "Start watering the trees right after the event",
+                  "Wait for an email rather than contact her",
+                  "Message her individually to get a watering schedule",
+                  "Return their shovels to her by Thursday"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "From: Helen Strand, Special Collections\nTo: Tomasz Wieczorek\nSubject: Re: Request to consult the 1493 Chronicle\n\nDear Mr. Wieczorek,\n\nThank you for your request. I'm afraid the 1493 Chronicle is currently being rebound and won't be available for consultation until early May, which I realize falls after your seminar deadline. In the meantime, two options may serve your purpose. Our digitized copy, which reproduces every page in high resolution, is freely accessible online; however, it does not show the binding or the watermarks you mentioned in your message. Alternatively, the Linden Library holds a second copy of the same edition. Their reading room requires an appointment made at least ten working days in advance, so I would encourage you to contact them soon if you choose that route. Should neither option suit you, I'd be happy to write to your supervisor in support of a request for an extension.\n\nKind regards,\nHelen Strand",
+            "items": [
+              {
+                "id": "r2u_d2_1",
+                "q": "What is the main purpose of the email?",
+                "options": [
+                  "To say a book is unavailable and offer options",
+                  "To ask Mr. Wieczorek to postpone his seminar",
+                  "To describe how rare books are rebound and stored",
+                  "To invite Mr. Wieczorek to view the digitized copy in person"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_d2_2",
+                "q": "What can be inferred about Mr. Wieczorek's research?",
+                "options": [
+                  "It focuses on the printed text rather than the book as an object",
+                  "It has already been approved for an extension",
+                  "It is being supervised by Helen Strand",
+                  "It requires examining physical features of the book"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_d2_3",
+                "q": "Why does Helen mention that the Linden Library requires appointments ten working days in advance?",
+                "options": [
+                  "To discourage him from visiting the Linden Library",
+                  "To urge him to act quickly if he wants that copy",
+                  "To explain why the Chronicle is being rebound",
+                  "To show that her own library's rules are less strict"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Forecasting Eruptions\n\nVolcanologists can rarely say exactly when a volcano will erupt, but they have become increasingly adept at recognizing the signs that one is restless. As magma ascends toward the surface, it fractures the surrounding rock, producing swarms of small earthquakes that seismometers can detect. The rising magma also releases dissolved gases, notably sulfur dioxide, whose concentration in the air above a vent often climbs in the weeks before an eruption. Meanwhile, satellite radar can register the swelling of a volcano's flanks by as little as a centimeter.\n\nYet these indicators are notoriously ambiguous. A volcano may display all of them and then subside without erupting, a phenomenon researchers call a failed eruption. Conversely, some eruptions have been preceded by only hours of detectable unrest. Because false alarms can erode public trust and impose heavy economic costs on evacuated communities, authorities are understandably reluctant to order evacuations on the basis of a single signal. Forecasters have therefore shifted from seeking a decisive warning sign toward probabilistic statements, estimating the likelihood of an eruption within a given period and revising that estimate as data accumulate.",
+            "items": [
+              {
+                "id": "r2u_a1_1",
+                "q": "The word 'adept' in the passage is closest in meaning to",
+                "options": [
+                  "cautious",
+                  "quick",
+                  "interested",
+                  "skilled"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_a1_2",
+                "q": "According to paragraph 1, which of the following is NOT mentioned as a sign that a volcano is restless?",
+                "options": [
+                  "A rise in the temperature of nearby lakes",
+                  "Earthquakes from fracturing rock",
+                  "Increasing levels of sulfur dioxide",
+                  "Swelling of the volcano's sides"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_a1_3",
+                "q": "Why does the author mention a 'failed eruption'?",
+                "options": [
+                  "To show that some volcanoes are no longer active",
+                  "To describe an eruption that caused little damage",
+                  "To show that warning signs are not always reliable",
+                  "To criticize scientists who misread seismic data"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_a1_4",
+                "q": "What can be inferred about the authorities' attitude toward evacuations?",
+                "options": [
+                  "They evacuate communities whenever any warning sign appears",
+                  "They balance false-alarm costs against eruption risk",
+                  "They base their decisions mainly on satellite radar",
+                  "They consider economic costs less important than public trust"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_a1_5",
+                "q": "Which of the following best describes the shift mentioned in the last sentence?",
+                "options": [
+                  "Forecasters now ignore the early signs of unrest",
+                  "Forecasters search for one decisive warning sign",
+                  "Forecasters give updated odds of an eruption",
+                  "Forecasters have stopped advising authorities on evacuations"
+                ],
+                "answer": 2
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "listening": {
+    "stage1": {
+      "id": "l1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "choose",
+          "title": "Listen and Choose a Response",
+          "items": [
+            {
+              "id": "l1_c1",
+              "audio": "l_c1",
+              "q": "Choose the best response.",
+              "options": [
+                "On the hook by the desk.",
+                "I'll leave around five today.",
+                "Yes, the room is open now.",
+                "Because I couldn't find them."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c2",
+              "audio": "l_c2",
+              "q": "Choose the best response.",
+              "options": [
+                "Thursday is fine with me.",
+                "I'm on the last chapter now.",
+                "No, I've already read it.",
+                "She reads faster than I do."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c3",
+              "audio": "l_c3",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I would.",
+                "I met her at the café.",
+                "I'd rather have tea.",
+                "Either is fine."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c4",
+              "audio": "l_c4",
+              "q": "Choose the best response.",
+              "options": [
+                "I printed it yesterday afternoon.",
+                "Let's use the lobby one, then.",
+                "The third floor is closed.",
+                "I'll take the stairs instead."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c5",
+              "audio": "l_c5",
+              "q": "Choose the best response.",
+              "options": [
+                "I'll move it there myself.",
+                "Friday's better for me.",
+                "Not that I've heard.",
+                "It was a great seminar."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c6",
+              "audio": "l_c6",
+              "q": "Choose the best response.",
+              "options": [
+                "Apparently they moved it up.",
+                "I'll think about it over the weekend.",
+                "Yes, the ship leaves next week.",
+                "No, I didn't apply last year."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c7",
+              "audio": "l_c7",
+              "q": "Choose the best response.",
+              "options": [
+                "I've never been charged for that.",
+                "Yes, it happened yesterday.",
+                "Spare me the details.",
+                "Sorry, I left mine at home."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c8",
+              "audio": "l_c8",
+              "q": "Choose the best response.",
+              "options": [
+                "I believe it closes at six.",
+                "Then let's go right after six.",
+                "That's when classes let out.",
+                "Yes, it gets cold after six."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c9",
+              "audio": "l_c9",
+              "q": "Choose the best response.",
+              "options": [
+                "The water was shut off tomorrow.",
+                "I assumed the building manager had.",
+                "Yes, they've told me already.",
+                "I shouldn't drink so much water."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c10",
+              "audio": "l_c10",
+              "q": "Choose the best response.",
+              "options": [
+                "You should have rushed, then.",
+                "The recording starts at noon.",
+                "I didn't know you recorded it.",
+                "Well, at least you got a good seat."
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv1",
+          "items": [
+            {
+              "id": "l1_v1_1",
+              "q": "Why does the student go to the Rec Center?",
+              "options": [
+                "She would like to become a personal trainer",
+                "She was charged twice for the same program",
+                "A schedule conflict with her program",
+                "She wants to find out when choir practice is held"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_v1_2",
+              "q": "Why can't the student get a refund?",
+              "options": [
+                "The program has already started",
+                "She signed up after the deadline",
+                "Refunds are given only to full members",
+                "The trainer must approve refunds"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_v1_3",
+              "q": "What will the student most likely do?",
+              "options": [
+                "Join the Monday and Wednesday evening group",
+                "Drop the program and ask for a refund later",
+                "Change her chemistry lab to a different day",
+                "Email the trainer about mixing groups"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv2",
+          "items": [
+            {
+              "id": "l1_v2_1",
+              "q": "What problem does the student have?",
+              "options": [
+                "He cannot find any sources about early newspapers",
+                "Many of his sources are in languages he does not read well",
+                "He missed the deadline for choosing a topic",
+                "His German class clashes with office hours"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_v2_2",
+              "q": "Why does the professor mention that English newspapers of the 1620s were often translations?",
+              "options": [
+                "To show that Dutch newspapers were more reliable",
+                "To explain why the student should learn Dutch",
+                "To criticize the work of English printers",
+                "To propose a narrower, manageable topic"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_v2_3",
+              "q": "What does the professor imply about the new topic?",
+              "options": [
+                "It would require only a little Dutch",
+                "It has not been studied by other scholars",
+                "It would require a trip to archives in Europe",
+                "It is too narrow for a term paper"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann1",
+          "items": [
+            {
+              "id": "l1_n1_1",
+              "q": "What is the announcement mainly about?",
+              "options": [
+                "The opening of a new section of Barlow Library",
+                "Changes to the health center's regular hours",
+                "The university's response to extreme heat",
+                "The cancellation of this season's intramural games"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_n1_2",
+              "q": "What does the speaker say about this afternoon's intramural games?",
+              "options": [
+                "They will be moved indoors",
+                "They will be played on a later date",
+                "They have been cancelled",
+                "Captains must email the office"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann2",
+          "items": [
+            {
+              "id": "l1_n2_1",
+              "q": "Why has the date of the field trip changed?",
+              "options": [
+                "The museum has a private event that weekend",
+                "Many students have classes on Saturday mornings",
+                "The museum is closed on Fridays",
+                "The professor has a schedule conflict that day"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_n2_2",
+              "q": "What does the professor ask students to do before the trip?",
+              "options": [
+                "Tell him about Friday classes",
+                "Arrive at the museum by nine",
+                "Complete an alternative assignment",
+                "Read the exhibit guide he posted"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk1",
+          "items": [
+            {
+              "id": "l1_t1_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "How volcanologists measure lava flows",
+                "Why some eruptions are more violent",
+                "How the volcanoes of Hawaii formed",
+                "Why groundwater makes eruptions more dangerous"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t1_2",
+              "q": "Why does the professor mention a bottle of soda?",
+              "options": [
+                "To explain how silica forms in magma",
+                "To show how quickly lava can flow",
+                "To show how trapped gas builds pressure",
+                "To suggest that gas content is unimportant"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_t1_3",
+              "q": "What does the professor say about the amount of gas in magma?",
+              "options": [
+                "It matters, but so does how easily gas escapes",
+                "It is the main factor that decides how a volcano erupts",
+                "It is usually higher in runny magma than in thick magma",
+                "It can be measured only after an eruption"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t1_4",
+              "q": "What will the professor probably discuss next?",
+              "options": [
+                "Safe ways to observe lava flows",
+                "The history of eruptions in Hawaii",
+                "Methods for measuring silica content",
+                "Magma meeting groundwater"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk2",
+          "items": [
+            {
+              "id": "l1_t2_1",
+              "q": "What is the main purpose of the talk?",
+              "options": [
+                "To compare English and Iroquois grammar",
+                "To describe marriage ceremonies",
+                "To show that kinship terms can reflect social rules",
+                "To explain where the word 'cousin' comes from"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_t2_2",
+              "q": "Why does the professor mention the English word 'cousin'?",
+              "options": [
+                "To contrast a simple system with a finer one",
+                "To show that English has more kinship terms than other languages",
+                "To give an example of the Iroquois system",
+                "To argue that English speakers once had marriage rules"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t2_3",
+              "q": "In the Iroquois system, how does a person refer to the child of his or her mother's sister?",
+              "options": [
+                "With the word for 'cousin'",
+                "With the term for a brother or sister",
+                "With the term used for a possible spouse",
+                "With no special term at all"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t2_4",
+              "q": "What is the professor's attitude toward the marriage-rule explanation?",
+              "options": [
+                "She thinks it has been fully disproved",
+                "She thinks it is clearly correct",
+                "She has no clear opinion about it either way",
+                "She finds it useful but incomplete"
+              ],
+              "answer": 3
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "l2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2l_c1",
+                "audio": "l_c11",
+                "q": "Choose the best response.",
+                "options": [
+                  "At seven, I think.",
+                  "It's by the gym.",
+                  "Yes, it's open.",
+                  "I swam yesterday."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c2",
+                "audio": "l_c12",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's a minute past ten.",
+                  "Sure, here you go.",
+                  "I bought it last week.",
+                  "No, I don't write."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c3",
+                "audio": "l_c13",
+                "q": "Choose the best response.",
+                "options": [
+                  "Every weekend, usually.",
+                  "Next Saturday, probably.",
+                  "Really relaxing.",
+                  "I'll be there at noon."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_c4",
+                "audio": "l_c14",
+                "q": "Choose the best response.",
+                "options": [
+                  "No, go ahead.",
+                  "I took it last time.",
+                  "Yes, I'd love a seat.",
+                  "It's on the table."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c5",
+                "audio": "l_c15",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, it's my new winter coat.",
+                  "It was warm yesterday.",
+                  "I wear a medium.",
+                  "I didn't check the weather."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_c6",
+                "audio": "l_c16",
+                "q": "Choose the best response.",
+                "options": [
+                  "I'll do it yesterday.",
+                  "Almost. One question left.",
+                  "Yes, it's homework.",
+                  "The teacher did it for us."
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv3",
+            "items": [
+              {
+                "id": "l2l_v1_1",
+                "q": "What problem does the man have?",
+                "options": [
+                  "He lost his driver's license",
+                  "The gym is closed today",
+                  "He forgot his student card",
+                  "His name is not in the system"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_v1_2",
+                "q": "What does the woman tell the man?",
+                "options": [
+                  "He must pay a small fee",
+                  "He can enter without ID anytime",
+                  "He should sign a form",
+                  "He should bring his card next time"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv4",
+            "items": [
+              {
+                "id": "l2l_v2_1",
+                "q": "Why did the man think he could not go to the lecture?",
+                "options": [
+                  "He thought the tickets were too expensive",
+                  "He thought it started too early",
+                  "He forgot his student card",
+                  "He is not interested in volcanoes"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_v2_2",
+                "q": "What does the man need to bring?",
+                "options": [
+                  "A printed ticket",
+                  "Some money",
+                  "A friend",
+                  "His student card"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann3",
+            "items": [
+              {
+                "id": "l2l_n1_1",
+                "q": "Why is the market closing early?",
+                "options": [
+                  "A storm is coming",
+                  "The café is being repaired",
+                  "There are not enough workers",
+                  "It is a holiday"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_n1_2",
+                "q": "What is already closed?",
+                "options": [
+                  "The parking lot",
+                  "The bakery counter",
+                  "The café",
+                  "The whole market"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_n1_3",
+                "q": "When can customers pick up their cake orders?",
+                "options": [
+                  "This evening",
+                  "At five p.m. today",
+                  "Next week",
+                  "Tomorrow morning"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk3",
+            "items": [
+              {
+                "id": "l2l_t1_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How to grow vegetables on a roof",
+                  "Why dark roofs are popular",
+                  "How green roofs help cities",
+                  "How air conditioning works"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_t1_2",
+                "q": "How do green roofs help when it rains hard?",
+                "options": [
+                  "The soil holds some of the water",
+                  "The plants push water away",
+                  "The roof becomes darker",
+                  "The rain makes the roof cooler"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_t1_3",
+                "q": "What does the speaker say about the cost of green roofs?",
+                "options": [
+                  "They are cheaper than normal roofs",
+                  "They cost more than normal roofs",
+                  "They cost the same as normal roofs",
+                  "They are free to build"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk4",
+            "items": [
+              {
+                "id": "l2l_t2_1",
+                "q": "What is an extended family?",
+                "options": [
+                  "A family with only parents and children",
+                  "A family that lives in a city",
+                  "A family that moves often",
+                  "A family that includes many relatives"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_t2_2",
+                "q": "What do older people often do in an extended family?",
+                "options": [
+                  "Work in the city",
+                  "Build new houses for the family",
+                  "Care for the children",
+                  "Move to small homes"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_t2_3",
+                "q": "Why do many people now live in small families?",
+                "options": [
+                  "They move to cities for jobs",
+                  "Houses are too big",
+                  "Children leave school early",
+                  "Grandparents prefer it"
+                ],
+                "answer": 0
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "l2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2u_c1",
+                "audio": "l_c17",
+                "q": "Choose the best response.",
+                "options": [
+                  "I signed it at the front desk.",
+                  "I wasn't sure I could keep up.",
+                  "The advanced section was surprising.",
+                  "Yes, I'll sign up yesterday."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_c2",
+                "audio": "l_c18",
+                "q": "Choose the best response.",
+                "options": [
+                  "It stands right next to the committee room.",
+                  "The committee meets every Tuesday.",
+                  "I'll propose it to them myself.",
+                  "Not without a few revisions, I'd imagine."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_c3",
+                "audio": "l_c19",
+                "q": "Choose the best response.",
+                "options": [
+                  "I'll post the letter tomorrow.",
+                  "The results were surprising.",
+                  "Dr. Sato says they're delayed.",
+                  "No, I'm not supposed to."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_c4",
+                "audio": "l_c20",
+                "q": "Choose the best response.",
+                "options": [
+                  "I'll mention it to nobody.",
+                  "The movie was this weekend.",
+                  "I'll help next time.",
+                  "Don't worry, we managed fine."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_c5",
+                "audio": "l_c21",
+                "q": "Choose the best response.",
+                "options": [
+                  "I checked out two books.",
+                  "Why? Did something look off?",
+                  "The figures are in it.",
+                  "I double-booked the room."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_c6",
+                "audio": "l_c22",
+                "q": "Choose the best response.",
+                "options": [
+                  "What's holding things up?",
+                  "Yes, I finished it early.",
+                  "That's too much for me.",
+                  "It's so early today."
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv5",
+            "items": [
+              {
+                "id": "l2u_v1_1",
+                "q": "What is the conversation mainly about?",
+                "options": [
+                  "The student's research design",
+                  "A disagreement within the student's family",
+                  "How to use group chats in a course",
+                  "A wedding that the student plans to attend"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_v1_2",
+                "q": "Why does the professor mention an aunt being removed from the chat?",
+                "options": [
+                  "To give an example of a finding he expects the student to report",
+                  "To suggest that the student interview her aunt first",
+                  "To warn that her findings could strain family ties",
+                  "To criticize the way the student's family behaves"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_v1_3",
+                "q": "What is the professor's view of studying one's own relatives?",
+                "options": [
+                  "It should generally be avoided",
+                  "It gives the most reliable data",
+                  "It is not permitted by the university",
+                  "It helps but also creates problems"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_v1_4",
+                "q": "What does the professor suggest to keep the project manageable?",
+                "options": [
+                  "Studying only the student's own family",
+                  "Analyzing messages from a shorter period",
+                  "Collecting consent forms after the study",
+                  "Working with another student"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann4",
+            "items": [
+              {
+                "id": "l2u_n1_1",
+                "q": "What new information does the announcement give?",
+                "options": [
+                  "The pool will close on April first for repairs",
+                  "Spring pool passes will no longer be sold this year",
+                  "The closure will last longer than planned",
+                  "The filtration system has already been repaired"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_n1_2",
+                "q": "What do holders of a spring-only pool pass need to do?",
+                "options": [
+                  "Nothing; refunds are automatic",
+                  "Log in to their account before March twentieth",
+                  "Choose between a refund and guest passes",
+                  "Contact the contractor directly"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_n1_3",
+                "q": "What will happen if an annual member does not log in by March twentieth?",
+                "options": [
+                  "The member will receive free guest passes",
+                  "The membership will be cancelled",
+                  "The member will lose the right to a refund",
+                  "The member will get a partial refund"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk5",
+            "items": [
+              {
+                "id": "l2u_t1_1",
+                "q": "What is the main point of the talk?",
+                "options": [
+                  "Gutenberg was the first person to invent movable type",
+                  "Movable type's value depended on script and cost",
+                  "Chinese printers lacked the skills to use movable type",
+                  "Woodblock printing was invented in Korea"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_t1_2",
+                "q": "Why does the professor mention that woodblocks could be stored and used again?",
+                "options": [
+                  "To note one benefit of woodblocks",
+                  "To show that woodblocks wore out quickly",
+                  "To describe how European presses were operated",
+                  "To argue that storing blocks was too expensive"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_t1_3",
+                "q": "What does the professor imply about the view that Chinese printing was backward?",
+                "options": [
+                  "It is supported by the example of Korean printers",
+                  "It explains why movable type was invented in China",
+                  "It ignores why publishers preferred woodblocks",
+                  "It is accepted by most historians today"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk6",
+            "items": [
+              {
+                "id": "l2u_t2_1",
+                "q": "According to the professor, what is the main weakness of gray infrastructure?",
+                "options": [
+                  "It requires too much open land in city centers",
+                  "It slows rainwater down too much during storms",
+                  "It was built for milder storms than today's",
+                  "It cannot be built in dense city centers"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_t2_2",
+                "q": "Why does the professor mention public squares in Copenhagen?",
+                "options": [
+                  "To show spaces built to flood temporarily",
+                  "To show that sports facilities are often damaged by floods",
+                  "To argue that plazas should replace parks",
+                  "To describe a city that has removed its drainage pipes"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_t2_3",
+                "q": "What is the professor's view of sponge city features?",
+                "options": [
+                  "They should replace pipes",
+                  "They work best alongside conventional drainage",
+                  "They are too hard to maintain",
+                  "They suit dense centers best"
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "writing": {
+    "build": {
+      "title": "Build a Sentence",
+      "instructions": "Arrange the words to build a correct sentence. One box may not be needed.",
+      "items": [
+        {
+          "id": "w_b1",
+          "context": "I can't find the schedule for the spin classes.",
+          "chunks": [
+            "know",
+            "it",
+            "do",
+            "is",
+            "where",
+            "you",
+            "posted"
+          ],
+          "answer": "do you know where it is posted",
+          "after": "?"
+        },
+        {
+          "id": "w_b2",
+          "context": "What did you think of the guest lecture?",
+          "before": "The",
+          "after": "really clear.",
+          "chunks": [
+            "kinship systems",
+            "who",
+            "was",
+            "speaker",
+            "explained",
+            "were",
+            "the"
+          ],
+          "answer": "speaker who explained the kinship systems was"
+        },
+        {
+          "id": "w_b3",
+          "context": "The fitness center is closing early tonight.",
+          "chunks": [
+            "what",
+            "you",
+            "it",
+            "time",
+            "tell",
+            "closes",
+            "can",
+            "me"
+          ],
+          "answer": "can you tell me what time it closes",
+          "after": "?"
+        },
+        {
+          "id": "w_b4",
+          "context": "Why is the main road closed?",
+          "before": "It",
+          "after": ".",
+          "chunks": [
+            "the heat",
+            "repaired",
+            "is",
+            "damaged it",
+            "been",
+            "because",
+            "being"
+          ],
+          "answer": "is being repaired because the heat damaged it"
+        },
+        {
+          "id": "w_b5",
+          "context": "Have you heard back about the internship?",
+          "before": "No,",
+          "after": ".",
+          "chunks": [
+            "not",
+            "yet",
+            "they",
+            "did",
+            "contacted",
+            "me",
+            "have"
+          ],
+          "answer": "they have not contacted me yet",
+          "alts": [
+            "they have not yet contacted me"
+          ]
+        },
+        {
+          "id": "w_b6",
+          "context": "I heard the field trip to the volcano was cancelled.",
+          "chunks": [
+            "why",
+            "anyone",
+            "it",
+            "does",
+            "cancelled",
+            "know",
+            "was"
+          ],
+          "answer": "does anyone know why it was cancelled",
+          "after": "?"
+        },
+        {
+          "id": "w_b7",
+          "context": "What did your advisor say about your schedule?",
+          "before": "She",
+          "after": ".",
+          "chunks": [
+            "I",
+            "fewer",
+            "suggested",
+            "should",
+            "courses",
+            "that",
+            "take"
+          ],
+          "answer": "suggested that I should take fewer courses",
+          "alts": [
+            "suggested that I take fewer courses",
+            "suggested I should take fewer courses"
+          ]
+        },
+        {
+          "id": "w_b8",
+          "context": "Why are you reading about early newspapers?",
+          "before": "I'm",
+          "after": ".",
+          "chunks": [
+            "spread",
+            "how",
+            "used to",
+            "spreads",
+            "trying to",
+            "news",
+            "find out"
+          ],
+          "answer": "trying to find out how news used to spread"
+        },
+        {
+          "id": "w_b9",
+          "context": "Is the new climate report available yet?",
+          "before": "It",
+          "after": "next month.",
+          "chunks": [
+            "until",
+            "isn't",
+            "be",
+            "published",
+            "won't"
+          ],
+          "answer": "won't be published until"
+        },
+        {
+          "id": "w_b10",
+          "context": "Why did you stop going to the morning yoga class?",
+          "before": "I",
+          "after": ".",
+          "chunks": [
+            "easier",
+            "it",
+            "in the evening",
+            "realized",
+            "be",
+            "to go",
+            "would",
+            "that"
+          ],
+          "answer": "realized that it would be easier to go in the evening",
+          "alts": [
+            "realized it would be easier to go in the evening"
+          ]
+        }
+      ]
+    },
+    "email": {
+      "title": "Write an Email",
+      "to": "Ms. Alvarez",
+      "subject": "Cancelled evening class",
+      "prompt": "You recently joined your university's fitness center and paid for a semester membership that includes group classes. You chose this membership mainly for one evening class. However, that class has now been cancelled for the rest of the term, and the staff at the front desk could not answer your questions.\n\nWrite an email to the fitness center manager, Ms. Alvarez. In your email, do the following:\n- Explain why you chose this membership.\n- Describe the problem you have experienced.\n- Ask what options are available to you.\n\nUse full sentences, and write as much as you can.",
+      "rubric": "Task: polite complaint and request email to a manager. Must cover all 3 bullets: (1) reason for choosing the membership (the evening class, schedule, cost, etc.), (2) clear description of the problem (class cancelled, front desk could not help), (3) a specific question about options (refund, transfer, other class, partial credit). Look for appropriate register (polite, firm, not rude), greeting and sign-off, logical order, accurate grammar, varied and precise vocabulary. Typical strong length 100-150 words."
+    },
+    "discussion": {
+      "title": "Write for an Academic Discussion",
+      "prompt": "Your professor is teaching a class on urban planning. Post a reply to the professor's question. In your reply, do these two things.\n- State your view and back it up.\n- Add something new to the thread, in your own words.\nAim for at least 100 words.",
+      "professor": {
+        "name": "Dr. Lindqvist",
+        "text": "As summers become hotter and storms stronger, cities must decide how to spend limited money on adapting to climate change. Some planners argue that cities should invest mainly in large engineering projects, such as sea walls and bigger drainage systems, because these protect many people at once. Others argue that the money is better spent on many small, local measures, such as planting street trees, building green roofs and opening cooling centers in neighborhoods. Which approach should cities give priority to, and why?"
+      },
+      "students": [
+        {
+          "name": "Hana",
+          "text": "I think large projects should come first. A single flood can destroy thousands of homes, and trees or green roofs cannot stop a storm surge. Small measures are nice, but they are not enough when the danger is serious."
+        },
+        {
+          "name": "Mateo",
+          "text": "I prefer small local measures. Big projects take decades to plan and build, while trees and cooling centers help people this summer. They also spread the benefits across many neighborhoods instead of only the areas near the coast."
+        }
+      ],
+      "rubric": "Task: academic discussion post, 100+ words. Look for a clear opinion on which approach to prioritize, specific reasons or examples (cost, speed, scale of risk, fairness between neighborhoods), engagement with Hana's or Mateo's point that adds something new rather than repeating it, coherence, and varied accurate grammar and vocabulary."
+    }
+  },
+  "speaking": {
+    "repeat": {
+      "title": "Listen and Repeat",
+      "instructions": "Listen to each sentence once. After the beep, repeat it exactly as you heard it. No preparation time.",
+      "context": "You are training to work at the front desk of a university fitness center. Listen to your supervisor and repeat what she says. You hear each sentence one time.",
+      "maxSeconds": 14,
+      "items": [
+        {
+          "id": "sp_r1",
+          "audio": "sp_r1",
+          "text": "Welcome to the fitness center."
+        },
+        {
+          "id": "sp_r2",
+          "audio": "sp_r2",
+          "text": "Please scan your card at the front desk."
+        },
+        {
+          "id": "sp_r3",
+          "audio": "sp_r3",
+          "text": "Lockers are free, but you need to bring your own lock."
+        },
+        {
+          "id": "sp_r4",
+          "audio": "sp_r4",
+          "text": "Towels can be borrowed from the counter near the pool."
+        },
+        {
+          "id": "sp_r5",
+          "audio": "sp_r5",
+          "text": "If a machine is broken, put a sign on it and tell a staff member."
+        },
+        {
+          "id": "sp_r6",
+          "audio": "sp_r6",
+          "text": "Group classes fill up quickly, so members should reserve a place at least a day in advance."
+        },
+        {
+          "id": "sp_r7",
+          "audio": "sp_r7",
+          "text": "Anyone who hasn't finished the orientation can't use the climbing wall until a trainer signs their form."
+        }
+      ]
+    },
+    "interview": {
+      "title": "Take an Interview",
+      "instructions": "An interviewer will ask you four questions. There is no preparation time. You have 45 seconds to answer each question.",
+      "context": "You are joining a research study about reading habits. A researcher will ask you some questions in a short online interview.",
+      "maxSeconds": 45,
+      "items": [
+        {
+          "id": "sp_i1",
+          "audio": "sp_i1",
+          "text": "Thank you for joining this study about how people read. To begin, could you tell me what kinds of things you usually read in a typical week?"
+        },
+        {
+          "id": "sp_i2",
+          "audio": "sp_i2",
+          "text": "Some people prefer printed books, while others prefer reading on a screen. Which do you prefer, and why?"
+        },
+        {
+          "id": "sp_i3",
+          "audio": "sp_i3",
+          "text": "Some people believe that reading on screens has made it harder for people to concentrate on long texts. Do you agree or disagree? Please explain."
+        },
+        {
+          "id": "sp_i4",
+          "audio": "sp_i4",
+          "text": "Let me ask one last question. Some libraries are reducing their collections of printed books to create more space for computers and group study. Do you think this is a good decision? Why or why not?"
+        }
+      ]
+    }
+  }
+}

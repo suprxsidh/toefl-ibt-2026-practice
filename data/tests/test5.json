@@ -1,0 +1,2204 @@
+{
+  "id": "test5",
+  "title": "Practice Test 5",
+  "note": "Original content. Full-length test at real difficulty. Topics: pollinators, architecture history, memory, renewable materials, study abroad.",
+  "timings": {
+    "reading": {
+      "router": 20,
+      "lower": 9,
+      "upper": 9
+    },
+    "listening": {
+      "router": 18,
+      "lower": 7,
+      "upper": 11
+    },
+    "writing": {
+      "build": 6,
+      "email": 7,
+      "discussion": 10
+    },
+    "speaking": 8
+  },
+  "audio": {
+    "l_c1": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Where can I drop off my application?"
+        }
+      ]
+    },
+    "l_c2": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Didn't you say you'd been to Portugal before?"
+        }
+      ]
+    },
+    "l_c3": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Who's in charge of the garden project this year?"
+        }
+      ]
+    },
+    "l_c4": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Would you rather meet before or after the lecture?"
+        }
+      ]
+    },
+    "l_c5": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "I can't find the memory chapter in the reading packet."
+        }
+      ]
+    },
+    "l_c6": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Are the photos from the museum trip up yet?"
+        }
+      ]
+    },
+    "l_c7": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Shouldn't we have heard back about the scholarship by now?"
+        }
+      ]
+    },
+    "l_c8": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "How long does it take to get a student visa?"
+        }
+      ]
+    },
+    "l_c9": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "I wasn't expecting so many people at the workshop."
+        }
+      ]
+    },
+    "l_c10": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Mind if I take this chair?"
+        }
+      ]
+    },
+    "l_conv1": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Hi. I'm interested in the semester program in Seoul, but I've never studied Korean. Is that a problem?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Not for that program. Most courses there are taught in English. You would take one Korean language class, though. That's required for everyone."
+        },
+        {
+          "v": "Puck",
+          "t": "OK. What about credits? I don't want to fall behind in my major."
+        },
+        {
+          "v": "Aoede",
+          "t": "What's your major?"
+        },
+        {
+          "v": "Puck",
+          "t": "Economics."
+        },
+        {
+          "v": "Aoede",
+          "t": "Then you're in luck. Two of the economics courses in Seoul have already been approved by your department. You'd want to check the third one with your academic advisor."
+        },
+        {
+          "v": "Puck",
+          "t": "Great. I'll email her today."
+        }
+      ]
+    },
+    "l_conv2": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Are you going to the bee count on Saturday morning? Professor Reyes said it counts as extra credit."
+        },
+        {
+          "v": "Charon",
+          "t": "I'd like to, but I promised to help my roommate move."
+        },
+        {
+          "v": "Leda",
+          "t": "Oh. Well, it runs until noon. You could come once you're done."
+        },
+        {
+          "v": "Charon",
+          "t": "Maybe. But honestly, after carrying a sofa up four flights of stairs, I won't be in much shape to chase bees."
+        },
+        {
+          "v": "Leda",
+          "t": "You don't chase them. You sit next to a flower patch for ten minutes with a clipboard and count."
+        },
+        {
+          "v": "Charon",
+          "t": "Huh. That sounds more like my speed. Text me where you'll be."
+        }
+      ]
+    },
+    "l_conv3": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Hi. I'm writing a paper on the old train station downtown, and I was hoping to see the original drawings."
+        },
+        {
+          "v": "Kore",
+          "t": "Those are in our special collections. You can't check them out, but you can look at them in the reading room."
+        },
+        {
+          "v": "Fenrir",
+          "t": "Can I take photos?"
+        },
+        {
+          "v": "Kore",
+          "t": "Yes, as long as you don't use flash. The paper is over a hundred years old and fades easily."
+        },
+        {
+          "v": "Fenrir",
+          "t": "Understood. Do I need an appointment?"
+        },
+        {
+          "v": "Kore",
+          "t": "For architectural drawings, yes, because they're stored off-site. It takes us two working days to bring them in."
+        },
+        {
+          "v": "Fenrir",
+          "t": "My draft is due Friday. If I book now, could I see them Thursday?"
+        },
+        {
+          "v": "Kore",
+          "t": "Let me check. Yes, Thursday morning is open."
+        }
+      ]
+    },
+    "l_ann1": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Attention, students. The annual Study Abroad Fair will take place this Wednesday from eleven to three in the Student Union ballroom. More than forty programs will have tables, and returning students will be there to answer questions about daily life overseas. If you're thinking about going abroad next year, this is the best place to start. Please note that financial aid advisors will be available only from one to three, so plan to come in the afternoon if you have questions about funding."
+        }
+      ]
+    },
+    "l_ann2": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Before we start, a change to the schedule. The memory experiment we were going to run in class on Thursday will now be done online, so you can take part from anywhere. You'll receive a link on Wednesday night, and it will stay open for forty-eight hours. Please complete it alone and in a quiet place, because background noise affects the results. And please don't discuss the word lists with classmates until everyone has finished. We'll analyze the class data together next Tuesday."
+        }
+      ]
+    },
+    "l_talk1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Today I want to talk about why some plants depend on just one kind of pollinator, while others accept almost any visitor. Let's start with the generalists. A plant like clover has open flowers with nectar that's easy to reach. Bees, flies, butterflies, even beetles can feed on it, and in the process they carry its pollen. The advantage is obvious: if one pollinator becomes rare, there are plenty of others. So why would any plant specialize? Well, think about it from the plant's point of view. When a bee visits clover, then a daisy, then a dandelion, much of the clover pollen it carries ends up on the wrong flowers. It's wasted. A specialist plant avoids that problem. Some orchids, for instance, have flowers shaped so that only one species of bee can get inside. That bee tends to visit the same kind of orchid again and again, so the pollen is delivered efficiently. The cost, of course, is risk. If that one bee species declines, the orchid has no backup. And this is what makes specialist relationships a concern for conservation. When we count pollinators and see that the total numbers are stable, we might conclude that everything is fine. But a stable total can hide the loss of a few specialist species, and with them, the plants that depend on them."
+        }
+      ]
+    },
+    "l_talk2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Welcome back to the podcast. If you've ever looked at older skyscrapers in New York and wondered why so many of them step back as they rise, like a wedding cake, the answer isn't really about style. It's about a law. In the early twentieth century, towers were going up straight from the edge of the sidewalk, and residents complained that the streets below were turning into dark canyons. After one especially massive office building blocked the light from its neighbors, the city passed a zoning law in 1916. The rule said, basically, that above a certain height, a building had to step back from the street, so that sunlight could still reach the ground. Now, here's what's interesting. Architects didn't treat this as a limit on creativity. They treated it as a design challenge. Some of them made drawings showing the largest building the law would allow, and those drawings, with their dramatic stepped outlines, became a style in their own right. Buildings designed in the following decades often exaggerated the setbacks, even where the law didn't strictly require them. The law was eventually replaced in 1961 with a different approach, one that allowed straight towers if developers left open space at the base. That's why you see so many plazas in front of buildings from that era. So, two very different skylines, and both shaped as much by rules as by architects."
+        }
+      ]
+    },
+    "l_c11": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Where is the bus stop?"
+        }
+      ]
+    },
+    "l_c12": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "When does your flight leave?"
+        }
+      ]
+    },
+    "l_c13": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Can I borrow your pen?"
+        }
+      ]
+    },
+    "l_c14": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Do you like the new apartment?"
+        }
+      ]
+    },
+    "l_c15": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Who made this cake?"
+        }
+      ]
+    },
+    "l_c16": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Would you like to sit by the window?"
+        }
+      ]
+    },
+    "l_conv4": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "I want to plant some flowers on my balcony. Which ones do bees like?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "Lavender is a good choice. Bees love it, and it smells nice."
+        },
+        {
+          "v": "Puck",
+          "t": "Does it need a lot of water?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "No, not much. But it needs a lot of sun."
+        },
+        {
+          "v": "Puck",
+          "t": "My balcony gets sun all afternoon. I'll buy two."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Good idea. They're on sale this week, too."
+        }
+      ]
+    },
+    "l_conv5": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Hello, Study Abroad Office. How can I help you?"
+        },
+        {
+          "v": "Charon",
+          "t": "Hi. I want to talk to an advisor about the summer program in Italy."
+        },
+        {
+          "v": "Kore",
+          "t": "Sure. The advisors are busy right now, but you can make an appointment. Is tomorrow at ten OK?"
+        },
+        {
+          "v": "Charon",
+          "t": "I have class at ten. Is there anything in the afternoon?"
+        },
+        {
+          "v": "Kore",
+          "t": "Yes, at two o'clock."
+        },
+        {
+          "v": "Charon",
+          "t": "Perfect. Thank you."
+        }
+      ]
+    },
+    "l_ann3": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Good morning, everyone, and welcome to the Old Town walking tour. Today we will visit five historic buildings, including the city hall and the old library. The tour takes about two hours. Please stay with the group, and don't cross the street until I say so. We will stop for twenty minutes at a cafe near the river, where you can buy drinks and use the restroom. If you have any questions, please ask me at any time."
+        }
+      ]
+    },
+    "l_talk3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Have you ever studied late at night and then forgotten everything the next day? Sleep is very important for memory. During the day, your brain takes in a lot of new information. While you sleep, the brain sorts this information. It keeps the important parts and makes them stronger. In one study, students learned a list of words in the evening. Half of them slept for eight hours. The other half stayed awake. The next day, the students who slept remembered more words. So if you have a test, try to sleep well the night before. It can help more than studying for one more hour."
+        }
+      ]
+    },
+    "l_talk4": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Bamboo is a kind of grass, but some types grow as tall as trees. It is one of the fastest-growing plants on Earth. Some bamboo can grow almost one meter in a single day! Because it grows so fast, people can cut it again after only three to five years. A tree may need fifty years. Bamboo is also very strong, so in many Asian countries, people use it to build houses and bridges. Today, companies also make floors, furniture and even clothes from bamboo. However, bamboo must be treated, or insects will eat it."
+        }
+      ]
+    },
+    "l_c17": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "I don't suppose you've had a chance to look over my cover letter."
+        }
+      ]
+    },
+    "l_c18": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "The program fee doesn't include airfare, does it?"
+        }
+      ]
+    },
+    "l_c19": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Wasn't the architecture lecture supposed to be in the main hall?"
+        }
+      ]
+    },
+    "l_c20": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "I'd have finished the analysis if the server hadn't crashed."
+        }
+      ]
+    },
+    "l_c21": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Do you think the committee will approve the proposal as it stands?"
+        }
+      ]
+    },
+    "l_c22": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "I hear the dean is thinking of dropping the language requirement."
+        }
+      ]
+    },
+    "l_conv6": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Thanks for seeing me. I'm in Lisbon for the fall, and I'm thinking about staying for the spring too."
+        },
+        {
+          "v": "Zephyr",
+          "t": "That's great. Have you talked to the host university?"
+        },
+        {
+          "v": "Orus",
+          "t": "They said there's room, and my courses there would transfer. My question is really about money. My scholarship covers the fall."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Your scholarship is tied to enrollment here, so it should continue. But the travel grant you got is a one-time award. You wouldn't receive it again."
+        },
+        {
+          "v": "Orus",
+          "t": "I wasn't counting on the grant. It's mainly the scholarship I need."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Then the key thing is to file the extension form before November first. If it comes in after that, the scholarship office treats you as withdrawn for the spring, and getting it reinstated is a real headache."
+        },
+        {
+          "v": "Orus",
+          "t": "November first. Got it. Can I submit it online?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "You can, but email me when you do, so I can flag it for the scholarship office."
+        }
+      ]
+    },
+    "l_conv7": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Professor Grant, I wanted to ask about my results for the memory study."
+        },
+        {
+          "v": "Puck",
+          "t": "Sure. You were testing whether music helps people remember word lists, right?"
+        },
+        {
+          "v": "Kore",
+          "t": "Yes. The group that studied with music actually did better, which surprised me, because most of the papers we read said music is distracting."
+        },
+        {
+          "v": "Puck",
+          "t": "Interesting. How did you decide who was in each group?"
+        },
+        {
+          "v": "Kore",
+          "t": "Well, I let people choose. Some said they always study with music, so they joined that group."
+        },
+        {
+          "v": "Puck",
+          "t": "Ah. That might be your answer. If the music group is made up of people who are used to it, you're not really comparing music and silence. You're comparing two different kinds of students."
+        },
+        {
+          "v": "Kore",
+          "t": "So I should assign people randomly?"
+        },
+        {
+          "v": "Puck",
+          "t": "For the next round, yes. But don't throw out this data. Report it, and explain the limitation. That's honest, and it's good science."
+        }
+      ]
+    },
+    "l_ann4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Good afternoon. A reminder for all architecture students about the studio building. Starting next week, the building will be open twenty-four hours only from Sunday through Thursday. On Friday and Saturday nights, it will close at midnight, because the cleaning staff need access to the model shop. If you're in the middle of a project, please don't leave models or materials on the shop tables after ten p.m. on Fridays. Anything left there will be moved to the storage room, and we can't guarantee it won't be damaged. Your desks in the main studio won't be touched. Also, the laser cutter will be unavailable for maintenance next Tuesday, so if you have a deadline on Wednesday, plan ahead."
+        }
+      ]
+    },
+    "l_talk5": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Most research on memory looks backward. Can you recall a list of words? Do you remember what happened at a party last year? But a lot of everyday forgetting is about the future: forgetting to take medication, to send an email, to buy milk on the way home. Psychologists call this prospective memory, and it works rather differently. The key problem is that there's usually nobody to prompt you. In a normal memory test, someone asks a question, and you search for the answer. With prospective memory, you have to notice on your own that now is the moment to act, often while you're busy with something else. Researchers distinguish two kinds of tasks. Time-based tasks, like calling someone at three o'clock, are hard, because nothing in the environment signals the moment. Event-based tasks, like giving a message to a colleague when you see her, are usually easier, because the event itself acts as a cue. This suggests a practical strategy: turn time-based intentions into event-based ones. Instead of deciding to take a pill in the morning, you form a specific plan: when I put the coffee on, I'll take my pill. People who link an action to a specific situation like this carry out their intentions far more often than people who simply decide to remember."
+        }
+      ]
+    },
+    "l_talk6": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "I want to clear up a confusion that shows up constantly in discussions of green plastics. People use two terms as if they meant the same thing: bio-based and biodegradable. They don't. Bio-based describes where a material comes from. A bio-based plastic is made, at least partly, from plants, such as corn or sugarcane, rather than from oil. Biodegradable describes what happens at the end of a material's life: whether microorganisms can break it down. The two properties are independent. Some plastics made from sugarcane are chemically identical to ordinary oil-based plastic. They're bio-based, but they won't break down any faster than a regular bottle. Even the word biodegradable needs qualifying. Many biodegradable plastics break down only in industrial composting facilities, where temperatures stay around sixty degrees Celsius for weeks. In a backyard compost pile, or in the ocean, they may persist for years. So a cup labeled biodegradable that ends up in the sea may behave much like conventional plastic. None of this means bio-based materials are pointless. Growing the raw material absorbs carbon, and that's a real benefit. The point is that each label answers a different question."
+        }
+      ]
+    },
+    "sp_r1": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Welcome to the Study Abroad Office."
+        }
+      ]
+    },
+    "sp_r2": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Please sign in at the front desk."
+        }
+      ]
+    },
+    "sp_r3": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "An advisor will be with you in a few minutes."
+        }
+      ]
+    },
+    "sp_r4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Brochures for every program are on the shelves by the window."
+        }
+      ]
+    },
+    "sp_r5": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Remember to bring a copy of your passport to your first appointment."
+        }
+      ]
+    },
+    "sp_r6": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Students who apply before the end of October may be eligible for an early travel grant."
+        }
+      ]
+    },
+    "sp_r7": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Most programs are taught in English, but we strongly recommend taking a language course before you leave."
+        }
+      ]
+    },
+    "sp_i1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Thank you for taking part in this study about memory and everyday life. First, how do you usually remember the things you need to do each day, like appointments or tasks?"
+        }
+      ]
+    },
+    "sp_i2": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Some people say they remember information best by reading it, while others prefer listening, or doing something with their hands. How do you learn best? Please give an example."
+        }
+      ]
+    },
+    "sp_i3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Many people now rely on their phones to store information they used to memorize, such as phone numbers and directions. Do you think this has made people's memories worse? Why or why not?"
+        }
+      ]
+    },
+    "sp_i4": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Finally, some educators believe students should still memorize important facts, like dates and formulas. Others think that, in the age of the internet, schools should focus on teaching students how to find and evaluate information. Which view do you agree with, and why?"
+        }
+      ]
+    }
+  },
+  "reading": {
+    "stage1": {
+      "id": "r1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Many crops depend on animals to carry pollen from one flower to another. Bees {are} the best-known {pollinators}, but {moths}, birds {and} even bats {also} do this {work}. As {they} feed on {nectar}, pollen {sticks} to {their} bodies. Without these visitors, farmers would harvest far less fruit."
+        },
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Medieval builders faced a basic problem when they tried to make churches taller. Thick {walls} could {support} a heavy {stone} roof, {but} they left {little} room {for} windows. The {solution} was the flying buttress, an {external} arch {that} carried {the} weight outward and down to the ground. Freed from this load, the walls could be filled with glass."
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "OFFICE OF STUDY ABROAD: FALL INFORMATION SESSIONS\n\nSemester programs (Spain, Japan, Ghana): Tuesday, Sept. 9, 4:00-5:00 p.m., Room 210\nSummer programs (all locations): Thursday, Sept. 11, 12:00-1:00 p.m., online\nExchange programs for engineering majors: Monday, Sept. 15, 3:00-4:00 p.m., Room 210\n\nYou must attend one session before you can meet with an advisor. Applications for spring semester programs close October 1.",
+          "items": [
+            {
+              "id": "r1_d1_1",
+              "q": "Hana, a mechanical engineering major, wants to spend next summer in Japan. Which session should she attend?",
+              "options": [
+                "The Tuesday session in Room 210",
+                "The Monday session in Room 210",
+                "The Thursday online session",
+                "None, because she should see an advisor first"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_d1_2",
+              "q": "What must students do before meeting with an advisor?",
+              "options": [
+                "Attend one information session",
+                "Submit a completed spring semester application",
+                "Choose a program location and a host city",
+                "Reserve Room 210"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "TIMBERLINE HOME: SPRING CLEARANCE\n\nEvery table, shelf and bed frame in our showroom is made from reclaimed barn wood or fast-growing bamboo, so you can furnish your home without cutting down a single old-growth tree.\n\n- 25% off all bamboo pieces through April 30\n- Free delivery on orders over $400 within 20 miles of the store\n- Bring in your old wooden furniture and we'll take it away for free, plus give you $20 in store credit per piece\n\nShowroom pieces are sold as is. Custom orders take six to eight weeks.",
+          "items": [
+            {
+              "id": "r1_d2_1",
+              "q": "What is the main purpose of the advertisement?",
+              "options": [
+                "To announce the opening of a new showroom made from reclaimed barn wood",
+                "To advertise sale prices on eco-friendly furniture",
+                "To explain how bamboo is grown and harvested for furniture",
+                "To ask customers to donate old furniture to charity"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_d2_2",
+              "q": "A customer who lives 30 miles from the store buys a bamboo table with a regular price of $500. Which of the following is true?",
+              "options": [
+                "She will pay $500 for the table.",
+                "She can return the table within six weeks.",
+                "She will receive $20 in store credit.",
+                "Her delivery will not be free."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_d2_3",
+              "q": "The phrase 'as is' in the advertisement is closest in meaning to",
+              "options": [
+                "in their current condition",
+                "at full price, with no discount",
+                "with a one-year store warranty",
+                "only through a custom order"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "academic",
+          "title": "Read an Academic Passage",
+          "text": "The Spacing Effect\n\nMost students prepare for exams by reviewing material intensively in the days just before the test. Research on memory suggests that this habit, often called cramming, is surprisingly inefficient. In a typical experiment, two groups study the same list of facts for the same total amount of time. One group studies in a single long session; the other divides its study time into several shorter sessions separated by days. On a test given immediately afterward, the two groups perform about equally well. A week later, however, the group that spread out its study remembers far more.\n\nPsychologists call this the spacing effect, and it is one of the most reliable findings in the field. One explanation is that each new session requires learners to retrieve information they have partly forgotten, and this effortful retrieval strengthens the memory more than rereading something that is still fresh. Spaced study also feels harder, which may explain why students rarely choose it: because cramming produces a sense of fluency, learners mistake familiarity for lasting knowledge.",
+          "items": [
+            {
+              "id": "r1_a1_1",
+              "q": "Why does the author point out that both groups study for the same total amount of time?",
+              "options": [
+                "To show that cramming takes longer than spaced study",
+                "To explain why both groups performed equally a week later",
+                "To suggest that the experiment was poorly designed",
+                "To isolate the spacing of study as the cause"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_a1_2",
+              "q": "According to the passage, how do the two groups perform on a test given immediately after studying?",
+              "options": [
+                "The group that studied in one session does much better.",
+                "The group that spread out its study does much better.",
+                "The two groups perform about equally well.",
+                "Neither group remembers most of the facts."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_a1_3",
+              "q": "The word 'reliable' in the passage is closest in meaning to",
+              "options": [
+                "surprising to most experts",
+                "consistently observed",
+                "recently discovered",
+                "widely debated by researchers"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_a1_4",
+              "q": "According to paragraph 2, why might spaced study strengthen memory?",
+              "options": [
+                "It makes learners recall what they have partly forgotten.",
+                "It lets learners reread material while it is still fresh in their minds.",
+                "It reduces the total time learners must spend studying for a test.",
+                "It makes learners feel more fluent and confident with the material."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_a1_5",
+              "q": "What can be inferred about students who prefer cramming?",
+              "options": [
+                "They usually score lower on tests given immediately.",
+                "They know that spaced study works but lack the time for it.",
+                "They may overestimate how much they will retain.",
+                "They find cramming more difficult than spaced study."
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "r2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Studying in another country can change your life. You {can} learn a {new} language {and} meet people {from} many places. {It} is not {always} easy {at} first. Many {students} feel {homesick} for a {few} weeks. After that, most of them say it was the best year of their lives."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "CITY BOTANICAL GARDEN\nButterfly House\n\nOpen: Tuesday to Sunday, 10 a.m. to 4 p.m.\nClosed on Mondays\n\nTickets: Adults $8, Children (4-12) $4, Children under 4 free\n\nPlease do not touch the butterflies.",
+            "items": [
+              {
+                "id": "r2l_d1_1",
+                "q": "When is the Butterfly House closed?",
+                "options": [
+                  "On Mondays",
+                  "On Sundays",
+                  "After 2 p.m.",
+                  "On Tuesdays"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_d1_2",
+                "q": "How much is a ticket for a 10-year-old child?",
+                "options": [
+                  "Nothing",
+                  "$8",
+                  "$10",
+                  "$4"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "From: Claire Martin\nTo: Daniel Reyes\nSubject: Welcome to Lyon!\n\nHi Daniel,\n\nWe are so happy that you will stay with us in Lyon! We will meet you at the airport on Saturday at 3 p.m. Look for a woman with a red bag. That's me! Our apartment is near your school, so you can walk there in ten minutes. We have a cat, so please tell us if you have an allergy. Have a good flight!\n\nClaire",
+            "items": [
+              {
+                "id": "r2l_d2_1",
+                "q": "Why did Claire write the email?",
+                "options": [
+                  "To ask Daniel about his school",
+                  "To invite Daniel to a party",
+                  "To welcome Daniel and tell him about his arrival",
+                  "To tell Daniel that her cat is sick"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_d2_2",
+                "q": "How will Daniel find Claire at the airport?",
+                "options": [
+                  "She will hold a sign.",
+                  "She will carry a red bag.",
+                  "She will wear a red hat.",
+                  "She will call him."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_d2_3",
+                "q": "What does Claire ask Daniel to tell her?",
+                "options": [
+                  "What time his flight leaves",
+                  "Where his school is",
+                  "If he likes cats",
+                  "If he has an allergy"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Adobe Houses\n\nIn many hot, dry places, people have built houses from adobe for thousands of years. Adobe is a mix of mud, sand and straw. Builders put the mix into wooden boxes to make bricks, and then they leave the bricks in the sun to dry. Adobe walls are very thick. During the day, the inside of the house stays cool, because heat moves through the thick walls slowly. At night, when the air outside is cold, the walls give their heat back to the house. Adobe is cheap, but rain can damage it, so people must repair the walls often.",
+            "items": [
+              {
+                "id": "r2l_a1_1",
+                "q": "What is the passage mainly about?",
+                "options": [
+                  "How to grow straw",
+                  "What adobe houses are and how they work",
+                  "Why it rains in dry places",
+                  "How to build wooden boxes"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_a1_2",
+                "q": "What is adobe made of?",
+                "options": [
+                  "Stone and wood",
+                  "Sand and glass",
+                  "Mud, sand and straw",
+                  "Wood and straw"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_a1_3",
+                "q": "How do builders dry adobe bricks?",
+                "options": [
+                  "They leave them in the sun.",
+                  "They put them in a fire.",
+                  "They keep them inside houses.",
+                  "They cover them with straw."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_a1_4",
+                "q": "Why are adobe houses cool during the day?",
+                "options": [
+                  "They have many small windows.",
+                  "They are painted white outside.",
+                  "They are built near cool water.",
+                  "The thick walls slow down heat."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_a1_5",
+                "q": "What is one problem with adobe?",
+                "options": [
+                  "Rain can damage it.",
+                  "It is very expensive.",
+                  "It gets too cold at night.",
+                  "It is hard to find."
+                ],
+                "answer": 0
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "r2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "For much of the twentieth century, memories were thought to become permanent once they had been stored. Research {conducted} over the {past} few decades has {challenged} this {view}. Each {time} a memory is {retrieved}, it appears to {enter} a fragile {state} in which it can be {modified} before being stored {again}. This process may help explain why confident eyewitnesses are sometimes wrong."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "From: Office of Study Abroad\nTo: Spring 2027 participants\nSubject: Required steps before departure\n\nDear participants,\n\nCongratulations again on your acceptance. Before we can confirm your program enrollment, three items must be on file with our office: (1) a signed conduct agreement, (2) proof of health insurance that is valid abroad, and (3) a copy of your passport photo page. Students who already hold the university's international health plan do not need to submit separate proof; their coverage is verified automatically. Please note that your passport must remain valid for at least six months beyond your program end date. If it does not, renew it now, as processing can take up to ten weeks. All items are due November 15. Late submissions may result in the loss of your housing placement, which is assigned in the order that files are completed.\n\nRafael Ortiz, Program Coordinator",
+            "items": [
+              {
+                "id": "r2u_d1_1",
+                "q": "A participant already has the university's international health plan. What must she still submit?",
+                "options": [
+                  "Proof of health insurance and a conduct agreement",
+                  "Only the conduct agreement and passport page",
+                  "Only a copy of her passport photo page",
+                  "Nothing, because her file is verified automatically"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_d1_2",
+                "q": "A participant's program ends on June 1, and her passport expires on September 15 of the same year. What should she do?",
+                "options": [
+                  "Nothing, because her passport is valid for the whole program",
+                  "Submit her passport photo page by November 15 only",
+                  "Ask the office to verify her passport automatically",
+                  "Start renewing her passport right away"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_d1_3",
+                "q": "According to the email, what may happen to students who submit items late?",
+                "options": [
+                  "They will be removed from the program.",
+                  "They must pay a late fee.",
+                  "They may lose their housing placement.",
+                  "They will need to renew their passports."
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "Councilmember J. Okoro\n\nUpdate on our Pollinator Lawn pilot: last spring, 140 households agreed to stop mowing their front lawns for six weeks. Volunteers counted flowers and insects on these lawns and on a matched set of regularly mowed ones. The unmowed lawns had roughly three times as many flowering plants, mostly dandelions and clover, and about twice as many bee visits. Before anyone asks: no, we did not see more ticks, although the sample was small. This year we're expanding to 500 households and adding a second survey in late summer, when lawns typically flower less. Sign up on the city website by March 31.\n\nLike   Comment   Share",
+            "items": [
+              {
+                "id": "r2u_d2_1",
+                "q": "According to the post, what did the pilot find?",
+                "options": [
+                  "Unmowed lawns received about twice as many bee visits as mowed lawns.",
+                  "Unmowed lawns received about three times as many bee visits as mowed lawns.",
+                  "Unmowed lawns had more ticks than mowed lawns.",
+                  "Mowed lawns had more dandelions and clover."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_d2_2",
+                "q": "Why will the city add a survey in late summer?",
+                "options": [
+                  "To check whether ticks become more common later in the year",
+                  "Because the first sample of households was too small",
+                  "To recruit more households before the March 31 deadline",
+                  "To see if the effect holds when fewer flowers bloom"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Building with Engineered Wood\n\nFor most of the twentieth century, wood was regarded as unsuitable for large buildings. Timber beams varied in strength, warped as they dried, and, above all, burned. Steel and reinforced concrete, which offered predictable performance, became the standard materials for anything taller than a few stories. In recent decades, however, a class of products known as mass timber has prompted a reassessment. Cross-laminated timber, the most prominent of these, is made by gluing layers of boards together with the grain of each layer perpendicular to the one beneath it. The alternating orientation counteracts the tendency of individual boards to swell or bend, producing panels that are dimensionally stable and strong enough to serve as floors and load-bearing walls.\n\nAdvocates emphasize two advantages. Because trees absorb carbon dioxide as they grow, a timber building stores carbon rather than releasing it, whereas manufacturing cement and steel accounts for a substantial share of global emissions. Mass timber also behaves better in fire than intuition suggests: a thick panel chars on its surface, and the charred layer insulates the wood beneath, slowing further burning. Skeptics counter that the climate benefit depends heavily on forestry practices. If harvested forests are not replanted, or if the wood is transported over long distances, much of the advantage disappears.",
+            "items": [
+              {
+                "id": "r2u_a1_1",
+                "q": "According to paragraph 1, why was wood long considered unsuitable for large buildings?",
+                "options": [
+                  "It was more expensive than steel and concrete.",
+                  "It could not be cut into long enough beams.",
+                  "Its strength varied, and it burned.",
+                  "It absorbed too much carbon dioxide."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_a1_2",
+                "q": "The word 'counteracts' in the passage is closest in meaning to",
+                "options": [
+                  "increases",
+                  "offsets",
+                  "reveals",
+                  "imitates"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_a1_3",
+                "q": "Why does the author mention that manufacturing cement and steel accounts for a substantial share of global emissions?",
+                "options": [
+                  "To support the carbon case for timber by contrast",
+                  "To argue that cement and steel should no longer be used",
+                  "To explain why mass timber is cheaper to produce",
+                  "To introduce the skeptics' main objection to mass timber"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_a1_4",
+                "q": "According to the passage, how does a thick timber panel resist fire?",
+                "options": [
+                  "The glue between its layers does not burn.",
+                  "Its boards are treated with fire-resistant chemicals.",
+                  "It does not burn, even at high heat.",
+                  "A burned outer layer shields the inner wood."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_a1_5",
+                "q": "Which statement would the skeptics described in paragraph 2 most likely agree with?",
+                "options": [
+                  "Mass timber is more dangerous in a fire than steel or concrete.",
+                  "Timber's climate value depends on how the wood was sourced.",
+                  "Timber buildings release more carbon than concrete buildings do.",
+                  "Cross-laminated timber is too weak to be used for floors and walls."
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "listening": {
+    "stage1": {
+      "id": "l1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "choose",
+          "title": "Listen and Choose a Response",
+          "items": [
+            {
+              "id": "l1_c1",
+              "audio": "l_c1",
+              "q": "Choose the best response.",
+              "options": [
+                "It's due by five o'clock on Friday.",
+                "At the front desk, second floor.",
+                "I dropped it off yesterday morning.",
+                "Yes, you can apply online too."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c2",
+              "audio": "l_c2",
+              "q": "Choose the best response.",
+              "options": [
+                "Just once, years ago.",
+                "No, I'd rather go before.",
+                "Yes, I'll say it again.",
+                "Portugal is next to Spain."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c3",
+              "audio": "l_c3",
+              "q": "Choose the best response.",
+              "options": [
+                "In the community garden behind the library.",
+                "Since last spring, I believe.",
+                "Ms. Patel, I think.",
+                "It's charging right now."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c4",
+              "audio": "l_c4",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I would.",
+                "The lecture is about bridges.",
+                "I met him after lunch.",
+                "After is better. I have a lab until ten."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c5",
+              "audio": "l_c5",
+              "q": "Choose the best response.",
+              "options": [
+                "I can't remember either.",
+                "It's been moved to the end, after the appendix.",
+                "The packet costs five dollars.",
+                "I found it very interesting."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c6",
+              "audio": "l_c6",
+              "q": "Choose the best response.",
+              "options": [
+                "Kenji's posting them tonight.",
+                "I took the trip up north last weekend.",
+                "Yes, the museum's upstairs, by the cafe.",
+                "No, I'm not up yet."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c7",
+              "audio": "l_c7",
+              "q": "Choose the best response.",
+              "options": [
+                "I heard it was a good school.",
+                "We should have studied more.",
+                "Yes, I'm back now.",
+                "Decisions were delayed by two weeks, apparently."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c8",
+              "audio": "l_c8",
+              "q": "Choose the best response.",
+              "options": [
+                "It depends on the country, but usually about a month.",
+                "It's a long way from here.",
+                "I got it at the post office.",
+                "Since I was a student."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c9",
+              "audio": "l_c9",
+              "q": "Choose the best response.",
+              "options": [
+                "I expected you to come.",
+                "Neither was I. We ran out of handouts.",
+                "It's in the workshop downstairs.",
+                "Yes, many people were expected."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c10",
+              "audio": "l_c10",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I'll take it.",
+                "I don't mind the color.",
+                "Go ahead, it's free.",
+                "It was a comfortable chair."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv1",
+          "items": [
+            {
+              "id": "l1_v1_1",
+              "q": "What is the man's main concern at the beginning of the conversation?",
+              "options": [
+                "Finding housing in Seoul",
+                "The cost of the program",
+                "Getting a visa in time",
+                "Not knowing Korean"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_v1_2",
+              "q": "What will the man most likely do next?",
+              "options": [
+                "Sign up for a Korean class",
+                "Apply for the program",
+                "Email his advisor",
+                "Change his major"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv2",
+          "items": [
+            {
+              "id": "l1_v2_1",
+              "q": "Why does the man hesitate to go to the bee count?",
+              "options": [
+                "He promised to help his roommate.",
+                "He is afraid of being stung by bees.",
+                "He does not need extra credit.",
+                "He has to work on Saturday morning."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_v2_2",
+              "q": "What does the man mean when he says, 'That sounds more like my speed'?",
+              "options": [
+                "He thinks counting bees would take too long.",
+                "The task suits his energy level after moving.",
+                "He would rather move quickly between flower patches.",
+                "He wants to arrive before noon."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv3",
+          "items": [
+            {
+              "id": "l1_v3_1",
+              "q": "Why can't the man use flash photography?",
+              "options": [
+                "It disturbs other readers.",
+                "Photos of the drawings are not allowed.",
+                "Light can damage the old paper.",
+                "The reading room is too small."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_v3_2",
+              "q": "Why does the man need an appointment?",
+              "options": [
+                "The reading room is often full.",
+                "The drawings can be seen only on Thursdays.",
+                "He wants to check the drawings out.",
+                "The drawings are kept in another location."
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann1",
+          "items": [
+            {
+              "id": "l1_n1_1",
+              "q": "What is the purpose of the announcement?",
+              "options": [
+                "To introduce a new semester program in Spain",
+                "To publicize an event on going overseas",
+                "To ask returning students to volunteer at tables",
+                "To explain changes to financial aid deadlines"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_n1_2",
+              "q": "Why should some students come in the afternoon?",
+              "options": [
+                "To ask about funding",
+                "To avoid the large lunchtime crowds",
+                "To meet returning students",
+                "To get a table for their program"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann2",
+          "items": [
+            {
+              "id": "l1_n2_1",
+              "q": "What change does the professor announce?",
+              "options": [
+                "Thursday's class is cancelled.",
+                "The experiment will take place next Tuesday.",
+                "Students will work in pairs on Thursday.",
+                "The experiment moves online."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_n2_2",
+              "q": "Why does the professor ask students not to discuss the word lists?",
+              "options": [
+                "The lists will be used on the final exam.",
+                "The lists are protected by copyright.",
+                "It could affect other students' results.",
+                "The lists contain mistakes."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk1",
+          "items": [
+            {
+              "id": "l1_t1_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "How bees find nectar in open flowers",
+                "Why orchids are hard to grow outside the tropics",
+                "Costs and benefits of pollinator specialization",
+                "How scientists count pollinators in the field"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_t1_2",
+              "q": "According to the professor, what is a disadvantage for a generalist plant?",
+              "options": [
+                "Its pollen is often wasted on other flowers.",
+                "Its nectar is hard for most insects to reach.",
+                "Few insects visit it in dry seasons.",
+                "It depends on a single species of bee."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t1_3",
+              "q": "Why does the professor mention orchids?",
+              "options": [
+                "To show that orchids are generalist plants",
+                "To explain how flies carry pollen",
+                "To describe a plant that is in danger of disappearing",
+                "To give an example of a flower that admits only certain visitors"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t1_4",
+              "q": "What point does the professor make about stable pollinator numbers?",
+              "options": [
+                "They prove that conservation efforts are working.",
+                "They can hide the decline of particular species.",
+                "They are caused by generalist plants.",
+                "They are rare in places with orchids."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk2",
+          "items": [
+            {
+              "id": "l1_t2_1",
+              "q": "What is the main topic of the podcast?",
+              "options": [
+                "Why New York residents dislike tall buildings",
+                "How architects competed to build the tallest tower",
+                "The history of public plazas",
+                "How a law influenced the shape of skyscrapers"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t2_2",
+              "q": "According to the speaker, why was the 1916 law passed?",
+              "options": [
+                "To limit the total height of towers",
+                "To keep sunlight reaching the streets",
+                "To make room for public plazas",
+                "To encourage a new architectural style"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t2_3",
+              "q": "What does the speaker imply about the stepped style?",
+              "options": [
+                "It spread beyond what the law required.",
+                "Architects saw it mainly as a limit on creativity.",
+                "It was invented well before the zoning law.",
+                "It was banned by the new rules in 1961."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t2_4",
+              "q": "Why does the speaker mention plazas in front of buildings?",
+              "options": [
+                "To criticize the 1961 rules as too lenient",
+                "To explain why the 1916 law failed",
+                "To show an effect of the 1961 rules",
+                "To describe where the podcast is recorded"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "l2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2l_c1",
+                "audio": "l_c11",
+                "q": "Choose the best response.",
+                "options": [
+                  "Every ten minutes or so.",
+                  "Across the street.",
+                  "I take the bus to work.",
+                  "It's two dollars a ride."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c2",
+                "audio": "l_c12",
+                "q": "Choose the best response.",
+                "options": [
+                  "To Madrid.",
+                  "With my sister.",
+                  "It was very long.",
+                  "Tomorrow at six."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_c3",
+                "audio": "l_c13",
+                "q": "Choose the best response.",
+                "options": [
+                  "Sure, here you go.",
+                  "I bought it.",
+                  "Yes, it's blue paper.",
+                  "No, I'm fine."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c4",
+                "audio": "l_c14",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's on Green Street.",
+                  "Next month, I think.",
+                  "Yes, it's bigger.",
+                  "I like to walk there."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_c5",
+                "audio": "l_c15",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's chocolate and lemon.",
+                  "My grandmother.",
+                  "Yesterday morning.",
+                  "Yes, I made it."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c6",
+                "audio": "l_c16",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, please.",
+                  "The window is open.",
+                  "I sat down.",
+                  "It's cold outside."
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv4",
+            "items": [
+              {
+                "id": "l2l_v1_1",
+                "q": "What does the man want to do?",
+                "options": [
+                  "Buy a new balcony",
+                  "Water his garden",
+                  "Sell some plants",
+                  "Plant flowers for bees"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_v1_2",
+                "q": "What does lavender need?",
+                "options": [
+                  "A lot of sun",
+                  "A lot of water",
+                  "A big garden",
+                  "Cold weather"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv5",
+            "items": [
+              {
+                "id": "l2l_v2_1",
+                "q": "Why does the man contact the office?",
+                "options": [
+                  "To pay for a trip",
+                  "To cancel an appointment",
+                  "To see an advisor",
+                  "To ask about Italian classes"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_v2_2",
+                "q": "When will the man meet the advisor?",
+                "options": [
+                  "Tomorrow at ten",
+                  "Tomorrow at two",
+                  "Today at two",
+                  "Today at ten"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann3",
+            "items": [
+              {
+                "id": "l2l_n1_1",
+                "q": "What is the announcement about?",
+                "options": [
+                  "A tour of old buildings",
+                  "A new library opening",
+                  "A boat trip on the river",
+                  "A cafe opening downtown"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_n1_2",
+                "q": "How long is the tour?",
+                "options": [
+                  "Twenty minutes",
+                  "About one hour",
+                  "About five hours",
+                  "About two hours"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_n1_3",
+                "q": "What will happen at the cafe?",
+                "options": [
+                  "The tour will end there.",
+                  "People will meet the mayor.",
+                  "The group will rest.",
+                  "Everyone will get a free drink."
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk3",
+            "items": [
+              {
+                "id": "l2l_t1_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How to study a list of words",
+                  "How sleep helps memory",
+                  "Why students stay awake",
+                  "How long a test takes"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_t1_2",
+                "q": "What does the brain do during sleep, according to the speaker?",
+                "options": [
+                  "It stops working until morning.",
+                  "It learns new words.",
+                  "It forgets everything from the day.",
+                  "It keeps the important parts."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_t1_3",
+                "q": "What did the study show?",
+                "options": [
+                  "Students who slept remembered more words.",
+                  "Students who stayed awake remembered more words.",
+                  "Both groups remembered the same number of words.",
+                  "Students learn better in the evening."
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk4",
+            "items": [
+              {
+                "id": "l2l_t2_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How trees grow",
+                  "Houses in Asia",
+                  "A fast-growing plant that people use to make things",
+                  "Insects that eat wood"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_t2_2",
+                "q": "How often can people cut bamboo?",
+                "options": [
+                  "Each day",
+                  "Once a year in spring",
+                  "After about fifty years",
+                  "Every few years"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_t2_3",
+                "q": "What problem with bamboo does the speaker mention?",
+                "options": [
+                  "It is too weak for building bridges.",
+                  "Insects eat untreated bamboo.",
+                  "It grows too slowly in cold places.",
+                  "It is very expensive to buy."
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "l2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2u_c1",
+                "audio": "l_c17",
+                "q": "Choose the best response.",
+                "options": [
+                  "I've had better chances.",
+                  "I'm halfway through. I'll send you comments tonight.",
+                  "Yes, I suppose so.",
+                  "The letter was covered in coffee."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_c2",
+                "audio": "l_c18",
+                "q": "Choose the best response.",
+                "options": [
+                  "No, that's extra.",
+                  "The air is much fresher there.",
+                  "Yes, it doesn't include it.",
+                  "The fee is due in May."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_c3",
+                "audio": "l_c19",
+                "q": "Choose the best response.",
+                "options": [
+                  "The lecture was supposed to be good.",
+                  "The main hall was built back in 1920.",
+                  "It was, until the heating broke.",
+                  "I'm supposed to go there too."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_c4",
+                "audio": "l_c20",
+                "q": "Choose the best response.",
+                "options": [
+                  "You finished it early, then?",
+                  "The server is brand new.",
+                  "I'd have crashed too.",
+                  "Did you lose much of it?"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_c5",
+                "audio": "l_c21",
+                "q": "Choose the best response.",
+                "options": [
+                  "Not without a clearer budget.",
+                  "It stands right next to the door.",
+                  "The committee approved of him.",
+                  "Yes, they proposed it."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_c6",
+                "audio": "l_c22",
+                "q": "Choose the best response.",
+                "options": [
+                  "I dropped it off last week.",
+                  "That would be a shame. It's half the reason I enrolled.",
+                  "The dean is thinking hard.",
+                  "I can hear it too."
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv6",
+            "items": [
+              {
+                "id": "l2u_v1_1",
+                "q": "What is the man's main concern?",
+                "options": [
+                  "Whether his courses will transfer",
+                  "Whether the host university has space",
+                  "Whether his funding will continue",
+                  "Whether he can afford a flight home"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_v1_2",
+                "q": "What does the woman imply about submitting the form after November first?",
+                "options": [
+                  "His spring scholarship could lapse.",
+                  "The man would have to pay a late fee.",
+                  "The host university would cancel his place.",
+                  "The man would receive the travel grant again."
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv7",
+            "items": [
+              {
+                "id": "l2u_v2_1",
+                "q": "Why was the woman surprised by her results?",
+                "options": [
+                  "Her groups were smaller than expected.",
+                  "Most participants preferred silence.",
+                  "The professor had predicted a different outcome.",
+                  "They contradicted the studies she had read."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_v2_2",
+                "q": "What does the professor suggest is the problem with the study?",
+                "options": [
+                  "The word lists were too short.",
+                  "The music was too loud.",
+                  "Participants chose their own groups.",
+                  "She should not have reported the data."
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann4",
+            "items": [
+              {
+                "id": "l2u_n1_1",
+                "q": "What is the main purpose of the announcement?",
+                "options": [
+                  "To announce the opening of a new model shop",
+                  "To announce new studio hours",
+                  "To explain how to use the laser cutter",
+                  "To ask students to clean their desks"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_n1_2",
+                "q": "What will happen to materials left on the shop tables late on a Friday?",
+                "options": [
+                  "They will be thrown away.",
+                  "They will be returned to students' desks.",
+                  "They will be used by the cleaning staff.",
+                  "They will be moved to a storage room."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_n1_3",
+                "q": "What can be inferred about a student with a project due next Wednesday?",
+                "options": [
+                  "The student should finish laser cutting by Monday.",
+                  "The student can work in the studio overnight on Saturday.",
+                  "The student's desk will be cleaned on Friday.",
+                  "The student will get an automatic extension."
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk5",
+            "items": [
+              {
+                "id": "l2u_t1_1",
+                "q": "According to the professor, what makes prospective memory different from other memory tasks?",
+                "options": [
+                  "It involves remembering events from long ago.",
+                  "It is studied mainly in laboratory settings.",
+                  "People must notice unprompted when to act.",
+                  "It depends on recalling long lists of words."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_t1_2",
+                "q": "Why are event-based tasks usually easier than time-based tasks?",
+                "options": [
+                  "They happen less often during the day.",
+                  "The event itself serves as a reminder.",
+                  "They are usually more important to people.",
+                  "They can be done at any time of day."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_t1_3",
+                "q": "Why does the professor mention putting the coffee on?",
+                "options": [
+                  "To show that caffeine improves memory",
+                  "To describe a common time-based task",
+                  "To explain why people forget their medication",
+                  "To show how to tie a plan to a cue"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk6",
+            "items": [
+              {
+                "id": "l2u_t2_1",
+                "q": "What is the main point of the talk?",
+                "options": [
+                  "The two labels describe unrelated properties.",
+                  "Bio-based plastics break down faster than oil-based ones.",
+                  "Plastics made from oil should be phased out.",
+                  "Industrial composting is the best way to recycle bottles."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_t2_2",
+                "q": "Why does the professor mention plastic made from sugarcane that is chemically identical to ordinary plastic?",
+                "options": [
+                  "To show that plants are a poor source of plastic",
+                  "To explain how sugarcane is processed",
+                  "To give an example of a material that is bio-based but not biodegradable",
+                  "To argue that oil-based plastic is better for the environment"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_t2_3",
+                "q": "What does the professor imply about a biodegradable cup that ends up in the ocean?",
+                "options": [
+                  "It will break down within a few weeks.",
+                  "It may persist like ordinary plastic.",
+                  "It will absorb carbon from the water.",
+                  "It will be collected for industrial composting."
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "speaking": {
+    "repeat": {
+      "title": "Listen and Repeat",
+      "instructions": "Listen to each sentence once. After the beep, repeat it exactly as you heard it. No preparation time.",
+      "context": "You are a new student worker at the university's Study Abroad Office. Listen to your supervisor and repeat what he says. You hear each sentence one time.",
+      "maxSeconds": 14,
+      "items": [
+        {
+          "id": "sp_r1",
+          "audio": "sp_r1",
+          "text": "Welcome to the Study Abroad Office."
+        },
+        {
+          "id": "sp_r2",
+          "audio": "sp_r2",
+          "text": "Please sign in at the front desk."
+        },
+        {
+          "id": "sp_r3",
+          "audio": "sp_r3",
+          "text": "An advisor will be with you in a few minutes."
+        },
+        {
+          "id": "sp_r4",
+          "audio": "sp_r4",
+          "text": "Brochures for every program are on the shelves by the window."
+        },
+        {
+          "id": "sp_r5",
+          "audio": "sp_r5",
+          "text": "Remember to bring a copy of your passport to your first appointment."
+        },
+        {
+          "id": "sp_r6",
+          "audio": "sp_r6",
+          "text": "Students who apply before the end of October may be eligible for an early travel grant."
+        },
+        {
+          "id": "sp_r7",
+          "audio": "sp_r7",
+          "text": "Most programs are taught in English, but we strongly recommend taking a language course before you leave."
+        }
+      ]
+    },
+    "interview": {
+      "title": "Take an Interview",
+      "instructions": "An interviewer will ask you four questions. There is no preparation time. You have 45 seconds to answer each question.",
+      "context": "You are joining a research study about memory and everyday life. A researcher will interview you online for a few minutes.",
+      "maxSeconds": 45,
+      "items": [
+        {
+          "id": "sp_i1",
+          "audio": "sp_i1",
+          "text": "Thank you for taking part in this study about memory and everyday life. First, how do you usually remember the things you need to do each day, like appointments or tasks?"
+        },
+        {
+          "id": "sp_i2",
+          "audio": "sp_i2",
+          "text": "Some people say they remember information best by reading it, while others prefer listening, or doing something with their hands. How do you learn best? Please give an example."
+        },
+        {
+          "id": "sp_i3",
+          "audio": "sp_i3",
+          "text": "Many people now rely on their phones to store information they used to memorize, such as phone numbers and directions. Do you think this has made people's memories worse? Why or why not?"
+        },
+        {
+          "id": "sp_i4",
+          "audio": "sp_i4",
+          "text": "Finally, some educators believe students should still memorize important facts, like dates and formulas. Others think that, in the age of the internet, schools should focus on teaching students how to find and evaluate information. Which view do you agree with, and why?"
+        }
+      ]
+    }
+  },
+  "writing": {
+    "build": {
+      "title": "Build a Sentence",
+      "instructions": "Arrange the words to build a correct sentence. One box may not be needed.",
+      "items": [
+        {
+          "id": "w_b1",
+          "context": "I'm planning to apply for the program in Ghana.",
+          "chunks": [
+            "the deadline",
+            "is",
+            "when",
+            "does",
+            "know",
+            "Do",
+            "you"
+          ],
+          "answer": "Do you know when the deadline is",
+          "after": "?"
+        },
+        {
+          "id": "w_b2",
+          "context": "Did you enjoy the architecture tour?",
+          "before": "Yes. The guide",
+          "chunks": [
+            "the building",
+            "us",
+            "how",
+            "was",
+            "designed",
+            "showed",
+            "who"
+          ],
+          "answer": "showed us how the building was designed",
+          "after": "."
+        },
+        {
+          "id": "w_b3",
+          "context": "Why is that part of the garden fenced off?",
+          "before": "New flowers",
+          "chunks": [
+            "planted",
+            "for",
+            "have",
+            "the bees",
+            "just",
+            "been"
+          ],
+          "answer": "have just been planted for the bees",
+          "after": "."
+        },
+        {
+          "id": "w_b4",
+          "context": "What did the advisor tell you?",
+          "before": "She said",
+          "chunks": [
+            "to",
+            "I",
+            "would",
+            "renewing",
+            "renew",
+            "my passport",
+            "need"
+          ],
+          "answer": "I would need to renew my passport",
+          "after": "."
+        },
+        {
+          "id": "w_b5",
+          "context": "Have you decided where to stay in Madrid?",
+          "before": "I",
+          "chunks": [
+            "whether",
+            "with a host family",
+            "if",
+            "to live",
+            "haven't",
+            "decided"
+          ],
+          "answer": "haven't decided whether to live with a host family",
+          "after": "or in a dorm."
+        },
+        {
+          "id": "w_b6",
+          "context": "The memory experiment was cancelled this week.",
+          "before": "Do you know",
+          "chunks": [
+            "be",
+            "rescheduled",
+            "will",
+            "it",
+            "if",
+            "does"
+          ],
+          "answer": "if it will be rescheduled",
+          "after": "?"
+        },
+        {
+          "id": "w_b7",
+          "context": "This bench looks like it's made of plastic.",
+          "before": "Actually, it's made from",
+          "chunks": [
+            "collected",
+            "that",
+            "the beach",
+            "bottles",
+            "were",
+            "on",
+            "was"
+          ],
+          "answer": "bottles that were collected on the beach",
+          "after": "."
+        },
+        {
+          "id": "w_b8",
+          "context": "How was the study abroad fair?",
+          "before": "I",
+          "chunks": [
+            "there",
+            "many programs",
+            "expect",
+            "would",
+            "to be",
+            "didn't",
+            "so"
+          ],
+          "answer": "didn't expect there to be so many programs",
+          "after": "."
+        },
+        {
+          "id": "w_b9",
+          "context": "What did the professor say about the final project?",
+          "before": "She wants",
+          "chunks": [
+            "explain",
+            "we",
+            "to",
+            "did",
+            "our materials",
+            "us",
+            "chose",
+            "why"
+          ],
+          "answer": "us to explain why we chose our materials",
+          "after": "."
+        },
+        {
+          "id": "w_b10",
+          "context": "Can you help me with the pollinator survey this weekend?",
+          "before": "I'd be happy to",
+          "chunks": [
+            "tell",
+            "where",
+            "you",
+            "are",
+            "me",
+            "we're",
+            "meeting",
+            "if"
+          ],
+          "answer": "if you tell me where we're meeting",
+          "after": "."
+        }
+      ]
+    },
+    "email": {
+      "title": "Write an Email",
+      "to": "Mr. Ortiz, Office of Study Abroad",
+      "subject": "Missing course on my transcript",
+      "prompt": "Last semester, you studied in Kyoto, Japan, through your university's study abroad program. You have now received your official record from your home university, but one course you completed in Kyoto, Japanese Architecture (3 credits), does not appear on it.\n\nWrite an email to Mr. Ortiz, the study abroad coordinator. In your email, do the following:\n- Tell him about one thing you valued in the program.\n- Explain the problem with your record.\n- Ask what you should do to have the course added.\n\nUse full sentences, and write as much as you can.",
+      "rubric": "Task: email to a university coordinator. Must cover all 3 bullets: a specific positive detail about the Kyoto program, a clear description of the problem (Japanese Architecture, 3 credits, missing from the record), and a direct question about next steps (forms, documents, deadline, who to contact). Look for polite, formal-neutral register, greeting and sign-off, logical organization, accurate and varied grammar, precise word choice. Typical strong length 100-150 words."
+    },
+    "discussion": {
+      "title": "Write for an Academic Discussion",
+      "prompt": "Your professor is teaching a class on environmental studies. Post a reply to the professor's question. In your reply, do these two things:\n- State your view and back it up.\n- Add something new to the thread, in your own words.\n\nAim for at least 100 words.",
+      "professor": {
+        "name": "Dr. Lindqvist",
+        "text": "Several cities have started replacing the short grass in public parks with native wildflower meadows. Meadows provide food for bees and other pollinators, need less water and are mowed only once or twice a year. However, some residents say meadows look untidy and leave less space for sports, picnics and other activities. Should cities turn large parts of their parks into meadows? Why or why not?"
+      },
+      "students": [
+        {
+          "name": "Priya",
+          "text": "Yes. Pollinators are declining, and a city park is one of the few places where a city can make a real difference quickly. Saving money on mowing and watering is a bonus. People will get used to the look once they understand the purpose."
+        },
+        {
+          "name": "Tom",
+          "text": "I see the benefits, but parks exist mainly for people. In crowded neighborhoods, the park may be the only open space where children can play. Cities could plant meadows along highways and railway lines instead, where nobody wants to sit anyway."
+        }
+      ],
+      "rubric": "Task: academic discussion post, 100+ words. Look for a clear position on converting park lawns to meadows, specific reasons or examples, engagement with Priya's or Tom's point (extending or rebutting, not repeating), coherence, and varied, accurate grammar and vocabulary."
+    }
+  }
+}

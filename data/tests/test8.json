@@ -1,0 +1,2141 @@
+{
+  "id": "test8",
+  "title": "Practice Test 8",
+  "timings": {
+    "reading": {
+      "router": 20,
+      "lower": 9,
+      "upper": 9
+    },
+    "listening": {
+      "router": 18,
+      "lower": 7,
+      "upper": 11
+    },
+    "writing": {
+      "build": 6,
+      "email": 7,
+      "discussion": 10
+    },
+    "speaking": 8
+  },
+  "audio": {
+    "l_c1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Where should I leave these boxes?"
+        }
+      ]
+    },
+    "l_c2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Haven't you finished your lab report yet?"
+        }
+      ]
+    },
+    "l_c3": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Would you mind turning the music down a little?"
+        }
+      ]
+    },
+    "l_c4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "How long have you been studying Spanish?"
+        }
+      ]
+    },
+    "l_c5": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "I can't find my student ID anywhere."
+        }
+      ]
+    },
+    "l_c6": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Isn't the museum closed on Mondays?"
+        }
+      ]
+    },
+    "l_c7": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "I'd rather take the train than drive."
+        }
+      ]
+    },
+    "l_c8": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "I didn't realize the deadline had moved."
+        }
+      ]
+    },
+    "l_c9": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "What time does the pharmacy close tonight?"
+        }
+      ]
+    },
+    "l_c10": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Do you know if Professor Reyes has office hours today?"
+        }
+      ]
+    },
+    "l_conv1": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Hi Daniel. Your email said you want to move to a different lab section?"
+        },
+        {
+          "v": "Orus",
+          "t": "Yes. I'm in the Tuesday morning section, but my work schedule changed. I now start at eleven on Tuesdays, and the lab runs until noon."
+        },
+        {
+          "v": "Kore",
+          "t": "I see. The Thursday section still has space, but it meets in the afternoon, from one to four. Would that work?"
+        },
+        {
+          "v": "Orus",
+          "t": "Thursday is fine for me. But I've already done the first two experiments with my Tuesday partner. Will I have to repeat them?"
+        },
+        {
+          "v": "Kore",
+          "t": "No, I'll note that on your record. But you should ask your new group whether they've started the third experiment. If they're a week ahead, you'll need to catch up."
+        },
+        {
+          "v": "Orus",
+          "t": "Okay. Should I talk to the instructor?"
+        },
+        {
+          "v": "Kore",
+          "t": "I'll send her a message today, so you don't need to. Just show up on Thursday."
+        }
+      ]
+    },
+    "l_conv2": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Thanks for listening to my practice talk, Sam. What did you think?"
+        },
+        {
+          "v": "Fenrir",
+          "t": "The ideas were great, Nora, but I think it's too long. Isn't the limit ten minutes?"
+        },
+        {
+          "v": "Leda",
+          "t": "Yes. I timed it at thirteen. I have twenty slides, and I really like all of them."
+        },
+        {
+          "v": "Fenrir",
+          "t": "Well, the slide with the map of the harbor took you almost two minutes, and it didn't add much. Maybe cut that one, and the one with the old photographs."
+        },
+        {
+          "v": "Leda",
+          "t": "But the photographs are what make the topic interesting."
+        },
+        {
+          "v": "Fenrir",
+          "t": "True. Then keep one photo, and use it at the start to grab people's attention."
+        },
+        {
+          "v": "Leda",
+          "t": "Okay, I'll cut it down to fifteen slides. Can you listen to it again tomorrow?"
+        },
+        {
+          "v": "Fenrir",
+          "t": "Sure. Same time."
+        }
+      ]
+    },
+    "l_ann1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Attention students. The Student Government Association is holding a blood drive next Wednesday in the Student Union ballroom, from ten in the morning until four in the afternoon. Each donation takes about an hour, including a short health check. Please eat a full meal and drink plenty of water beforehand, because donors who skip meals sometimes feel dizzy. Bring a photo ID. Appointments are recommended and can be made on the SGA website, but walk-ins will be accepted if there is space. Everyone who donates will receive a free T-shirt and a coupon for the campus café."
+        }
+      ]
+    },
+    "l_ann2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Good afternoon, everyone. Starting next Monday, the campus dining halls will no longer offer disposable takeout boxes. Instead, your food will come in a reusable container. To borrow one, pay a five-dollar deposit at the register. When you've finished eating, return the container to any collection station inside a dining hall, and your deposit will be refunded to your student account. Last year, the dining halls threw away more than forty thousand boxes, and we think this change will cut that number dramatically."
+        }
+      ]
+    },
+    "l_talk1": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Today I'd like to talk about one of the most remarkable skills in the animal kingdom: the camouflage of the octopus. Many animals hide by matching their surroundings, but most can do it only in one place, like a moth on tree bark. An octopus can change its appearance in less than a second, and it can do so against almost any background. Here's the interesting part: the octopus is colorblind. Its eyes contain only one type of light-sensitive cell, so scientists long wondered how it could match colors it couldn't see. One idea is that the animal's skin itself contains proteins that detect light, so the skin may be sensing the surroundings directly. Another is that the octopus uses the shape of its pupil to compare light of different wavelengths. Neither explanation has been proved. What we do know is the hardware. The skin contains thousands of tiny sacs of pigment, each controlled by muscles. When the muscles contract, the sacs stretch and the color appears. Because the system is wired directly to the nervous system, rather than relying on hormones, the change happens almost instantly."
+        }
+      ]
+    },
+    "l_talk2": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Some Roman buildings are nearly two thousand years old and still standing. The Pantheon in Rome, for example, has the largest unreinforced concrete dome in the world. Modern concrete often starts to crumble after fifty or a hundred years, so engineers have long asked what the Romans did differently. A key ingredient was volcanic ash, which the Romans mixed with lime and water. The ash reacts with the lime over time and forms very stable compounds, so the material can actually become stronger. Recent studies found something else. Roman concrete contains small white chunks of lime, which scholars used to blame on sloppy mixing. In fact, the lime was added in a dry, reactive form, in a process known as hot mixing, and that produces those chunks deliberately. When a crack opens and water seeps in, the lime chunks dissolve and then harden again, filling the crack. In other words, the concrete can repair itself. Researchers are now testing similar recipes, hoping to produce modern concrete that lasts for centuries."
+        }
+      ]
+    },
+    "l_conv3": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Hi Tom, are you busy on Saturday?"
+        },
+        {
+          "v": "Puck",
+          "t": "I have a soccer game in the morning, but I'm free after one o'clock. Why?"
+        },
+        {
+          "v": "Leda",
+          "t": "I'm moving to a new apartment, and I need help with the boxes. My brother is coming with his truck."
+        },
+        {
+          "v": "Puck",
+          "t": "Sure, I can help. Where is the new apartment?"
+        },
+        {
+          "v": "Leda",
+          "t": "On Maple Street, near the park. It's small, but it's close to campus."
+        },
+        {
+          "v": "Puck",
+          "t": "Great. I'll come at two o'clock."
+        },
+        {
+          "v": "Leda",
+          "t": "Thank you so much. I'll buy pizza for everyone."
+        }
+      ]
+    },
+    "l_conv4": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Hello. My bike has a flat tire. Can you fix it today?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Let me look. Yes, there's a small hole in the tire. I can fix it, but it will take about an hour. Can you come back at four?"
+        },
+        {
+          "v": "Fenrir",
+          "t": "I have class until five. Can I pick it up tomorrow morning?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Of course. We open at nine. It will cost eight dollars."
+        },
+        {
+          "v": "Fenrir",
+          "t": "That's fine. Thank you."
+        }
+      ]
+    },
+    "l_ann3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Hello, students. The International Club will show a movie on Friday evening in Room 105 of the Arts Building. The movie starts at seven o'clock. It is a comedy from Brazil, and it has English subtitles. Entry is free, and the club will sell popcorn for one dollar. Please come early, because there are only sixty seats."
+        }
+      ]
+    },
+    "l_talk3": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Today we will learn about lighthouses. A lighthouse is a tall tower with a bright light at the top. It helps ships stay safe at night. Long ago, sailors could not see the rocks near the coast in the dark, and many ships hit them. So people built lighthouses on high places near dangerous rocks. At first, workers burned wood or oil to make the light. Later, a special glass lens made the light much brighter, so ships could see it from far away. Today, most lighthouses use electricity, and ships use computers to find their way, but some lighthouses still work."
+        }
+      ]
+    },
+    "l_talk4": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Today I'll explain how sourdough bread is made. Sourdough does not use dried yeast from a packet. Instead, a baker mixes flour and water and leaves it on the counter for several days. Tiny living things from the air and the flour, called wild yeast and bacteria, begin to grow in the mixture. They eat the flour and make a gas. The gas makes small bubbles that make the bread rise. The bacteria also make the bread taste a little sour. Bakers keep a small part of this mixture, called a starter, and use it again and again, sometimes for many years."
+        }
+      ]
+    },
+    "l_c11": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Excuse me, where is the library?"
+        }
+      ]
+    },
+    "l_c12": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Would you like tea or coffee?"
+        }
+      ]
+    },
+    "l_c13": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "How much is this notebook?"
+        }
+      ]
+    },
+    "l_c14": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "What did you do last weekend?"
+        }
+      ]
+    },
+    "l_c15": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Can I borrow your pen, please?"
+        }
+      ]
+    },
+    "l_c16": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Why are you so tired today?"
+        }
+      ]
+    },
+    "l_conv5": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Professor Alvarez, do you have a minute? I'm worried about the data for my psychology survey."
+        },
+        {
+          "v": "Orus",
+          "t": "Of course. What's the problem?"
+        },
+        {
+          "v": "Aoede",
+          "t": "I expected students who sleep more to report better moods. But the results show almost no connection."
+        },
+        {
+          "v": "Orus",
+          "t": "How many students answered the survey?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Only twenty-two. I sent it to a hundred, but most people ignored it."
+        },
+        {
+          "v": "Orus",
+          "t": "That's likely part of the problem. With so few responses, a small number of unusual answers can hide a pattern. Also, how did you ask about sleep?"
+        },
+        {
+          "v": "Aoede",
+          "t": "I asked how many hours they slept last night."
+        },
+        {
+          "v": "Orus",
+          "t": "That's tricky, because one night may not be typical. Many researchers ask about an average week instead."
+        },
+        {
+          "v": "Aoede",
+          "t": "So should I redo the survey?"
+        },
+        {
+          "v": "Orus",
+          "t": "You don't have time before the deadline. I'd rather you report the result honestly and discuss these limitations in your paper. That shows good judgment, and it's what real researchers do. If you have time afterward, you could run a second round with a bigger group."
+        },
+        {
+          "v": "Aoede",
+          "t": "Okay. That makes me feel better. I'll start rewriting the discussion section tonight."
+        }
+      ]
+    },
+    "l_ann4": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Good morning. This is an announcement from the Writing Center. Starting next week, we are changing how we schedule sessions. Until now, students could book an appointment up to a month ahead, but many reserved slots and then didn't show up, so tutors often sat idle while other students were turned away. From now on, appointments can be booked only forty-eight hours in advance, and you must confirm by text message on the morning of your session; otherwise, the slot is released. In return, we are adding Sunday evening hours, from six to nine, during the last four weeks of the semester. Drop-in tutoring for short questions, such as formatting citations, will continue on weekdays between noon and one."
+        }
+      ]
+    },
+    "l_talk5": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "The ocean is often described in layers, and the main way scientists divide it is by how much sunlight reaches each layer. In the top two hundred meters, the sunlit zone, there is enough light for photosynthesis, so this is where nearly all marine plants and algae live. Below that is the twilight zone, down to about a thousand meters. A little light penetrates here, but not enough for photosynthesis. Many animals in the twilight zone make a daily journey: they rise toward the surface at night to feed, then descend at dawn. In terms of the total mass of animals involved, it is the largest migration on Earth. Below a thousand meters lies the midnight zone, where no sunlight reaches at all. Here, many creatures produce their own light, a phenomenon called bioluminescence, which they use to attract prey, to confuse predators, or to find mates. Because food is scarce in the deep, much of it consists of dead organisms sinking from above, often called marine snow."
+        }
+      ]
+    },
+    "l_talk6": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Let's talk about mangrove forests, which grow along tropical coasts where land meets the sea. Mangrove trees face a harsh environment: their roots sit in salty water, which would kill most plants. Mangroves have solved this problem in several ways. Some species filter salt at the roots, so that very little enters the tree. Others take in salt but store it in old leaves, which later fall off, carrying the salt away. The roots themselves are remarkable. Many mangroves have tangled roots that rise above the mud, and these roots do two jobs: they supply oxygen to the tree, since mud contains little, and they slow incoming waves. That second function has practical value. Studies after major storms have found that villages behind mangrove belts often suffered less damage than those without them. Yet mangroves are disappearing, because they are cleared for shrimp farms and coastal building. Some governments are now paying communities to replant them, though newly planted forests take decades to match the protection of older ones."
+        }
+      ]
+    },
+    "l_c17": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "You'd have thought they'd have posted the exam results by now."
+        }
+      ]
+    },
+    "l_c18": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Do you suppose the committee will approve our budget?"
+        }
+      ]
+    },
+    "l_c19": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "I wish I hadn't agreed to lead the project."
+        }
+      ]
+    },
+    "l_c20": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "How come the library closes so early on Fridays?"
+        }
+      ]
+    },
+    "l_c21": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Hadn't we agreed to split the cost of the tickets?"
+        }
+      ]
+    },
+    "l_c22": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Would it be possible to extend the deadline by a couple of days?"
+        }
+      ]
+    },
+    "sp_r1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Welcome to the aquarium."
+        }
+      ]
+    },
+    "sp_r2": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "The coral reef is on the first floor."
+        }
+      ]
+    },
+    "sp_r3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Please don't tap on the glass of the tanks."
+        }
+      ]
+    },
+    "sp_r4": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Feeding shows begin at noon and again at three o'clock."
+        }
+      ]
+    },
+    "sp_r5": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Visitors who want to see the sharks should follow the blue signs."
+        }
+      ]
+    },
+    "sp_r6": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "If a guest feels unwell, show them to the quiet room by the gift shop."
+        }
+      ]
+    },
+    "sp_r7": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Because the penguins dislike loud noise, please ask visitors to speak quietly when they pass the enclosure."
+        }
+      ]
+    },
+    "sp_i1": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Thanks for taking part in this study about how people choose where to live. First, could you describe the kind of neighborhood you would most like to live in?"
+        }
+      ]
+    },
+    "sp_i2": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Some people prefer to live close to their work or school, while others are willing to travel far for a better home. Which do you prefer, and why?"
+        }
+      ]
+    },
+    "sp_i3": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Some people think that living with roommates is the best way to save money and make friends, while others value their privacy. What's your view?"
+        }
+      ]
+    },
+    "sp_i4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Finally, some cities are encouraging people to live in smaller apartments in order to reduce housing costs. Do you think this is a good idea? Why or why not?"
+        }
+      ]
+    }
+  },
+  "reading": {
+    "stage1": {
+      "id": "r1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Coral reefs cover less than one percent of the ocean floor, yet they support about a quarter of all marine species. Reefs are built by {tiny} animals called {corals}, which {live} in {warm}, shallow {water}. Inside {their} tissues {live} algae {that} supply {most} of {the} corals' food. When the water becomes too hot, corals expel the algae and turn white, a process known as bleaching."
+        },
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "The Romans built roads mainly to move soldiers quickly across their empire. A typical road was {constructed} in {layers}, with {large} stones {at} the {bottom} and {smaller} stones {and} gravel {above} them. Roads were also {slightly} curved so that rainwater ran off to the sides, which {kept} them from washing away. Some of these roads are still in use today."
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "LIBRARY NOTICE: Study Room Reservations\n\nStarting Monday, October 6, group study rooms on floors 2 and 3 of Eastgate Library must be reserved online. Walk-up use will no longer be allowed, because many rooms stood empty while other students waited downstairs. Each reservation lasts up to two hours, and a group may book only one room per day. If no member of the group has checked in at the front desk within 15 minutes of the start time, the reservation is cancelled and the room returns to the booking system. Rooms on floor 4 remain open to everyone without a reservation, but they are limited to quiet individual study.",
+          "items": [
+            {
+              "id": "r1_d1_1",
+              "q": "Why is the library changing its system for group study rooms?",
+              "options": [
+                "Groups were using the rooms for much longer than two hours",
+                "Some rooms sat empty while other students waited",
+                "The rooms on floor 4 had become too noisy",
+                "Students asked to reserve rooms by telephone"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_d1_2",
+              "q": "What happens if nobody in a group checks in within 15 minutes?",
+              "options": [
+                "Another group can book the room",
+                "The group may not book a room for a week",
+                "The group is moved to a room on floor 4",
+                "The reservation is extended by 15 minutes"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "From: Eastgate University Bookstore\nTo: All students\nSubject: End-of-semester textbook buyback\n\nDear students,\n\nOur buyback booth will be open in the Student Union from December 8 to 12, between 10:00 a.m. and 4:00 p.m. We will pay up to 50 percent of the original price for books that the faculty has chosen for next semester. For all other books, the price depends on the national market, and some titles may be worth only a few dollars. Please bring a valid student ID. Books with water damage or missing pages cannot be accepted, but highlighting and notes in the margins are fine. If you would rather not sell your books, consider donating them to the Student Union shelf, where first-year students can borrow them for free.\n\nThank you,\nMarta Fischer, Bookstore Manager",
+          "items": [
+            {
+              "id": "r1_d2_1",
+              "q": "What is the main purpose of the email?",
+              "options": [
+                "To announce new textbooks for next semester",
+                "To explain how to borrow books from the Student Union",
+                "To warn students about damaged books in the library",
+                "To tell students how to sell back their textbooks"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_d2_2",
+              "q": "According to the email, what decides whether a book earns the highest buyback price?",
+              "options": [
+                "Whether it contains any notes or highlighting",
+                "How early in the buyback week the student brings it in",
+                "Whether the faculty has chosen it for next semester",
+                "Whether the student owns the newest edition"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_d2_3",
+              "q": "What can be inferred about students who donate books to the Student Union shelf?",
+              "options": [
+                "They will not be paid for the books",
+                "They must also bring a valid student ID",
+                "They can donate books only in December",
+                "They will receive half of the original price"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "academic",
+          "title": "Read an Academic Passage",
+          "text": "How Birds Find Their Way\n\nEvery autumn, billions of birds travel thousands of kilometers to warmer regions, and many return to the same small area each spring. How do they navigate? Scientists have found that birds do not rely on a single sense but combine several. During the day, many species use the position of the sun, adjusting for the time of day with an internal clock. At night, some migrants appear to read the pattern of the stars.\n\nBirds also seem to sense Earth's magnetic field. In classic experiments, European robins kept in cages became restless at the season of migration and consistently hopped toward the direction they would fly in the wild. When researchers altered the magnetic field around the cages, the birds changed direction accordingly, even though they could not see the sky.\n\nStill, these tools may serve different purposes. Magnetic cues provide a general heading, whereas familiar landmarks, such as coastlines and rivers, probably help birds make final corrections near their destination. Because some young birds make their first journey without guidance from adults, scientists believe that a basic sense of direction is inherited, while detailed knowledge of landmarks is learned.",
+          "items": [
+            {
+              "id": "r1_a1_1",
+              "q": "What is the passage mainly about?",
+              "options": [
+                "Why most birds prefer to travel south in autumn rather than in spring",
+                "How scientists keep birds in cages for experiments",
+                "The different cues that birds combine to find their way",
+                "The effect of magnetic fields on human navigation"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_a1_2",
+              "q": "According to paragraph 1, how do birds that use the sun find the right direction at different times of day?",
+              "options": [
+                "They compare it with the pattern of the stars",
+                "They adjust for the time with an internal clock",
+                "They follow other birds that fly beside them",
+                "They watch the shadows of rivers and coastlines"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_a1_3",
+              "q": "Why does the author mention that the robins changed direction when the magnetic field was altered?",
+              "options": [
+                "To prove that robins cannot see the sky",
+                "To explain why robins become restless in cages",
+                "To suggest that cages harm migrating birds",
+                "To show that birds can sense the magnetic field"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_a1_4",
+              "q": "The word 'consistently' in the passage is closest in meaning to",
+              "options": [
+                "repeatedly",
+                "gradually",
+                "carefully",
+                "impatiently"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_a1_5",
+              "q": "What does the passage suggest about landmarks such as coastlines?",
+              "options": [
+                "They are the first cue that young birds learn at birth",
+                "They matter only for birds that migrate at night",
+                "They probably help birds adjust their course near the end of a trip",
+                "They are ignored by birds that already have a magnetic sense to guide them"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "r2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Many people recycle aluminum cans. First, the old cans are {melted} and {made} into {new} metal. Doing {this} {saves} a lot {of} energy. A {factory} that {uses} old {metal} needs much {less} power than one that starts with raw material. Recycling also keeps trash out of the ground."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "LAUNDRY ROOM NOTICE\n\nThe laundry room in Cedar Hall is open from 7 a.m. to 11 p.m. every day. Each wash costs $2 and each dryer costs $1. Please take your clothes out of the machine as soon as it stops. The machines on the right are broken until Friday.",
+            "items": [
+              {
+                "id": "r2l_d1_1",
+                "q": "How much does one wash cost?",
+                "options": [
+                  "$1",
+                  "$3",
+                  "$2",
+                  "$7"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_d1_2",
+                "q": "What should students do when a machine stops?",
+                "options": [
+                  "Call the hall manager",
+                  "Take their clothes out quickly",
+                  "Use the machines on the right",
+                  "Put in one more dollar"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "Hi Ken! I'm at the grocery store near campus. I'm buying food for our dinner on Friday. Do we need anything else? I already have rice, chicken and tomatoes. We have no milk, so I will buy some here too. Can you bring juice and a cake from the bakery? The bakery closes at 6:00. Thanks! Ben",
+            "items": [
+              {
+                "id": "r2l_d2_1",
+                "q": "Where is Ben now?",
+                "options": [
+                  "At the bakery near campus",
+                  "At home",
+                  "At the grocery store",
+                  "At Ken's school"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_d2_2",
+                "q": "What does Ben ask Ken to bring?",
+                "options": [
+                  "Juice and a cake",
+                  "Rice and chicken",
+                  "Milk and tomatoes",
+                  "Juice and milk"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_d2_3",
+                "q": "When does the bakery close?",
+                "options": [
+                  "At 5:00",
+                  "At 7:00",
+                  "At 8:00",
+                  "At 6:00"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "How Bats Find Food\n\nMost bats hunt at night, when it is too dark to see well. Instead of using their eyes, they use sound. A bat makes very high sounds that people cannot hear. The sounds hit insects and come back to the bat as echoes. The bat listens to the echoes and learns where the insect is, how big it is, and how fast it is moving. This way of finding things is called echolocation. Some bats can catch hundreds of small insects in one hour. Because of this, bats help farmers by eating insects that damage crops.",
+            "items": [
+              {
+                "id": "r2l_a1_1",
+                "q": "What is the passage mainly about?",
+                "options": [
+                  "Why bats sleep upside down during the day",
+                  "How bats use sound to find food",
+                  "How bats see in the dark",
+                  "Why farmers dislike bats"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_a1_2",
+                "q": "When do most bats hunt?",
+                "options": [
+                  "In the morning",
+                  "In the afternoon",
+                  "Only in winter",
+                  "At night"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_a1_3",
+                "q": "What do the echoes tell a bat?",
+                "options": [
+                  "Where an insect is and how fast it moves",
+                  "What color the insect is",
+                  "How old the insect is",
+                  "Where the other bats in the cave are sleeping"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_a1_4",
+                "q": "How many insects can some bats catch in one hour?",
+                "options": [
+                  "Only a few",
+                  "About ten",
+                  "Hundreds",
+                  "Millions"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_a1_5",
+                "q": "Why are bats useful to farmers?",
+                "options": [
+                  "They carry seeds to new fields",
+                  "They eat insects that damage crops",
+                  "They scare birds away from crops",
+                  "They make the soil richer"
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "r2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Before the fourteenth century, most towns measured time with sundials and water clocks, both of which had serious limitations. Sundials were {useless} at {night} or under {cloudy} skies, and {water} clocks {froze} in winter. The mechanical clock {solved} these {problems} by using a {falling} weight to {drive} a {regulated} mechanism. Early versions were large, inaccurate and often lost several minutes a day, but they ran independently of the weather."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "NOTICE TO COMMUTER STUDENTS: Parking Permits, Spring Semester\n\nPermits for Lot C and Lot D go on sale Monday, January 12, at 8:00 a.m., online only. Because Lot C was reduced by roughly a third during construction of the new science building, only 400 permits will be sold for it, compared with 600 last year. Permits are sold first come, first served; students who live within one mile of campus are not eligible for either lot. A permit does not guarantee a space, and vehicles parked in Lot C without a valid permit will be ticketed. Students who cannot obtain a Lot C permit may buy a Lot D permit at a lower price, and a free shuttle runs between Lot D and the main library every ten minutes.",
+            "items": [
+              {
+                "id": "r2u_d1_1",
+                "q": "Why will fewer permits be sold for Lot C this year?",
+                "options": [
+                  "Fewer students are expected to commute",
+                  "Lot D has been expanded to replace it",
+                  "Nearby residents asked for it to be closed",
+                  "Construction has made the lot smaller"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_d1_2",
+                "q": "Which student could buy a permit for Lot C?",
+                "options": [
+                  "One who lives three miles away and registers online on January 12",
+                  "One who lives half a mile from campus and registers online on January 12",
+                  "One who plans to buy a permit in person at the office",
+                  "One who tries to buy a permit on January 9"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "From: Information Technology Services\nTo: All students and staff\nSubject: Required change to the sign-in process\n\nDear campus community,\n\nBeginning March 2, all university accounts will require a second step when you sign in from a new device. After entering your password, you will approve the request using the Eastgate Secure app or a code sent by text message. We recommend the app, because text messages can be delayed when mobile coverage is poor, and they are the method most often targeted by scammers. The change responds to a sharp rise in stolen passwords last year, when attackers reached more than 300 accounts. If you have no smartphone, visit the IT Help Desk (Room 12, Wells Hall) before March 2 to collect a free security key, a small device that plugs into a computer. Accounts that have not been set up by April 1 will be locked until the owner visits the Help Desk in person.\n\nSincerely,\nJun Park, Director of IT Services",
+            "items": [
+              {
+                "id": "r2u_d2_1",
+                "q": "Why is the university introducing the new sign-in step?",
+                "options": [
+                  "Students asked for an easier way to sign in",
+                  "Passwords were stolen from hundreds of accounts last year",
+                  "The old sign-in system had stopped working on many new devices",
+                  "Text messages had become too expensive"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_d2_2",
+                "q": "Why does the email recommend the app over text messages?",
+                "options": [
+                  "The app works on computers that have no internet connection at all",
+                  "Text messages cost students money",
+                  "Texts may arrive late and are often targeted by scammers",
+                  "The app removes the need for a password"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_d2_3",
+                "q": "What will happen to an account that has not been set up by April 1?",
+                "options": [
+                  "It will be deleted at the end of the semester",
+                  "It will be moved to a text-message-only system until it is set up",
+                  "Its owner must pay for a security key",
+                  "It will be locked until the owner visits the Help Desk"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "The Thawing Ground\n\nPermafrost, ground that remains frozen for at least two consecutive years, underlies roughly a quarter of the land in the Northern Hemisphere. For millennia it has acted as a vast freezer, locking away the remains of plants and animals that died long ago. Because the cold prevents these remains from decomposing, enormous quantities of carbon have accumulated in the frozen soil, perhaps twice as much as is currently in the atmosphere.\n\nAs the Arctic warms, however, this arrangement is becoming precarious. When permafrost thaws, microbes begin to break down the ancient material, releasing carbon dioxide and methane, a gas that traps heat far more effectively than carbon dioxide does over short periods. Scientists worry about a feedback loop: warming releases gases, which in turn cause more warming.\n\nThawing also threatens people directly. Much of the ground is held together by ice, so when it melts, the surface can sink or collapse, damaging roads, pipelines and buildings. Researchers caution, however, that predictions remain uncertain. Warming does not thaw all permafrost at the same rate, and in some places new vegetation may absorb part of the carbon that is released, partly offsetting the losses.",
+            "items": [
+              {
+                "id": "r2u_a1_1",
+                "q": "According to paragraph 1, why has so much carbon accumulated in permafrost?",
+                "options": [
+                  "Cold temperatures have kept dead plants and animals from decomposing",
+                  "Arctic plants grow much faster than plants in warmer regions of the world",
+                  "Carbon dioxide dissolves easily in frozen water",
+                  "Microbes in the soil produce carbon as they freeze"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_a1_2",
+                "q": "The word 'precarious' in the passage is closest in meaning to",
+                "options": [
+                  "unnecessary",
+                  "gradual",
+                  "protective",
+                  "unstable"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_a1_3",
+                "q": "According to the passage, why does thawing permafrost damage buildings and roads?",
+                "options": [
+                  "The released gases corrode metal pipelines",
+                  "The ice that holds the ground together melts, so the surface sinks",
+                  "Floodwater from melting glaciers washes away the soil beneath the buildings",
+                  "Warm air makes the foundations expand"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_a1_4",
+                "q": "Which of the following best describes the 'feedback loop' mentioned in paragraph 2?",
+                "options": [
+                  "Microbes grow faster when they have less carbon",
+                  "Cold air traps gases in the ground, which keeps it frozen",
+                  "Warming frees gases that then cause still more warming",
+                  "Thawing stops once the carbon has been released"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_a1_5",
+                "q": "What does the final paragraph suggest about predictions of future carbon release?",
+                "options": [
+                  "They are uncertain because thawing and plant growth differ from place to place",
+                  "They are reliable because all permafrost thaws at the same rate",
+                  "They are unnecessary because plants absorb all of the carbon that the thawing soil releases",
+                  "They have been proven wrong by recent measurements"
+                ],
+                "answer": 0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "listening": {
+    "stage1": {
+      "id": "l1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "choose",
+          "title": "Listen and Choose a Response",
+          "items": [
+            {
+              "id": "l1_c1",
+              "audio": "l_c1",
+              "q": "Choose the best response.",
+              "options": [
+                "On the table by the door, please.",
+                "Yes, they're quite heavy, so be careful.",
+                "I left them yesterday.",
+                "About twenty of them."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c2",
+              "audio": "l_c2",
+              "q": "Choose the best response.",
+              "options": [
+                "It was due in the lab.",
+                "Yes, the lab is closed.",
+                "No, I still need some data.",
+                "I prefer writing reports."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c3",
+              "audio": "l_c3",
+              "q": "Choose the best response.",
+              "options": [
+                "I turned it on this morning.",
+                "Sure, I'll lower it now.",
+                "It's on the second floor.",
+                "I heard it was very good."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c4",
+              "audio": "l_c4",
+              "q": "Choose the best response.",
+              "options": [
+                "Since I was fifteen.",
+                "For tomorrow morning.",
+                "At the language center.",
+                "I'll study it next year."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c5",
+              "audio": "l_c5",
+              "q": "Choose the best response.",
+              "options": [
+                "Our school is about ten years old.",
+                "I'll show you my ID.",
+                "Yes, I'm a student here too.",
+                "Did you check your jacket pockets?"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c6",
+              "audio": "l_c6",
+              "q": "Choose the best response.",
+              "options": [
+                "It's a very old building.",
+                "Let me check the website.",
+                "I closed it at six.",
+                "It's next to the park."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c7",
+              "audio": "l_c7",
+              "q": "Choose the best response.",
+              "options": [
+                "I took the train last year.",
+                "It was nice to meet them.",
+                "Me too. Parking here costs a fortune.",
+                "A round-trip ticket to the city, please."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c8",
+              "audio": "l_c8",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I'll move it for you.",
+                "Neither did I, until I saw the email.",
+                "The movers come at noon.",
+                "I already realized that too."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c9",
+              "audio": "l_c9",
+              "q": "Choose the best response.",
+              "options": [
+                "Around the corner from here.",
+                "It's been open since 2010.",
+                "I'll pick it up tomorrow.",
+                "At nine, I think."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c10",
+              "audio": "l_c10",
+              "q": "Choose the best response.",
+              "options": [
+                "She teaches on the third floor.",
+                "The office is quite small.",
+                "Yes, I'm free after lunch.",
+                "I think so, until three."
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv1",
+          "items": [
+            {
+              "id": "l1_v1_1",
+              "q": "Why does the man want to change lab sections?",
+              "options": [
+                "He did not get along with his lab partner",
+                "The Tuesday section was cancelled",
+                "His work schedule overlaps with the lab",
+                "He failed the first two experiments"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_v1_2",
+              "q": "What does the woman say about the experiments the man has already done?",
+              "options": [
+                "He will not need to repeat them",
+                "He will have to redo them with the new group",
+                "The new instructor will grade them again",
+                "He must report them to the department"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_v1_3",
+              "q": "What does the woman say she will do?",
+              "options": [
+                "Find out whether the new group has started the third experiment",
+                "Ask the man's old partner to change sections too",
+                "Change the time of the Thursday lab",
+                "Send a message to the instructor"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv2",
+          "items": [
+            {
+              "id": "l1_v2_1",
+              "q": "What is the man's main concern about the talk?",
+              "options": [
+                "It is longer than the time allowed",
+                "The slides are hard to read",
+                "The ideas are not interesting enough",
+                "The woman speaks too quickly"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_v2_2",
+              "q": "What does the man suggest about the slide with the map?",
+              "options": [
+                "Spend more time explaining it",
+                "Cut it from the presentation",
+                "Move it to the beginning",
+                "Add photographs to it"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_v2_3",
+              "q": "What will the woman probably do next?",
+              "options": [
+                "Ask the professor for more time",
+                "Speak much faster so that all twenty slides still fit",
+                "Shorten the talk and practice it again with the man",
+                "Add more photographs to the presentation"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann1",
+          "items": [
+            {
+              "id": "l1_n1_1",
+              "q": "What should donors do before they come?",
+              "options": [
+                "Get a health check at the clinic",
+                "Bring a signed form from a doctor",
+                "Avoid drinking water",
+                "Eat a full meal"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_n1_2",
+              "q": "What is true about students who do not have an appointment?",
+              "options": [
+                "They cannot donate",
+                "They may donate if there is space",
+                "They must wait for the next blood drive",
+                "They will not receive a T-shirt"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann2",
+          "items": [
+            {
+              "id": "l1_n2_1",
+              "q": "What change is being announced?",
+              "options": [
+                "The dining halls will close earlier",
+                "Disposable boxes will cost five dollars each at the register",
+                "Takeout food will come in reusable containers",
+                "Meal plans will become more expensive"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_n2_2",
+              "q": "How can a student get the deposit back?",
+              "options": [
+                "By returning the container to a collection station",
+                "By showing the receipt at the register",
+                "By washing the container before leaving",
+                "By borrowing a second container"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk1",
+          "items": [
+            {
+              "id": "l1_t1_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "How moths hide on tree bark",
+                "How a colorblind octopus matches its surroundings",
+                "Why octopuses have such large and complex nervous systems",
+                "How octopuses hunt in the dark"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t1_2",
+              "q": "Why does the professor mention a moth on tree bark?",
+              "options": [
+                "To show that moths are also colorblind",
+                "To explain how octopuses find food",
+                "To compare how fast moths and octopuses can change their appearance",
+                "To give an example of an animal that hides in only one setting"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t1_3",
+              "q": "What is one explanation for how octopuses may match colors they cannot see?",
+              "options": [
+                "Their skin may contain proteins that detect light",
+                "Their eyes have three types of light-sensitive cell",
+                "Hormones carry messages from the eyes to the skin",
+                "They copy the colors of nearby animals"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t1_4",
+              "q": "According to the professor, why can the color change happen so quickly?",
+              "options": [
+                "The pigment is stored in the octopus's eyes",
+                "Hormones spread quickly through the blood to every part of the skin",
+                "The pigment sacs are linked directly to the nervous system",
+                "The octopus replaces its outer skin"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk2",
+          "items": [
+            {
+              "id": "l1_t2_1",
+              "q": "What is the main point of the talk?",
+              "options": [
+                "Roman engineers built the first large domes in the history of Europe",
+                "Modern concrete is stronger than Roman concrete",
+                "Builders should stop using concrete altogether",
+                "Features of Roman concrete may explain why it has lasted so long"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t2_2",
+              "q": "According to the professor, what role did volcanic ash play?",
+              "options": [
+                "It reacted with lime to form stable compounds",
+                "It made the concrete light enough for large domes",
+                "It kept water from reaching the cracks",
+                "It gave the concrete its white color"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t2_3",
+              "q": "What did scholars once think the white chunks of lime showed?",
+              "options": [
+                "A deliberate decoration",
+                "Damage caused by water",
+                "Careless mixing",
+                "A shortage of volcanic ash"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_t2_4",
+              "q": "How can the lime chunks help when a crack forms?",
+              "options": [
+                "They absorb the water and push the crack closed",
+                "They dissolve and harden again, filling the crack",
+                "They release volcanic ash into the crack",
+                "They keep rain from reaching the crack because of their color"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "l2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2l_c1",
+                "audio": "l_c11",
+                "q": "Choose the best response.",
+                "options": [
+                  "I like to read.",
+                  "It's next to the gym.",
+                  "At six o'clock.",
+                  "Yes, it is a big library."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c2",
+                "audio": "l_c12",
+                "q": "Choose the best response.",
+                "options": [
+                  "Tea, please.",
+                  "Yes, I have.",
+                  "At the cafe.",
+                  "It is very hot."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c3",
+                "audio": "l_c13",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's on the shelf.",
+                  "Yes, it's new.",
+                  "I bought it.",
+                  "Three dollars."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_c4",
+                "audio": "l_c14",
+                "q": "Choose the best response.",
+                "options": [
+                  "I'll go to the park.",
+                  "I like the weekend.",
+                  "I visited my cousin.",
+                  "Yes, I did it."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_c5",
+                "audio": "l_c15",
+                "q": "Choose the best response.",
+                "options": [
+                  "It was a good pen.",
+                  "Sure, here you are.",
+                  "I wrote it yesterday.",
+                  "Pens are very long."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c6",
+                "audio": "l_c16",
+                "q": "Choose the best response.",
+                "options": [
+                  "At ten in the evening.",
+                  "Yes, I'm so tired.",
+                  "I stayed up late studying.",
+                  "It's on my desk."
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv3",
+            "items": [
+              {
+                "id": "l2l_v1_1",
+                "q": "Why can't Tom help in the morning?",
+                "options": [
+                  "He has a soccer game",
+                  "He has to go to work",
+                  "He is moving too",
+                  "He will study at the library"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_v1_2",
+                "q": "What will the woman do to thank her helpers?",
+                "options": [
+                  "Pay each helper ten dollars",
+                  "Buy pizza",
+                  "Cook a big dinner",
+                  "Lend them her brother's truck"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv4",
+            "items": [
+              {
+                "id": "l2l_v2_1",
+                "q": "What is wrong with the bike?",
+                "options": [
+                  "The seat is broken",
+                  "The brakes are loose",
+                  "The chain is missing",
+                  "There is a hole in the tire"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_v2_2",
+                "q": "When will the man pick up the bike?",
+                "options": [
+                  "At four today",
+                  "At five today",
+                  "Tomorrow morning",
+                  "Tomorrow evening"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann3",
+            "items": [
+              {
+                "id": "l2l_n1_1",
+                "q": "Where will the movie be shown?",
+                "options": [
+                  "In the library",
+                  "In the International Club office",
+                  "In Room 105 of the Arts Building",
+                  "In the gym"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_n1_2",
+                "q": "What can people buy at the movie?",
+                "options": [
+                  "Popcorn",
+                  "Tickets",
+                  "Drinks",
+                  "Posters"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_n1_3",
+                "q": "Why should people come early?",
+                "options": [
+                  "The movie starts at five",
+                  "The club needs help with the room",
+                  "The popcorn sells out quickly",
+                  "There are only sixty seats"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk3",
+            "items": [
+              {
+                "id": "l2l_t1_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How to sail a ship at night",
+                  "The history of lighthouses",
+                  "How glass is made",
+                  "Where the tallest towers are"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_t1_2",
+                "q": "Why did people build lighthouses near rocks?",
+                "options": [
+                  "To store oil for ships",
+                  "To make a home for sailors",
+                  "To mark the best places for fishing near the coast",
+                  "To warn ships about danger in the dark"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_t1_3",
+                "q": "What made the light brighter?",
+                "options": [
+                  "A special glass lens",
+                  "More wood",
+                  "A bigger tower",
+                  "Computers on ships"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk4",
+            "items": [
+              {
+                "id": "l2l_t2_1",
+                "q": "What does a baker mix to start sourdough?",
+                "options": [
+                  "Flour and dried yeast",
+                  "Water and sugar",
+                  "Flour and water",
+                  "Milk and eggs"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_t2_2",
+                "q": "What makes sourdough bread rise?",
+                "options": [
+                  "Gas made by tiny living things",
+                  "Air pushed in by a machine in the kitchen",
+                  "Extra heat in the oven",
+                  "A packet of dried yeast"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_t2_3",
+                "q": "What is a starter?",
+                "options": [
+                  "The first loaf of bread that a baker bakes each morning",
+                  "A small part of the mixture that is kept and reused",
+                  "A kind of flour from the store",
+                  "A sour sauce for bread"
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "l2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2u_c1",
+                "audio": "l_c17",
+                "q": "Choose the best response.",
+                "options": [
+                  "I posted it a week ago.",
+                  "They were thoughtful enough.",
+                  "That's what I assumed, too.",
+                  "The post office was closed."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_c2",
+                "audio": "l_c18",
+                "q": "Choose the best response.",
+                "options": [
+                  "It depends on how convincing our proposal is.",
+                  "Yes, the committee room is quite big and very modern.",
+                  "I supposed the budget was approved.",
+                  "The proposal was written by hand."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_c3",
+                "audio": "l_c19",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, I led it by the door.",
+                  "The project was agreed on Monday by the whole team.",
+                  "I hope you had agreed, too.",
+                  "Maybe you could ask someone to share the work."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_c4",
+                "audio": "l_c20",
+                "q": "Choose the best response.",
+                "options": [
+                  "It closes the door early.",
+                  "Probably because fewer students go on Fridays.",
+                  "Fridays are always closed for cleaning in winter.",
+                  "I closed it at six."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_c5",
+                "audio": "l_c21",
+                "q": "Choose the best response.",
+                "options": [
+                  "We had, so I'll send you my half tonight.",
+                  "Yes, the tickets will arrive in the mail on Monday.",
+                  "No, I don't mind the cost.",
+                  "I agreed to the price last year."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_c6",
+                "audio": "l_c22",
+                "q": "Choose the best response.",
+                "options": [
+                  "The extension cord is in the drawer.",
+                  "A couple of days ago, I think.",
+                  "Yes, it was a long extension.",
+                  "I can't promise, but I'll ask the professor."
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv5",
+            "items": [
+              {
+                "id": "l2u_v1_1",
+                "q": "What is the student's problem?",
+                "options": [
+                  "Too many students answered and she cannot analyze all the data",
+                  "Her survey results do not show the connection she expected",
+                  "She cannot decide on a topic for her paper",
+                  "Her professor rejected her survey questions"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_v1_2",
+                "q": "Why does the professor say that asking about the previous night is a problem?",
+                "options": [
+                  "Students may not remember the night before",
+                  "The question was too long for a survey",
+                  "One night may not represent how a person usually sleeps",
+                  "Moods change more during the week than during the weekend"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_v1_3",
+                "q": "What does the professor advise the student to do?",
+                "options": [
+                  "Report the results honestly and discuss the weaknesses of the survey",
+                  "Redo the survey with a hundred new students before the deadline arrives",
+                  "Remove the unusual answers from the results",
+                  "Choose a different topic for her paper"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_v1_4",
+                "q": "What does the professor say the student could do after the deadline?",
+                "options": [
+                  "Ask for an extension on her paper",
+                  "Send the same survey to fewer people",
+                  "Publish her results online",
+                  "Repeat the study with more participants"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann4",
+            "items": [
+              {
+                "id": "l2u_n1_1",
+                "q": "Why is the Writing Center changing its booking system?",
+                "options": [
+                  "Many students booked sessions and then did not attend",
+                  "Tutors were unable to work on weekends",
+                  "Students complained that appointments were far too short for them",
+                  "The center wants to receive fewer students"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_n1_2",
+                "q": "What must students do on the day of their appointment?",
+                "options": [
+                  "Arrive fifteen minutes early",
+                  "Send their paper to the tutor in advance",
+                  "Confirm it by text message",
+                  "Call the center to check the time"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_n1_3",
+                "q": "What is being added during the last weeks of the semester?",
+                "options": [
+                  "Appointments booked a month ahead",
+                  "Sunday evening hours",
+                  "Weekday morning sessions",
+                  "Tutoring on citation formats"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk5",
+            "items": [
+              {
+                "id": "l2u_t1_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How marine plants carry out photosynthesis",
+                  "Why deep-sea animals are able to survive for months without any food",
+                  "How scientists measure the depth of the ocean",
+                  "How sunlight divides the ocean into layers, and the life in each"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_t1_2",
+                "q": "According to the professor, what is special about the daily journey of twilight-zone animals?",
+                "options": [
+                  "It is the only migration made by animals that feed on plants and algae",
+                  "It is the largest migration on Earth in total animal mass",
+                  "It carries animals down to the midnight zone",
+                  "It takes place only in the sunlit zone"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_t1_3",
+                "q": "What does the professor say is the main food source in the midnight zone?",
+                "options": [
+                  "Plants that grow on the sea floor",
+                  "Algae living inside glowing animals",
+                  "Dead organisms that sink from above",
+                  "Seawater rich in dissolved minerals"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk6",
+            "items": [
+              {
+                "id": "l2u_t2_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How mangroves survive in salty water and why they matter",
+                  "Why shrimp farming is profitable",
+                  "How mangrove seeds spread along tropical coasts by sea currents",
+                  "How governments protect tropical islands"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_t2_2",
+                "q": "According to the professor, how do some mangroves get rid of salt?",
+                "options": [
+                  "They release it through their roots into the mud",
+                  "They turn it into oxygen",
+                  "They use it to feed new leaves",
+                  "They store it in old leaves that later fall off"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_t2_3",
+                "q": "Why does the professor mention villages behind mangrove belts?",
+                "options": [
+                  "To show that shrimp farms bring wealth to villages",
+                  "To show that mangroves can reduce storm damage",
+                  "To explain why mangroves grow slowly",
+                  "To argue that mangroves should be cleared for building"
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "writing": {
+    "build": {
+      "title": "Build a Sentence",
+      "instructions": "Arrange the words to build a correct sentence. One box may not be needed.",
+      "items": [
+        {
+          "id": "w_b1",
+          "context": "I'd like to join the hiking club.",
+          "after": "?",
+          "chunks": [
+            "meets",
+            "you",
+            "the club",
+            "when",
+            "do",
+            "know",
+            "does"
+          ],
+          "answer": "do you know when the club meets"
+        },
+        {
+          "id": "w_b2",
+          "context": "Why did the birds leave so early this year?",
+          "before": "Scientists",
+          "after": ".",
+          "chunks": [
+            "colder than usual",
+            "think",
+            "was",
+            "autumn",
+            "the",
+            "that"
+          ],
+          "answer": "think that the autumn was colder than usual"
+        },
+        {
+          "id": "w_b3",
+          "context": "How was the coral reef tour?",
+          "before": "It",
+          "after": ".",
+          "chunks": [
+            "than",
+            "was",
+            "I",
+            "better",
+            "expected",
+            "much"
+          ],
+          "answer": "was much better than I expected",
+          "alts": [
+            "was better than I expected"
+          ]
+        },
+        {
+          "id": "w_b4",
+          "context": "Did the tutor explain why the experiment failed?",
+          "before": "Yes. She",
+          "after": ".",
+          "chunks": [
+            "wrong",
+            "us",
+            "gone",
+            "told",
+            "what",
+            "had",
+            "did"
+          ],
+          "answer": "told us what had gone wrong"
+        },
+        {
+          "id": "w_b5",
+          "context": "Why were you late to the Roman history lecture?",
+          "before": "I",
+          "after": ".",
+          "chunks": [
+            "the road",
+            "because",
+            "was",
+            "closed",
+            "missed",
+            "the bus",
+            "would"
+          ],
+          "answer": "missed the bus because the road was closed"
+        },
+        {
+          "id": "w_b6",
+          "context": "What does the notice say about the pool?",
+          "before": "It says",
+          "after": "next week.",
+          "chunks": [
+            "is",
+            "that",
+            "going",
+            "the pool",
+            "be",
+            "to",
+            "closed"
+          ],
+          "answer": "that the pool is going to be closed"
+        },
+        {
+          "id": "w_b7",
+          "context": "Did you ask about the train to the airport?",
+          "before": "Yes, I",
+          "after": ".",
+          "chunks": [
+            "asked",
+            "the train",
+            "him",
+            "leaves",
+            "when",
+            "did"
+          ],
+          "answer": "asked him when the train leaves"
+        },
+        {
+          "id": "w_b8",
+          "context": "Is the museum still looking for volunteers?",
+          "before": "Yes, but",
+          "after": ".",
+          "chunks": [
+            "some experience",
+            "are",
+            "only people",
+            "considered",
+            "who have",
+            "being"
+          ],
+          "answer": "only people who have some experience are being considered",
+          "alts": [
+            "only people who have some experience are considered"
+          ]
+        },
+        {
+          "id": "w_b9",
+          "context": "Why do some animals hunt only at night?",
+          "before": "Many of them",
+          "after": ".",
+          "chunks": [
+            "have",
+            "dim light",
+            "eyes",
+            "that",
+            "in",
+            "work well",
+            "works"
+          ],
+          "answer": "have eyes that work well in dim light"
+        },
+        {
+          "id": "w_b10",
+          "context": "Do you think the ancient builders used machines?",
+          "before": "Some historians believe",
+          "after": ".",
+          "chunks": [
+            "wooden sleds",
+            "the heavy stones",
+            "they moved",
+            "and",
+            "with ropes"
+          ],
+          "answer": "they moved the heavy stones with ropes and wooden sleds",
+          "alts": [
+            "they moved the heavy stones with wooden sleds and ropes"
+          ]
+        }
+      ]
+    },
+    "email": {
+      "title": "Write an Email",
+      "to": "Ms. Delgado",
+      "subject": "Change to my volunteer shift",
+      "prompt": "You volunteer at your university's community garden. The coordinator, Ms. Delgado, assigned you to the Saturday morning shift for the whole month. This week you learned that your part-time job at a bookstore now requires you to work on Saturday mornings. You still want to keep volunteering.\n\nWrite an email to Ms. Delgado. In your email, do the following:\n- Explain your situation.\n- Suggest a different time when you could volunteer.\n- Ask how she would like you to handle this Saturday's shift, which you cannot cover.\n\nUse full sentences, and write as much as you can.",
+      "rubric": "Task: polite email to a volunteer coordinator about a schedule conflict. Must cover all 3 bullets: (1) the situation (assigned Saturday mornings, new bookstore shift at the same time), (2) a concrete alternative time (for example Saturday afternoon or a weekday evening), (3) a clear question about this Saturday's shift (find a replacement, give notice, make up the hours). Look for an apologetic but positive tone, a statement that the writer wants to keep volunteering, greeting and sign-off, logical order, accurate grammar and precise vocabulary. Typical strong length 100-150 words."
+    },
+    "discussion": {
+      "title": "Write for an Academic Discussion",
+      "prompt": "Your professor is teaching a class on economics. Post a reply to the professor's question. In your reply, do these two things.\n- State your view and back it up.\n- Add something new to the thread, in your own words.\nAim for at least 100 words.",
+      "professor": {
+        "name": "Dr. Navarro",
+        "text": "Several companies and a few city governments have tested a four-day workweek in which employees keep their full pay but work about 32 hours instead of 40. Supporters say workers become more focused and less stressed, so productivity does not fall. Critics say that many jobs, such as hospitals, shops and customer service, cannot simply close for a day, and that the costs may fall on other workers. Do you think a four-day workweek should become the standard? Why or why not?"
+      },
+      "students": [
+        {
+          "name": "Camila",
+          "text": "I think it should. My aunt's company tried it for six months, and people were happier and made fewer mistakes. If workers are rested, they do the same work in less time, so nobody loses anything."
+        },
+        {
+          "name": "Owen",
+          "text": "I'm not so sure. In my summer job at a restaurant, we needed people every day. A shorter week would mean hiring more staff or making others work longer hours, and many small businesses can't afford that."
+        }
+      ],
+      "rubric": "Task: academic discussion post, 100+ words. Look for a clear position, specific support (productivity, stress, service jobs, costs for small businesses, how the change is introduced), engagement with Camila's or Owen's point that adds a new angle rather than repeating it, coherence, and varied accurate grammar and vocabulary."
+    }
+  },
+  "speaking": {
+    "repeat": {
+      "title": "Listen and Repeat",
+      "instructions": "Listen to each sentence once. After the beep, repeat it exactly as you heard it. No preparation time.",
+      "context": "You are starting work as a guide at a city aquarium. Listen to your supervisor and repeat what she says. You hear each sentence one time.",
+      "maxSeconds": 14,
+      "items": [
+        {
+          "id": "sp_r1",
+          "audio": "sp_r1",
+          "text": "Welcome to the aquarium."
+        },
+        {
+          "id": "sp_r2",
+          "audio": "sp_r2",
+          "text": "The coral reef is on the first floor."
+        },
+        {
+          "id": "sp_r3",
+          "audio": "sp_r3",
+          "text": "Please don't tap on the glass of the tanks."
+        },
+        {
+          "id": "sp_r4",
+          "audio": "sp_r4",
+          "text": "Feeding shows begin at noon and again at three o'clock."
+        },
+        {
+          "id": "sp_r5",
+          "audio": "sp_r5",
+          "text": "Visitors who want to see the sharks should follow the blue signs."
+        },
+        {
+          "id": "sp_r6",
+          "audio": "sp_r6",
+          "text": "If a guest feels unwell, show them to the quiet room by the gift shop."
+        },
+        {
+          "id": "sp_r7",
+          "audio": "sp_r7",
+          "text": "Because the penguins dislike loud noise, please ask visitors to speak quietly when they pass the enclosure."
+        }
+      ]
+    },
+    "interview": {
+      "title": "Take an Interview",
+      "instructions": "An interviewer will ask you four questions. There is no preparation time. You have 45 seconds to answer each question.",
+      "context": "You are joining a research study about how people choose where to live. A researcher will ask you some questions in a short online interview.",
+      "maxSeconds": 45,
+      "items": [
+        {
+          "id": "sp_i1",
+          "audio": "sp_i1",
+          "text": "Thanks for taking part in this study about how people choose where to live. First, could you describe the kind of neighborhood you would most like to live in?"
+        },
+        {
+          "id": "sp_i2",
+          "audio": "sp_i2",
+          "text": "Some people prefer to live close to their work or school, while others are willing to travel far for a better home. Which do you prefer, and why?"
+        },
+        {
+          "id": "sp_i3",
+          "audio": "sp_i3",
+          "text": "Some people think that living with roommates is the best way to save money and make friends, while others value their privacy. What's your view?"
+        },
+        {
+          "id": "sp_i4",
+          "audio": "sp_i4",
+          "text": "Finally, some cities are encouraging people to live in smaller apartments in order to reduce housing costs. Do you think this is a good idea? Why or why not?"
+        }
+      ]
+    }
+  }
+}

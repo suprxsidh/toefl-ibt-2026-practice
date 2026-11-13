@@ -1,0 +1,2202 @@
+{
+  "id": "test2",
+  "title": "Practice Test 2",
+  "timings": {
+    "reading": {
+      "router": 20,
+      "lower": 9,
+      "upper": 9
+    },
+    "listening": {
+      "router": 18,
+      "lower": 7,
+      "upper": 11
+    },
+    "writing": {
+      "build": 6,
+      "email": 7,
+      "discussion": 10
+    },
+    "speaking": 8
+  },
+  "audio": {
+    "l1_c1": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Do you know when the housing office closes today?"
+        }
+      ]
+    },
+    "l1_c2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Haven't you finished the geology reading yet?"
+        }
+      ]
+    },
+    "l1_c3": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "The number nine bus doesn't stop here anymore."
+        }
+      ]
+    },
+    "l1_c4": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Should I book the study room for Thursday or Friday?"
+        }
+      ]
+    },
+    "l1_c5": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "I can't believe how late I stayed up last night."
+        }
+      ]
+    },
+    "l1_c6": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Who's in charge of assigning rooms in the new dorm?"
+        }
+      ]
+    },
+    "l1_c7": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Would you rather take the train or drive to the conference?"
+        }
+      ]
+    },
+    "l1_c8": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "The professor said the field trip to the quarry might be postponed."
+        }
+      ]
+    },
+    "l1_c9": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Didn't you use to live in Carver Hall?"
+        }
+      ]
+    },
+    "l1_c10": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "I'm surprised they're closing the Elm Street station for the whole summer."
+        }
+      ]
+    },
+    "l1_conv1": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Housing office. How can I help you?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Hi. I put in a request for a room change three weeks ago, and I haven't heard anything."
+        },
+        {
+          "v": "Charon",
+          "t": "Let me look you up. OK, your request is on the list, but there's nothing open in Lindgren Hall right now, and that was your first choice."
+        },
+        {
+          "v": "Aoede",
+          "t": "What about my second choice?"
+        },
+        {
+          "v": "Charon",
+          "t": "Hmm, you didn't list one. If you add Porter Hall, a single room is opening up there next week."
+        },
+        {
+          "v": "Aoede",
+          "t": "Porter's a bit far from my classes, but having my own room would be worth it. Can I add it now?"
+        },
+        {
+          "v": "Charon",
+          "t": "Sure, I'll update the form. You'll get an email by Friday."
+        }
+      ]
+    },
+    "l1_conv2": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Are you buying the monthly transit pass again?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "I was going to, but I've been riding my bike so much that I only took the bus about ten times last month."
+        },
+        {
+          "v": "Fenrir",
+          "t": "Then the pass probably isn't worth it. Isn't a single ride two dollars?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "Two-fifty now. And the pass is sixty."
+        },
+        {
+          "v": "Fenrir",
+          "t": "So you'd need, what, twenty-four rides to break even."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Right. Though once it snows, I won't be biking anywhere."
+        },
+        {
+          "v": "Fenrir",
+          "t": "Fair enough. Maybe buy it from December, then."
+        },
+        {
+          "v": "Zephyr",
+          "t": "That's what I'm thinking."
+        }
+      ]
+    },
+    "l1_conv3": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "I saw a flyer for a sleep study in the psychology building. They pay a hundred dollars."
+        },
+        {
+          "v": "Orus",
+          "t": "That sounds easy. You just sleep, right?"
+        },
+        {
+          "v": "Kore",
+          "t": "Not exactly. You spend two nights in the lab with sensors on your head, and on the first night they wake you up every few hours to do memory tests."
+        },
+        {
+          "v": "Orus",
+          "t": "Every few hours? I'd be useless the next day."
+        },
+        {
+          "v": "Kore",
+          "t": "That's the point, I think. They want to see how broken sleep affects memory. The second night is normal sleep, for comparison."
+        },
+        {
+          "v": "Orus",
+          "t": "Well, I've got exams in two weeks, so count me out. But you should go for it."
+        }
+      ]
+    },
+    "l1_ann1": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Attention, residents of Halvorsen Hall. On Wednesday, workers will begin replacing the heating pipes on floors three and four. Water will be shut off on those floors from nine a.m. to two p.m. on Wednesday and Thursday. Residents of floors one and two will not be affected. If you live on an upper floor, you can use the showers in the recreation center with your student ID. The housing office also asks that you move any furniture away from your radiators by Tuesday night, so the crew can reach the pipes. Thank you for your patience."
+        }
+      ]
+    },
+    "l1_ann2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Before we start, a quick note about Friday's field trip. We'll be riding the new light-rail line from one end to the other to observe how the stations connect to the neighborhoods around them. Please meet at the University Avenue stop at eight-fifteen, not here in the classroom. The department is covering your fares, so you don't need to buy tickets. Bring a notebook, because you'll be sketching at least two station layouts, and those sketches will count toward your participation grade."
+        }
+      ]
+    },
+    "l1_talk1": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Today let's look at a puzzle that confused geologists for a long time. Across parts of northern Europe and North America, you can find huge boulders sitting alone in the middle of flat fields. Some are the size of a house. What's strange is that they're often made of a completely different type of rock from the ground underneath them. A granite boulder resting on limestone, for instance. These are called glacial erratics. Early naturalists offered all sorts of explanations. Some thought volcanoes had thrown the rocks out; others believed great floods had carried them. The real answer turned out to be ice. During the last ice age, enormous glaciers moved slowly across the land. As they moved, they picked up rock, sometimes in pieces weighing thousands of tons, and carried it, in some cases, hundreds of kilometers. When the climate warmed and the ice melted, the rocks were simply left behind. Now, here's why erratics matter to geologists today. Because each type of rock comes from a particular place, an erratic acts a bit like a return address on a letter. If we can match a boulder's minerals to a known rock formation far away, we learn which direction the ice was moving. Put enough of these together, and you get a map of how ancient ice sheets flowed. One caution, though: some boulders were moved more than once, by more than one glacier, so a single erratic can be misleading on its own."
+        }
+      ]
+    },
+    "l1_talk2": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Let's continue with circadian rhythms, the roughly twenty-four-hour cycle that tells your body when to feel alert and when to feel sleepy. One of the hormones involved is melatonin. As evening approaches, the brain starts releasing melatonin, and that's one signal that it's time to sleep. Now, during adolescence, something interesting happens: the timing of melatonin release shifts later, sometimes by two hours or more. So a fifteen-year-old who isn't sleepy at ten p.m. isn't necessarily being stubborn. Their body clock is genuinely running later. The problem is that school usually starts early. A teenager whose body wants to sleep from midnight to nine is being woken up at six-thirty. During the week, they build up what researchers call sleep debt, and then on weekends they sleep until noon to pay it back. Shifting your sleep schedule by several hours between weekdays and weekends has a name: social jet lag. It's as if you flew across several time zones every Friday and flew back every Monday. Some school districts have experimented with later start times, and the results have been fairly consistent: students get more sleep, and attendance improves. Grades improve too, though more modestly. Critics point out that later starts can cause problems with bus schedules and after-school sports, and those concerns are real. But the biology itself isn't really in dispute."
+        }
+      ]
+    },
+    "l2l_c1": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "What time does the next bus leave?"
+        }
+      ]
+    },
+    "l2l_c2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Where did you put my keys?"
+        }
+      ]
+    },
+    "l2l_c3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Would you like some help with those boxes?"
+        }
+      ]
+    },
+    "l2l_c4": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "How long have you lived in this building?"
+        }
+      ]
+    },
+    "l2l_c5": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "I'm sorry, but the library is closed today."
+        }
+      ]
+    },
+    "l2l_c6": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Did you sleep well last night?"
+        }
+      ]
+    },
+    "l2l_conv1": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Excuse me, does this machine take cards?"
+        },
+        {
+          "v": "Orus",
+          "t": "No, only coins and bills. The one by the stairs takes cards."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Oh, thanks. I only have my bank card with me."
+        },
+        {
+          "v": "Orus",
+          "t": "Where are you going?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "To the art museum. Is it far?"
+        },
+        {
+          "v": "Orus",
+          "t": "Just three stops. Get off at Park Street."
+        }
+      ]
+    },
+    "l2l_conv2": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Hi, are you here to pick up a package?"
+        },
+        {
+          "v": "Kore",
+          "t": "No, I need a new key. I lost mine at the gym."
+        },
+        {
+          "v": "Fenrir",
+          "t": "OK. A new key costs fifteen dollars. You can pay now or add it to your student account."
+        },
+        {
+          "v": "Kore",
+          "t": "Please add it to my account. When can I get it?"
+        },
+        {
+          "v": "Fenrir",
+          "t": "Come back after three o'clock today."
+        }
+      ]
+    },
+    "l2l_ann1": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Good morning, passengers. Because of work on the tracks, the Green Line will not stop at Central Station this weekend. If you need to go to Central Station, please get off at Market Square and take the free shuttle bus. Shuttle buses leave every ten minutes from the front of the station. Trains will run normally again on Monday morning. We are sorry for any trouble."
+        }
+      ]
+    },
+    "l2l_talk1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Today we're talking about caves. Many caves form in a kind of rock called limestone. Limestone is soft compared with many other rocks. When rain falls, it picks up a small amount of gas from the air and the soil. This makes the water a little acidic, a bit like very weak vinegar. As the water moves through cracks in the limestone, it slowly dissolves the rock. Over thousands of years, small cracks become large holes, and the holes become caves. Inside some caves, you can see shapes that hang from the ceiling, like icicles. These form when water drips and leaves tiny bits of rock behind. So water doesn't only make a cave. It also decorates it."
+        }
+      ]
+    },
+    "l2l_talk2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Let's look at how cities moved people before cars. In the eighteen-hundreds, many big cities had horse-drawn streetcars. These were like small buses that ran on metal rails in the street. The rails were important because a horse could pull a much heavier load on smooth rails than on a rough road. But horses had problems. They were expensive to feed, they got tired after a few hours, and they made the streets very dirty. So near the end of the century, cities began to replace them with electric streetcars. Electric streetcars were faster and cleaner, and they could run all day. Within about twenty years, horse-drawn streetcars had almost disappeared."
+        }
+      ]
+    },
+    "l2u_c1": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "You haven't seen my field notebook anywhere, have you?"
+        }
+      ]
+    },
+    "l2u_c2": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "I'd have taken the express if I'd known the local stopped at every station."
+        }
+      ]
+    },
+    "l2u_c3": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Isn't the deadline for housing applications this Friday?"
+        }
+      ]
+    },
+    "l2u_c4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "I'm not sure the sample's large enough to draw any real conclusions from."
+        }
+      ]
+    },
+    "l2u_c5": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Do you happen to know why the seminar was moved?"
+        }
+      ]
+    },
+    "l2u_c6": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Weren't you supposed to be presenting today?"
+        }
+      ]
+    },
+    "l2u_conv1": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Professor Adeyemi, do you have a minute? It's about my paper on the spice trade."
+        },
+        {
+          "v": "Kore",
+          "t": "Of course. You're looking at Venetian merchants, aren't you?"
+        },
+        {
+          "v": "Puck",
+          "t": "Yes, but I've run into a problem. Most of my sources are tax records, and they only tell me what was shipped, not why merchants made the choices they did."
+        },
+        {
+          "v": "Kore",
+          "t": "That's a common frustration. Have you looked at merchant letters? Several collections have been translated, and merchants wrote constantly about prices, risks, rumors of war."
+        },
+        {
+          "v": "Puck",
+          "t": "I didn't realize those were available in English."
+        },
+        {
+          "v": "Kore",
+          "t": "Some are. Ask at the special collections desk. But a word of caution: letters were often written to persuade a business partner, so don't treat them as neutral accounts."
+        },
+        {
+          "v": "Puck",
+          "t": "So I'd need to check them against the tax records."
+        },
+        {
+          "v": "Kore",
+          "t": "Exactly. That combination could actually make your argument stronger."
+        }
+      ]
+    },
+    "l2u_conv2": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Did you hear the housing office is changing the room-selection system?"
+        },
+        {
+          "v": "Charon",
+          "t": "No. What's wrong with the old one?"
+        },
+        {
+          "v": "Leda",
+          "t": "Right now, seniors pick first, then juniors, and so on. Starting next year, it's a lottery, regardless of year."
+        },
+        {
+          "v": "Charon",
+          "t": "That seems unfair to seniors. They've waited three years for a good room."
+        },
+        {
+          "v": "Leda",
+          "t": "That was my first reaction too. But the office says that under the old system, first-year students always ended up in the oldest buildings, and they were the students most likely to drop out."
+        },
+        {
+          "v": "Charon",
+          "t": "Hmm. So the idea is that better housing helps new students stay?"
+        },
+        {
+          "v": "Leda",
+          "t": "That's their argument. I'm not totally convinced the buildings are the reason, but I see the logic."
+        }
+      ]
+    },
+    "l2u_ann1": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "This is a service update for riders of the Harbor Line. Beginning Monday the fourteenth, and continuing for about six weeks, trains will share a single track between Pier Street and Lindell Avenue while crews replace old signal equipment. As a result, during the morning and evening rush hours, trains in both directions will run every twenty minutes instead of every ten. Midday and weekend trains already run every twenty minutes. Riders going to the Medical District are encouraged to use the Route 40 bus, which will add extra trips during the work, and monthly pass holders may ride Route 40 at no extra cost. Please note that the schedule depends on the weather, and heavy rain could extend the project."
+        }
+      ]
+    },
+    "l2u_talk1": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "For most of history, earthquakes were treated as purely natural events, the result of stress building up along faults over centuries. But in recent decades, geologists have recorded a sharp rise in small and moderate earthquakes in regions that were once quiet, and in many cases the cause appears to be human activity. The main culprit isn't drilling itself, as people often assume. It's the disposal of wastewater. When oil and gas are extracted, huge volumes of salty water come up with them, and companies usually dispose of it by injecting it deep underground. Now, deep rock is full of faults, many of them already under stress but held in place by friction. Injected water raises the fluid pressure in the rock, which pushes the two sides of a fault slightly apart and reduces that friction. A fault that might have stayed locked for thousands of years can then slip. What makes this hard to manage is the delay. Pressure can spread for kilometers and take months or even years to reach a vulnerable fault, so by the time earthquakes start, the injection may have stopped long ago. Some regulators have limited injection volumes, and in those areas earthquakes have become less frequent, which, incidentally, is fairly strong evidence of a causal link."
+        }
+      ]
+    },
+    "l2u_talk2": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "When we picture medieval trade, we tend to imagine a merchant who owned his goods, sailed with them, and kept the profit. In practice, long-distance trade in the Mediterranean was often organized through a contract called the commenda. One partner, usually an older or wealthier investor, stayed at home and supplied the capital. The other, the traveling merchant, contributed little or no money but took the goods overseas, sold them, and bought cargo for the return voyage. When he came back, the profits were divided, typically three quarters to the investor and one quarter to the traveler. If the ship sank, the investor bore the financial loss, while the traveler lost only his time and effort, which, admittedly, on a sinking ship, might include his life. Why does this matter? Because it let people without capital enter trade. A young man with no money but good judgment could, after a few successful voyages, save enough to become an investor himself. Some historians argue that this mobility helped Venice and Genoa develop an unusually large merchant class. Others are more skeptical. They note that investors often chose relatives as their traveling partners, which would have limited how open the system really was."
+        }
+      ]
+    },
+    "sp_r1": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Welcome to the housing office."
+        }
+      ]
+    },
+    "sp_r2": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Please sign in at the front desk."
+        }
+      ]
+    },
+    "sp_r3": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Room keys are picked up on the second floor."
+        }
+      ]
+    },
+    "sp_r4": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "If you've lost your key, a replacement costs twenty dollars."
+        }
+      ]
+    },
+    "sp_r5": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Maintenance requests should be submitted online rather than by phone."
+        }
+      ]
+    },
+    "sp_r6": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Students who want to change rooms must wait until the second week of the semester."
+        }
+      ]
+    },
+    "sp_r7": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Any student whose request hasn't been answered within three working days should be sent directly to the housing coordinator."
+        }
+      ]
+    },
+    "sp_i1": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Thank you for joining me today. To start, could you describe your usual sleep schedule on a typical weekday?"
+        }
+      ]
+    },
+    "sp_i2": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Many people say their sleep changes during busy periods, like exams or deadlines at work. How does your sleep change when you are under pressure, and how does that affect you?"
+        }
+      ]
+    },
+    "sp_i3": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Some people believe that using phones and computers late at night is the main reason young people don't get enough sleep. Do you agree? Why or why not?"
+        }
+      ]
+    },
+    "sp_i4": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Last question. Some companies now let employees choose their own working hours, so that they can sleep according to their natural rhythm. Do you think this should become more common, even if it makes it harder for teams to meet? Please explain your view."
+        }
+      ]
+    }
+  },
+  "reading": {
+    "stage1": {
+      "id": "r1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Volcanoes form where molten rock rises from deep inside the Earth. When pressure {builds} beneath the {surface}, magma {forces} its {way} upward {through} cracks in {the} crust. Some {eruptions} are gentle, {with} lava {flowing} slowly down {the} slopes. Others are violent and throw ash high into the sky."
+        },
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Medieval trade fairs were far more than simple markets. Held at {regular} intervals, they {attracted} merchants {from} distant regions, {who} exchanged not {only} commodities but {also} information about {prices} and political {developments}. Local rulers {guaranteed} safe {passage} in return for a share of the profits. Over time, several of these fairs grew into permanent commercial centers."
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "CITYLINK TRANSIT: Route 14 detour\n\nFrom 3 to 21 March, Route 14 buses will not serve the stops on Garland Road between Oak Street and Mercy Hospital because of water-main repairs. Buses will travel along Fenn Avenue instead. Riders who normally board at the Garland Road stops should walk to the temporary stop at the corner of Fenn Avenue and Oak Street. Journeys may take up to ten minutes longer during the morning rush. All other Route 14 stops are unchanged. Real-time arrival information is available in the CityLink app.",
+          "items": [
+            {
+              "id": "r1_d1_1",
+              "q": "Why is Route 14 changing its route?",
+              "options": [
+                "Mercy Hospital is moving to Fenn Avenue.",
+                "Work is being done on underground water pipes.",
+                "Fenn Avenue has more riders than Garland Road.",
+                "Buses are too crowded during the morning rush."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_d1_2",
+              "q": "The word 'serve' in the notice is closest in meaning to",
+              "options": [
+                "stop at",
+                "help",
+                "deliver",
+                "work for"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "From: Residence Life Office <reslife@northgate.example>\nTo: All residents, West Quad\nSubject: Winter break housing\n\nDear residents,\n\nWest Quad will close for winter break at noon on 19 December and reopen at 9:00 a.m. on 6 January. If you need to stay on campus during this period (for example, because you have a campus job or cannot travel home), you must submit a Winter Stay request by 1 December. Approved residents will move temporarily to Birch Hall, which remains open over the break. A fee of $12 per night applies, although it is waived for students employed by the university. Late requests can be accepted only if space allows.\n\nBefore leaving, please unplug all electrical devices and empty your refrigerator. Staff will inspect every room on 20 December.\n\nResidence Life",
+          "items": [
+            {
+              "id": "r1_d2_1",
+              "q": "What is the main purpose of the email?",
+              "options": [
+                "To announce that Birch Hall will close for repairs",
+                "To encourage residents to apply for campus jobs",
+                "To remind residents that housing fees are due",
+                "To explain winter break housing"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_d2_2",
+              "q": "How much will a student who works at the campus library pay per night to stay over the break?",
+              "options": [
+                "$12",
+                "$12 after 1 December",
+                "Nothing",
+                "Half the usual fee"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_d2_3",
+              "q": "What is true about Winter Stay requests submitted after 1 December?",
+              "options": [
+                "They may be refused if there is no room.",
+                "They are charged a higher nightly fee.",
+                "They go to a waiting list for spring.",
+                "They must be delivered to Birch Hall staff."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "academic",
+          "title": "Read an Academic Passage",
+          "text": "Why We Feel Sleepy\n\nScientists often describe the timing of sleep with what is known as the two-process model. The first process, sometimes called sleep pressure, works like an hourglass. From the moment you wake up, a chemical called adenosine gradually accumulates in the brain, and the longer you stay awake, the stronger the urge to sleep becomes. Sleep clears the adenosine, resetting the hourglass. The second process is the circadian rhythm, an internal clock that runs on a cycle of roughly twenty-four hours, regardless of how long you have been awake.\n\nThe two processes usually work together, but they can also pull in opposite directions. This explains a common experience: people who stay up all night often feel more alert at dawn than they did at three in the morning, even though their sleep pressure is higher. The circadian clock, responding to the approaching day, sends a wake-up signal strong enough to partly offset the hourglass.\n\nCaffeine interferes with the first process. It blocks the receptors that adenosine normally binds to, so the brain does not register the accumulated pressure. The adenosine is still there, however, which is why fatigue can return abruptly once the caffeine wears off.",
+          "items": [
+            {
+              "id": "r1_a1_1",
+              "q": "What is the passage mainly about?",
+              "options": [
+                "The long-term health effects of caffeine",
+                "Why people should avoid staying up all night",
+                "Two processes that control sleepiness",
+                "How adenosine is produced in the brain"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_a1_2",
+              "q": "The word 'offset' in the passage is closest in meaning to",
+              "options": [
+                "intensify",
+                "counter",
+                "postpone",
+                "disclose"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_a1_3",
+              "q": "According to the passage, why might a person feel more alert at dawn than at 3 a.m. after a sleepless night?",
+              "options": [
+                "Their sleep pressure has decreased since 3 a.m.",
+                "The adenosine in their brain has been cleared.",
+                "Morning light blocks the adenosine receptors.",
+                "The internal clock is sending a signal to wake up."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_a1_4",
+              "q": "Why does the author mention caffeine?",
+              "options": [
+                "To show how one of the two processes can be disrupted",
+                "To recommend a way to reduce sleep pressure permanently",
+                "To give an example of how the circadian rhythm works",
+                "To explain why people tend to wake up at dawn"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_a1_5",
+              "q": "Based on the passage, which of the following would actually reduce sleep pressure?",
+              "options": [
+                "Drinking a second cup of coffee",
+                "Staying awake until dawn",
+                "Going outside in the morning light",
+                "Taking a nap"
+              ],
+              "answer": 3
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "r2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Our town has a new bike path. It {goes} from {the} train station {to} the {main} gate of the university. {Many} students {now} ride {to} class {every} day. {It} is {safe} because cars cannot use it. My friends and I love it."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "RIVERSIDE CAFE: Lunch menu (11:30 a.m. to 3:00 p.m.)\n\nSoup of the day ... $4\nChicken sandwich ... $7\nVegetable pasta ... $8\nFruit cup ... $3\n\nAll drinks $2. Students with ID get 10% off.\nSorry, no card payments under $5.",
+            "items": [
+              {
+                "id": "r2l_d1_1",
+                "q": "How much is the vegetable pasta?",
+                "options": [
+                  "$7",
+                  "$4",
+                  "$8",
+                  "$2"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_d1_2",
+                "q": "A customer wants to buy only a fruit cup. How must they pay?",
+                "options": [
+                  "With a card",
+                  "With cash",
+                  "With a student ID",
+                  "Online"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "Maya Torres\n\nHey everyone on Floor 2! Our floor movie night is this Friday at 8 p.m. in the common room. We are watching a comedy (vote for the title in the group chat by Thursday). I will bring popcorn, but please bring your own drinks. We do not have many chairs, so feel free to bring a pillow or a blanket. Hope to see you there!",
+            "items": [
+              {
+                "id": "r2l_d2_1",
+                "q": "Why did Maya write the post?",
+                "options": [
+                  "To invite people to a movie night",
+                  "To sell popcorn and drinks",
+                  "To ask for new chairs",
+                  "To complain about noise on Floor 2"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_d2_2",
+                "q": "What should people do by Thursday?",
+                "options": [
+                  "Bring a pillow",
+                  "Buy drinks",
+                  "Vote for a movie",
+                  "Book the common room"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_d2_3",
+                "q": "Why does Maya suggest bringing a pillow?",
+                "options": [
+                  "The common room is cold.",
+                  "The movie is very long.",
+                  "People will sleep there.",
+                  "There may not be enough chairs."
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Where Sand Comes From\n\nSand looks simple, but it has a long history. Most sand begins as part of a large rock, such as granite in a mountain. Over many years, rain, ice and wind break the rock into smaller and smaller pieces. Rivers then carry these pieces toward the sea. On the way, the pieces hit each other and become round and smooth. By the time they reach a beach, they are tiny grains. Not all sand is the same, however. Some beaches have white sand made from broken shells and coral, and some islands have black sand that comes from volcanic rock.",
+            "items": [
+              {
+                "id": "r2l_a1_1",
+                "q": "What is the passage mainly about?",
+                "options": [
+                  "Why beaches are popular with visitors",
+                  "How sand forms and why it can look different",
+                  "How to find granite in the mountains",
+                  "Why rivers flow toward the sea"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_a1_2",
+                "q": "According to the passage, what breaks large rocks into small pieces?",
+                "options": [
+                  "Waves on the beach",
+                  "Animals in the river",
+                  "Heat from volcanoes",
+                  "Rain, ice and wind"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_a1_3",
+                "q": "Why do the pieces of rock become round and smooth?",
+                "options": [
+                  "The sun heats them on the beach.",
+                  "They are made of shells.",
+                  "They hit each other as rivers carry them.",
+                  "They break apart in the mountains."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_a1_4",
+                "q": "The word 'tiny' in the passage is closest in meaning to",
+                "options": [
+                  "very old",
+                  "very small",
+                  "very bright",
+                  "very hard"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_a1_5",
+                "q": "What is true about black sand?",
+                "options": [
+                  "It comes from volcanic rock.",
+                  "It is made from broken shells.",
+                  "It is found only in mountains.",
+                  "It is the most common kind of sand."
+                ],
+                "answer": 0
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "r2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Sedimentary rocks preserve a remarkably detailed record of Earth's past. They {form} when particles of sand, mud, or {organic} material settle in layers and are {gradually} compressed by the {weight} of the sediment {above} them. Because each {layer} is deposited on top of the {previous} one, geologists can {generally} assume that deeper layers are {older}, a principle known as {superposition}. However, folding and faulting can overturn entire sequences, so this assumption must always be checked against other evidence."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "NEW: FARE CAPPING ON METROPASS CARDS\n\nStarting 1 September, you will never pay more than $6 in a single day or $30 in a calendar week (Monday to Sunday) when you tap the same MetroPass card on buses and trains. Each ride costs $2.50 until you reach the cap; after that, the rest of your rides that day or week are free. Caps apply only to adult fares and do not include Airport Express services, which are charged separately at $9 per trip. Rides paid with paper tickets, or with more than one card, are not combined toward the cap.",
+            "items": [
+              {
+                "id": "r2u_d1_1",
+                "q": "On a Monday, a rider takes three regular train rides with the same MetroPass card. How much does she pay in total?",
+                "options": [
+                  "$7.50",
+                  "$2.50",
+                  "$0.00",
+                  "$6.00"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_d1_2",
+                "q": "Which rider would NOT benefit from the new cap?",
+                "options": [
+                  "An adult who rides the train six times on a Saturday",
+                  "An adult who buys a paper ticket for every ride",
+                  "An adult who takes the bus three times every weekday",
+                  "An adult who makes four bus and train trips in one day"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "From: Office of Campus Housing\nTo: Jordan Ellis\nSubject: Re: Request to end housing contract\n\nDear Jordan,\n\nThank you for your message. As you know, your housing contract runs for the full academic year. We can release students mid-year only in specific circumstances: graduation, study abroad, withdrawal from the university, or a documented medical need. Moving off campus to share an apartment with friends does not, on its own, qualify.\n\nThat said, you mentioned that the apartment would shorten your commute to your hospital training placement. If that placement is a required part of your degree program, please ask your academic department to confirm this in writing; such cases have been reviewed individually in the past. Alternatively, you may find a student to take over your contract, in which case no cancellation fee applies.\n\nKind regards,\nPriya Sandoval, Housing Coordinator",
+            "items": [
+              {
+                "id": "r2u_d2_1",
+                "q": "What is the main purpose of the email?",
+                "options": [
+                  "To explain when Jordan may be released from his contract",
+                  "To approve Jordan's request to move into an apartment with friends",
+                  "To inform Jordan that his contract has been cancelled",
+                  "To ask Jordan to pay a cancellation fee"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_d2_2",
+                "q": "What can be inferred about the reason Jordan first gave for moving?",
+                "options": [
+                  "It was related to a documented medical condition.",
+                  "It has been accepted in similar cases in the past.",
+                  "It is not sufficient grounds by itself.",
+                  "It has already been confirmed by his department."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_d2_3",
+                "q": "According to the email, how can Jordan avoid a cancellation fee?",
+                "options": [
+                  "By getting a letter from his department",
+                  "By finding another student to replace him",
+                  "By applying to study abroad",
+                  "By moving out before the end of the term"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Paper Instead of Coins: The Bill of Exchange\n\nLong-distance trade in medieval Europe faced a stubborn practical obstacle: moving coins. Silver and gold were heavy, attractive to thieves, and liable to be seized by the rulers whose territories merchants had to cross. By the thirteenth century, Italian merchants had devised an elegant alternative, the bill of exchange. A merchant in Florence could pay coins to a local banker and receive a written order instructing the banker's agent in, say, Bruges, to pay an equivalent sum in local currency some weeks later. The bill itself was worthless to a thief, since only the named recipient could collect the money.\n\nThe instrument had a second, less obvious function. The Church condemned usury, the charging of interest on loans, yet bankers needed to profit from the time their money was tied up. Because a bill involved converting one currency into another, bankers could build a margin into the exchange rate, and the interest was effectively concealed within the conversion. Contemporaries were not entirely deceived; theologians debated the legitimacy of such contracts for centuries. Nonetheless, the bill's ambiguity proved commercially indispensable, and its basic logic survives in the cheques and transfers of modern finance.",
+            "items": [
+              {
+                "id": "r2u_a1_1",
+                "q": "Which of the following best states the main idea of the passage?",
+                "options": [
+                  "The bill of exchange made trade safer and offered a way around restrictions on interest.",
+                  "Medieval rulers encouraged merchants to carry coins across their territories in order to collect tolls.",
+                  "The Church fully approved of bills of exchange from the thirteenth century on.",
+                  "Italian bankers invented modern cheques in order to deceive theologians."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_a1_2",
+                "q": "According to the passage, why was a bill of exchange of little use to a thief?",
+                "options": [
+                  "It was written in a foreign currency.",
+                  "It could be cancelled by the Church.",
+                  "Only the payee could collect on it.",
+                  "It was kept by the banker's agent in Bruges."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_a1_3",
+                "q": "The word 'concealed' in the passage is closest in meaning to",
+                "options": [
+                  "reduced",
+                  "recorded",
+                  "removed",
+                  "hidden"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_a1_4",
+                "q": "Why does the author mention that theologians debated such contracts 'for centuries'?",
+                "options": [
+                  "To argue that bills of exchange were eventually banned",
+                  "To show the hidden interest did not go unnoticed",
+                  "To explain why merchants still preferred to carry coins",
+                  "To suggest that theologians invented the bill of exchange"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_a1_5",
+                "q": "What can be inferred about bankers' profits from bills of exchange?",
+                "options": [
+                  "They were openly recorded as interest payments.",
+                  "They were larger for short journeys than for long ones.",
+                  "They were illegal in Florence but legal in Bruges.",
+                  "They were built into exchange rates."
+                ],
+                "answer": 3
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "listening": {
+    "stage1": {
+      "id": "l1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "choose",
+          "title": "Listen and Choose a Response",
+          "items": [
+            {
+              "id": "l1_c1",
+              "audio": "l1_c1",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I know where it is.",
+                "Until four-thirty, I think.",
+                "I closed the window already.",
+                "No, I've never lived in a house."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c2",
+              "audio": "l1_c2",
+              "q": "Choose the best response.",
+              "options": [
+                "Almost. I've got one chapter left.",
+                "Yes, I'll finish it yesterday.",
+                "The rocks were heavier than I thought.",
+                "No, he hasn't read it either."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c3",
+              "audio": "l1_c3",
+              "q": "Choose the best response.",
+              "options": [
+                "Nine o'clock is fine with me.",
+                "I'll stop by after class, then.",
+                "Oh, so where do I catch it now?",
+                "Yes, it's been here all morning."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c4",
+              "audio": "l1_c4",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, you should.",
+                "I read that book on Friday.",
+                "It's a very quiet room.",
+                "Whichever day you can get, really."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c5",
+              "audio": "l1_c5",
+              "q": "Choose the best response.",
+              "options": [
+                "I'll stay a little longer, then.",
+                "The night bus was late again.",
+                "No wonder you look so tired.",
+                "Let's meet later tonight."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c6",
+              "audio": "l1_c6",
+              "q": "Choose the best response.",
+              "options": [
+                "About two hundred students.",
+                "You'd have to ask at the front desk.",
+                "It's charged to your student account.",
+                "The rooms are bigger than last year."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c7",
+              "audio": "l1_c7",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I'd rather go to the conference.",
+                "The conference was really useful.",
+                "I trained for it all summer.",
+                "I'd hate to park downtown."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c8",
+              "audio": "l1_c8",
+              "q": "Choose the best response.",
+              "options": [
+                "Then I'll wait before buying boots.",
+                "I posted the trip schedule online this morning.",
+                "Yes, the quarry trip was great.",
+                "The quarry is about an hour north."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c9",
+              "audio": "l1_c9",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I'm used to it now.",
+                "Yes, I'm moving there next year.",
+                "Only for my first year.",
+                "He lives there with his brother."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c10",
+              "audio": "l1_c10",
+              "q": "Choose the best response.",
+              "options": [
+                "It's a nice station in the summer.",
+                "I was surprised by the party, too.",
+                "Yes, they're closing at nine tonight.",
+                "Apparently the tunnel repairs can't wait any longer."
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l1_conv1",
+          "items": [
+            {
+              "id": "l1_v1_1",
+              "q": "Why hasn't the woman's request been processed?",
+              "options": [
+                "She submitted the form after the deadline.",
+                "No room is available in the hall she chose.",
+                "She did not list a first choice.",
+                "The office lost her request."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_v1_2",
+              "q": "What can be inferred about the woman?",
+              "options": [
+                "She values a private room more than a short walk to class.",
+                "She has decided to stay in her current room.",
+                "She already lives in Porter Hall.",
+                "She will receive a phone call by Friday."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l1_conv2",
+          "items": [
+            {
+              "id": "l1_v2_1",
+              "q": "Why does the woman mention snow?",
+              "options": [
+                "To complain about the bus schedule",
+                "To suggest that buses are delayed by bad weather",
+                "To explain why her bus use will rise",
+                "To explain why she sold her bike"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_v2_2",
+              "q": "What will the woman probably do?",
+              "options": [
+                "Buy a monthly pass right away",
+                "Stop riding her bike this month",
+                "Ask for a discount on the pass",
+                "Pay for single rides until winter starts"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l1_conv3",
+          "items": [
+            {
+              "id": "l1_v3_1",
+              "q": "What is the purpose of the study?",
+              "options": [
+                "To test whether sensors improve sleep quality",
+                "To find out how interrupted sleep affects memory",
+                "To compare sleeping in a lab with sleeping at home",
+                "To measure how long students sleep before exams"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_v3_2",
+              "q": "Why does the man decide not to take part?",
+              "options": [
+                "He worries it would hurt his exam preparation.",
+                "He thinks one hundred dollars is too little for two nights.",
+                "He does not believe the study is real.",
+                "He already took part in a similar study."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l1_ann1",
+          "items": [
+            {
+              "id": "l1_n1_1",
+              "q": "Who will be affected by the water shut-off?",
+              "options": [
+                "All residents of Halvorsen Hall",
+                "Residents of the first and second floors",
+                "Students who use the recreation center",
+                "Residents of the third and fourth floors"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_n1_2",
+              "q": "What are residents asked to do by Tuesday night?",
+              "options": [
+                "Report any broken pipes",
+                "Clear the area around their radiators",
+                "Collect a new student ID",
+                "Move to another floor"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l1_ann2",
+          "items": [
+            {
+              "id": "l1_n2_1",
+              "q": "Why does the professor mention the sketches?",
+              "options": [
+                "To show how the stations were designed",
+                "To suggest that sketching is optional",
+                "To make clear that they will be graded",
+                "To explain why the trip starts early"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_n2_2",
+              "q": "What is true about the field trip?",
+              "options": [
+                "Students do not have to pay their fares.",
+                "Students will meet in the classroom first.",
+                "It will cover only part of the light-rail line.",
+                "It starts at eight-fifty."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l1_talk1",
+          "items": [
+            {
+              "id": "l1_t1_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "Why granite is harder than limestone",
+                "What ice-carried boulders reveal about past glaciers",
+                "How volcanoes spread rock over long distances during eruptions",
+                "Why flat fields formed in northern Europe"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t1_2",
+              "q": "Why does the professor mention a granite boulder resting on limestone?",
+              "options": [
+                "To show that granite usually forms on top of limestone",
+                "To explain how limestone is worn away by ice",
+                "To compare two common types of building stone",
+                "To illustrate what makes an erratic unusual"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t1_3",
+              "q": "According to the professor, what did some early naturalists believe?",
+              "options": [
+                "Floods had moved the boulders.",
+                "Glaciers had carried the boulders.",
+                "The boulders had formed where they were found.",
+                "Farmers had placed the boulders in the fields."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t1_4",
+              "q": "Why does the professor compare an erratic to a return address?",
+              "options": [
+                "It can be used to date the ice age precisely.",
+                "It is often found near old roads and towns.",
+                "Its type of rock can show where it came from.",
+                "It usually lies along the path of one glacier."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l1_talk2",
+          "items": [
+            {
+              "id": "l1_t2_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "Why teen body clocks clash with early school starts",
+                "How melatonin is produced by the brain",
+                "Why air travel disrupts sleep",
+                "How sleep debt affects the athletic performance of teenagers"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t2_2",
+              "q": "What does the professor imply about a teenager who isn't sleepy at ten p.m.?",
+              "options": [
+                "They are probably drinking too much coffee.",
+                "They need to take melatonin as a supplement.",
+                "They will adjust if their parents are strict.",
+                "Their behavior may have a biological cause."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t2_3",
+              "q": "Why does the professor mention flying across time zones?",
+              "options": [
+                "To explain a common cause of sleep debt among travelers",
+                "To describe the effect of a weekly sleep shift",
+                "To show that teenagers travel more than adults",
+                "To argue that weekends should be shorter"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t2_4",
+              "q": "According to the professor, what is one result of later school start times?",
+              "options": [
+                "Grades rise sharply.",
+                "Bus schedules become simpler.",
+                "Attendance improves.",
+                "Students play more sports."
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "l2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2l_c1",
+                "audio": "l2l_c1",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's a long trip.",
+                  "In about ten minutes.",
+                  "Yes, I left it there.",
+                  "I took the bus yesterday."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c2",
+                "audio": "l2l_c2",
+                "q": "Choose the best response.",
+                "options": [
+                  "They're on the kitchen table.",
+                  "I put on my coat.",
+                  "Yes, I have the keys.",
+                  "At six o'clock."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c3",
+                "audio": "l2l_c3",
+                "q": "Choose the best response.",
+                "options": [
+                  "They're from the store.",
+                  "I helped them yesterday.",
+                  "Yes, I like boxes.",
+                  "Yes, please!"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_c4",
+                "audio": "l2l_c4",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's very tall.",
+                  "For two more weeks.",
+                  "Since last September.",
+                  "I live on the third floor."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_c5",
+                "audio": "l2l_c5",
+                "q": "Choose the best response.",
+                "options": [
+                  "I'll come back tomorrow, then.",
+                  "Yes, I closed my book.",
+                  "The library is very big and new.",
+                  "Today is Tuesday."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c6",
+                "audio": "l2l_c6",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, I'll sleep early tonight.",
+                  "Last night was Friday.",
+                  "She sleeps a lot.",
+                  "Not really. It was too noisy."
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l2l_conv1",
+            "items": [
+              {
+                "id": "l2l_v1_1",
+                "q": "Why does the woman need to use a different machine?",
+                "options": [
+                  "This machine is broken.",
+                  "She has only a bank card.",
+                  "She needs a monthly pass.",
+                  "This machine is closed."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_v1_2",
+                "q": "Where should the woman get off?",
+                "options": [
+                  "Museum Street",
+                  "Bank Street",
+                  "Park Street",
+                  "Stair Street"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l2l_conv2",
+            "items": [
+              {
+                "id": "l2l_v2_1",
+                "q": "Why does the woman go to the office?",
+                "options": [
+                  "To pick up a package",
+                  "To get a new key",
+                  "To pay her rent",
+                  "To join the gym"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_v2_2",
+                "q": "When can the woman get what she needs?",
+                "options": [
+                  "After three o'clock today",
+                  "Right now",
+                  "Tomorrow morning",
+                  "Before noon today"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l2l_ann1",
+            "items": [
+              {
+                "id": "l2l_n1_1",
+                "q": "What is the announcement mainly about?",
+                "options": [
+                  "A new station opening",
+                  "New ticket prices for the weekend",
+                  "A lost bag",
+                  "A change to train service"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_n1_2",
+                "q": "What should passengers going to Central Station do?",
+                "options": [
+                  "Wait until Sunday",
+                  "Walk from the Green Line",
+                  "Take a shuttle bus from Market Square",
+                  "Buy a new ticket"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_n1_3",
+                "q": "When will trains run normally again?",
+                "options": [
+                  "This weekend",
+                  "In ten minutes",
+                  "On Friday night",
+                  "On Monday morning"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l2l_talk1",
+            "items": [
+              {
+                "id": "l2l_t1_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How water forms caves in limestone",
+                  "Why limestone is very hard",
+                  "How to explore caves safely",
+                  "Where vinegar comes from"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_t1_2",
+                "q": "Why does the speaker mention vinegar?",
+                "options": [
+                  "To show that caves smell bad",
+                  "To help describe what the rainwater is like",
+                  "To explain how limestone is used in cooking",
+                  "To compare two kinds of rock"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_t1_3",
+                "q": "What makes the shapes that hang from cave ceilings?",
+                "options": [
+                  "Ice that freezes in winter",
+                  "Animals that live in the cave",
+                  "Dripping water",
+                  "Wind that blows through cracks"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l2l_talk2",
+            "items": [
+              {
+                "id": "l2l_t2_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "The move from horse to electric streetcars",
+                  "Why cars replaced streetcars",
+                  "How metal rails are made",
+                  "Why horses were popular in cities in the eighteen-hundreds"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_t2_2",
+                "q": "Why did horse-drawn streetcars run on rails?",
+                "options": [
+                  "Rails kept the streets clean.",
+                  "Horses could pull heavier loads on them.",
+                  "Rails were cheaper than roads.",
+                  "Rails let streetcars run all night."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_t2_3",
+                "q": "Which problem with horses is NOT mentioned?",
+                "options": [
+                  "They were expensive to feed.",
+                  "They got tired quickly.",
+                  "They made the streets dirty.",
+                  "They were too slow on hills."
+                ],
+                "answer": 3
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "l2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2u_c1",
+                "audio": "l2u_c1",
+                "q": "Choose the best response.",
+                "options": [
+                  "No, I haven't seen the field yet.",
+                  "Yes, I'll write it in my notebook.",
+                  "Have you checked the lab?",
+                  "I've never been good at taking notes."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_c2",
+                "audio": "l2u_c2",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, the express stops at every station.",
+                  "I'll take it if you know where it is.",
+                  "The station was closed when I got there.",
+                  "At least you'll know next time."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_c3",
+                "audio": "l2u_c3",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, I applied for a job on Friday.",
+                  "It was, but they pushed it back a week.",
+                  "No, the house isn't for sale.",
+                  "I'll be free all day Friday."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_c4",
+                "audio": "l2u_c4",
+                "q": "Choose the best response.",
+                "options": [
+                  "Then let's call the results preliminary.",
+                  "It's large, but it isn't mine.",
+                  "I drew it for my art class.",
+                  "Yes, the conclusion is on the last page."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_c5",
+                "audio": "l2u_c5",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, I happen to know her.",
+                  "It moved very quickly.",
+                  "Something about the room being double-booked, I think.",
+                  "I'll move it to Tuesday."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_c6",
+                "audio": "l2u_c6",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, I was supposed to present it yesterday.",
+                  "I got her a present, actually.",
+                  "No, I wasn't at the presentation.",
+                  "We got moved to Thursday."
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l2u_conv1",
+            "items": [
+              {
+                "id": "l2u_v1_1",
+                "q": "What is the student's problem?",
+                "options": [
+                  "His sources don't explain why merchants acted as they did.",
+                  "He cannot find any tax records from Venice.",
+                  "His paper topic is too broad for a ten-page research assignment.",
+                  "His paper is longer than the word limit."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_v1_2",
+                "q": "Why does the professor warn the student about merchant letters?",
+                "options": [
+                  "They are often badly translated.",
+                  "They are very difficult to obtain.",
+                  "They may give only one side.",
+                  "They usually contradict the tax records."
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l2u_conv2",
+            "items": [
+              {
+                "id": "l2u_v2_1",
+                "q": "Why is the housing office changing the system?",
+                "options": [
+                  "To reward seniors for waiting",
+                  "To give first-year students a better chance at newer rooms",
+                  "To reduce the cost of maintaining old buildings",
+                  "To fill empty rooms more quickly"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_v2_2",
+                "q": "What is the woman's opinion of the new system?",
+                "options": [
+                  "She is partly persuaded.",
+                  "She thinks it is unfair to first-year students.",
+                  "She supports it without reservation.",
+                  "She plans to complain to the housing office."
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l2u_ann1",
+            "items": [
+              {
+                "id": "l2u_n1_1",
+                "q": "Why will trains run less often during rush hours?",
+                "options": [
+                  "Fewer riders use the line in the winter.",
+                  "The Route 40 bus is replacing part of the line.",
+                  "New trains are being tested on the line.",
+                  "Only one track will be in use during the work."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_n1_2",
+                "q": "What does the speaker imply about riders who travel at midday?",
+                "options": [
+                  "They will wait twenty minutes longer than usual.",
+                  "Their service will be unchanged.",
+                  "They must take the Route 40 bus instead.",
+                  "They will pay reduced fares during the work."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_n1_3",
+                "q": "Why does the speaker mention heavy rain?",
+                "options": [
+                  "To warn riders that some stations may flood",
+                  "To explain why the work begins on a Monday",
+                  "To indicate the timeline may slip",
+                  "To suggest that riders take the bus on wet days"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l2u_talk1",
+            "items": [
+              {
+                "id": "l2u_t1_1",
+                "q": "According to the professor, what do people often wrongly assume about these earthquakes?",
+                "options": [
+                  "That they occur mainly along major faults",
+                  "That they are stronger than natural earthquakes",
+                  "That salt in the water triggers them",
+                  "That drilling itself is the main cause"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_t1_2",
+                "q": "How does injected water make a fault more likely to slip?",
+                "options": [
+                  "It dissolves the rock along the fault.",
+                  "It adds weight that presses down on the fault.",
+                  "It lowers friction on the fault.",
+                  "It cools the rock and makes it brittle."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_t1_3",
+                "q": "Why does the professor mention that earthquakes became less frequent after injection was limited?",
+                "options": [
+                  "To argue that regulation has solved the problem",
+                  "To back up the causal claim",
+                  "To show that natural earthquakes are declining",
+                  "To explain why companies stopped extracting oil"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l2u_talk2",
+            "items": [
+              {
+                "id": "l2u_t2_1",
+                "q": "What is the main purpose of the talk?",
+                "options": [
+                  "To explain a contract that widened access to trade",
+                  "To describe the dangers of medieval sea travel",
+                  "To compare the economies of Venice and Genoa",
+                  "To argue that medieval merchants were mostly wealthy"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_t2_2",
+                "q": "What does the professor imply when she says the traveler's loss 'might include his life'?",
+                "options": [
+                  "Investors usually sailed on the ships as well.",
+                  "Travelers were paid even when ships sank.",
+                  "Most voyages ended in disaster.",
+                  "His risk went beyond money."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_t2_3",
+                "q": "Why do some historians doubt that the system was truly open?",
+                "options": [
+                  "Travelers rarely earned enough to invest.",
+                  "Investors often chose family members as partners.",
+                  "Most contracts gave all the profit to investors.",
+                  "Only citizens of Venice could sign the contracts."
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "writing": {
+    "build": {
+      "title": "Build a Sentence",
+      "instructions": "Arrange the words to build a correct sentence. One box may not be needed.",
+      "items": [
+        {
+          "id": "w_b1",
+          "context": "The bus was really crowded this morning.",
+          "before": "Do you know",
+          "after": "?",
+          "chunks": [
+            "were",
+            "there",
+            "was",
+            "why",
+            "so many people",
+            "on it"
+          ],
+          "answer": "why there were so many people on it"
+        },
+        {
+          "id": "w_b2",
+          "context": "I'm going to the housing office later.",
+          "after": "?",
+          "chunks": [
+            "will",
+            "be finished",
+            "you",
+            "the repairs",
+            "when",
+            "are",
+            "can",
+            "ask them"
+          ],
+          "answer": "Can you ask them when the repairs will be finished"
+        },
+        {
+          "id": "w_b3",
+          "context": "Have you seen the new geology lab?",
+          "after": ".",
+          "chunks": [
+            "build",
+            "who built",
+            "it was",
+            "designed",
+            "by",
+            "the library",
+            "the same architect"
+          ],
+          "answer": "It was designed by the same architect who built the library"
+        },
+        {
+          "id": "w_b4",
+          "context": "Why did you move out of the dorm?",
+          "before": "I",
+          "after": ".",
+          "chunks": [
+            "how",
+            "it was",
+            "noisy",
+            "was it",
+            "could not",
+            "get used",
+            "to"
+          ],
+          "answer": "could not get used to how noisy it was"
+        },
+        {
+          "id": "w_b5",
+          "context": "The sleep study sounds interesting.",
+          "after": "?",
+          "chunks": [
+            "they",
+            "looking for",
+            "are still",
+            "are they",
+            "whether",
+            "you know",
+            "do",
+            "participants"
+          ],
+          "answer": "Do you know whether they are still looking for participants"
+        },
+        {
+          "id": "w_b6",
+          "context": "What did the advisor tell you?",
+          "before": "She",
+          "after": ".",
+          "chunks": [
+            "before",
+            "have applied",
+            "that",
+            "I",
+            "has",
+            "told me",
+            "should",
+            "the deadline"
+          ],
+          "answer": "told me that I should have applied before the deadline"
+        },
+        {
+          "id": "w_b7",
+          "context": "Is the seminar on medieval trade still open?",
+          "before": "No,",
+          "after": ".",
+          "chunks": [
+            "the first day",
+            "it",
+            "has been",
+            "for",
+            "of registration",
+            "full",
+            "since"
+          ],
+          "answer": "it has been full since the first day of registration"
+        },
+        {
+          "id": "w_b8",
+          "context": "How do I get to the stadium from here?",
+          "before": "Take the number 6 bus and",
+          "after": ".",
+          "chunks": [
+            "ask",
+            "the driver",
+            "you",
+            "should",
+            "get off",
+            "where"
+          ],
+          "answer": "ask the driver where you should get off"
+        },
+        {
+          "id": "w_b9",
+          "context": "Did the professor explain the results?",
+          "before": "He",
+          "after": ".",
+          "chunks": [
+            "said",
+            "was published",
+            "anything",
+            "before",
+            "again",
+            "would be",
+            "the data",
+            "analyzed"
+          ],
+          "answer": "said the data would be analyzed again before anything was published",
+          "alts": [
+            "said the data would be analyzed before anything was published again"
+          ]
+        },
+        {
+          "id": "w_b10",
+          "context": "Why was the train delayed?",
+          "before": "Apparently,",
+          "after": ".",
+          "chunks": [
+            "a tree",
+            "had",
+            "during the storm",
+            "fell",
+            "the tracks",
+            "fallen",
+            "onto"
+          ],
+          "answer": "a tree had fallen onto the tracks during the storm",
+          "alts": [
+            "during the storm a tree had fallen onto the tracks"
+          ]
+        }
+      ]
+    },
+    "email": {
+      "title": "Write an Email",
+      "to": "Campus Housing Office",
+      "subject": "Heating problem in Room 214, Ashford Hall",
+      "prompt": "You live in a university residence hall. For the past two weeks, the heater in your room has not worked properly, and the room is very cold at night. You submitted an online repair request ten days ago, but nobody has replied.\n\nWrite an email to the Campus Housing Office. In your email, do the following:\n- Describe the problem with the heater.\n- Explain how the problem is affecting you.\n- Ask the office to take a specific action, and say when you are available.\n\nUse full sentences, and write as much as you can.",
+      "rubric": "Task: email to a university housing office about an unresolved repair. Must cover all 3 bullets: (1) describe the heater problem, (2) explain its effect on the writer (sleep, study, health), (3) request a specific action (repair visit, temporary heater, room move) and give availability. Look for polite but firm register, greeting and sign-off, mention of the earlier unanswered request, clear organization, accurate grammar and natural phrasing. Typical strong length 100-150 words."
+    },
+    "discussion": {
+      "title": "Write for an Academic Discussion",
+      "prompt": "Your professor is teaching a class on urban planning. Post a reply to the professor's question. In your reply, do these two things.\n- State your view and back it up.\n- Add something new to the thread, in your own words.\nAim for at least 100 words.",
+      "professor": {
+        "name": "Dr. Moreau",
+        "text": "Many cities struggle with traffic and air pollution. One proposal is to make public transit completely free for everyone, paid for through local taxes. Others argue that the money would be better spent on improving service, for example by running buses more often and building new lines, while keeping fares. If the goal is to get more people out of their cars, which approach do you think would work better, and why?"
+      },
+      "students": [
+        {
+          "name": "Lena",
+          "text": "I support free transit. Even a small fare makes people hesitate, especially low-income residents who need transit the most. If riding the bus costs nothing, people will at least try it, and many will keep using it once they see how convenient it is."
+        },
+        {
+          "name": "Tomás",
+          "text": "I think better service matters more. Most people drive because the bus is slow or unreliable, not because it is expensive. If a bus comes only every half hour, making it free will not change much. Frequent, fast service is what actually competes with a car."
+        }
+      ],
+      "rubric": "Task: academic discussion post, 100+ words. Look for a clear opinion on free transit vs. better service, specific support (examples, reasons, consequences), engagement with Lena's or Tomás's point rather than repeating it, coherence, varied accurate grammar and vocabulary."
+    }
+  },
+  "speaking": {
+    "repeat": {
+      "title": "Listen and Repeat",
+      "instructions": "Listen to each sentence once. After the beep, repeat it exactly as you heard it. No preparation time.",
+      "context": "You are starting a job at the front desk of a university housing office. Listen to your supervisor and repeat what she says. You hear each sentence one time.",
+      "maxSeconds": 14,
+      "items": [
+        {
+          "id": "sp_r1",
+          "audio": "sp_r1",
+          "text": "Welcome to the housing office."
+        },
+        {
+          "id": "sp_r2",
+          "audio": "sp_r2",
+          "text": "Please sign in at the front desk."
+        },
+        {
+          "id": "sp_r3",
+          "audio": "sp_r3",
+          "text": "Room keys are picked up on the second floor."
+        },
+        {
+          "id": "sp_r4",
+          "audio": "sp_r4",
+          "text": "If you've lost your key, a replacement costs twenty dollars."
+        },
+        {
+          "id": "sp_r5",
+          "audio": "sp_r5",
+          "text": "Maintenance requests should be submitted online rather than by phone."
+        },
+        {
+          "id": "sp_r6",
+          "audio": "sp_r6",
+          "text": "Students who want to change rooms must wait until the second week of the semester."
+        },
+        {
+          "id": "sp_r7",
+          "audio": "sp_r7",
+          "text": "Any student whose request hasn't been answered within three working days should be sent directly to the housing coordinator."
+        }
+      ]
+    },
+    "interview": {
+      "title": "Take an Interview",
+      "instructions": "An interviewer will ask you four questions. There is no preparation time. Answer each question and use the whole time to say as much as you can.",
+      "context": "You are joining a research study about sleep and daily routines. A researcher will ask you some questions in a short online interview.",
+      "maxSeconds": 45,
+      "items": [
+        {
+          "id": "sp_i1",
+          "audio": "sp_i1",
+          "text": "Thank you for joining me today. To start, could you describe your usual sleep schedule on a typical weekday?"
+        },
+        {
+          "id": "sp_i2",
+          "audio": "sp_i2",
+          "text": "Many people say their sleep changes during busy periods, like exams or deadlines at work. How does your sleep change when you are under pressure, and how does that affect you?"
+        },
+        {
+          "id": "sp_i3",
+          "audio": "sp_i3",
+          "text": "Some people believe that using phones and computers late at night is the main reason young people don't get enough sleep. Do you agree? Why or why not?"
+        },
+        {
+          "id": "sp_i4",
+          "audio": "sp_i4",
+          "text": "Last question. Some companies now let employees choose their own working hours, so that they can sleep according to their natural rhythm. Do you think this should become more common, even if it makes it harder for teams to meet? Please explain your view."
+        }
+      ]
+    }
+  }
+}

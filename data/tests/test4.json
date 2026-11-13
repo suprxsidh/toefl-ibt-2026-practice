@@ -1,0 +1,2196 @@
+{
+  "id": "test4",
+  "title": "Practice Test 4",
+  "note": "Original content. Full-length test at real difficulty. Topics: exoplanets, ancient agriculture, language acquisition, public health, campus dining.",
+  "timings": {
+    "reading": {
+      "router": 20,
+      "lower": 9,
+      "upper": 9
+    },
+    "listening": {
+      "router": 18,
+      "lower": 7,
+      "upper": 11
+    },
+    "writing": {
+      "build": 6,
+      "email": 7,
+      "discussion": 10
+    },
+    "speaking": 8
+  },
+  "audio": {
+    "l_c1": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Do you know when the dining hall stops serving lunch?"
+        }
+      ]
+    },
+    "l_c2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Wasn't the lab report due yesterday?"
+        }
+      ]
+    },
+    "l_c3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Could you tell me where the shuttle picks people up?"
+        }
+      ]
+    },
+    "l_c4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "I've been meaning to ask you about the internship."
+        }
+      ]
+    },
+    "l_c5": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Has anyone told you that the seminar room changed?"
+        }
+      ]
+    },
+    "l_c6": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Why don't we split the cost of the textbook?"
+        }
+      ]
+    },
+    "l_c7": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "I can't seem to log in to the course website."
+        }
+      ]
+    },
+    "l_c8": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Are you going to the review session tonight, or did you go last night?"
+        }
+      ]
+    },
+    "l_c9": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "You haven't seen my blue umbrella, have you?"
+        }
+      ]
+    },
+    "l_c10": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Professor Lin wants the drafts by noon instead of five."
+        }
+      ]
+    },
+    "l_conv1": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Hi, I was told to talk to you about the dining hall. I have a severe peanut allergy, and I'm not sure what's safe to eat."
+        },
+        {
+          "v": "Puck",
+          "t": "Sure. All our stations post ingredient cards, but for an allergy that serious, we recommend you register with us. Then we can prepare your meals in a separate area."
+        },
+        {
+          "v": "Kore",
+          "t": "Do I have to order every day?"
+        },
+        {
+          "v": "Puck",
+          "t": "You can order online the night before, and the meal will be waiting at the front counter. Just show your ID when you pick it up."
+        },
+        {
+          "v": "Kore",
+          "t": "That's great. Is there a fee?"
+        },
+        {
+          "v": "Puck",
+          "t": "No, it's included in your plan. You'll just need a note from a doctor to complete the registration."
+        },
+        {
+          "v": "Kore",
+          "t": "OK. I'll call my doctor's office this afternoon."
+        }
+      ]
+    },
+    "l_conv2": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Have you started the observation assignment for Linguistics 210?"
+        },
+        {
+          "v": "Leda",
+          "t": "Sort of. I recorded my niece for an hour on Sunday, but she barely said a word. She was shy around the microphone."
+        },
+        {
+          "v": "Charon",
+          "t": "Maybe try recording when she's playing and doesn't notice it?"
+        },
+        {
+          "v": "Leda",
+          "t": "That's what I'm thinking. My sister says she talks nonstop at bath time."
+        },
+        {
+          "v": "Charon",
+          "t": "Ha. Well, the professor did say natural settings give better data. Just make sure you get your sister's written permission first. Remember, that's required."
+        },
+        {
+          "v": "Leda",
+          "t": "Oh, right. I'd completely forgotten about the consent form. Good thing you mentioned it."
+        }
+      ]
+    },
+    "l_conv3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Marcus, did the posters for the blood drive arrive from the print shop?"
+        },
+        {
+          "v": "Orus",
+          "t": "They did, but there's a problem. The date says March fourth instead of March fourteenth."
+        },
+        {
+          "v": "Aoede",
+          "t": "Oh no. How many did they print?"
+        },
+        {
+          "v": "Orus",
+          "t": "Two hundred. I called the shop, and they said they could reprint them by Thursday at no charge."
+        },
+        {
+          "v": "Aoede",
+          "t": "Thursday is cutting it close. Could we at least put the event on the student portal for now?"
+        },
+        {
+          "v": "Orus",
+          "t": "Already done. I posted it this morning."
+        },
+        {
+          "v": "Aoede",
+          "t": "You're a step ahead of me. Then let's put up the new posters as soon as they come in."
+        }
+      ]
+    },
+    "l_ann1": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Good evening, diners. This is a reminder from Campus Dining Services. Starting Monday, the Riverside Grill will switch to reusable containers for all takeout orders. When you order, you'll receive a green container instead of a paper box. Once you've finished, simply drop it in any of the return bins in the residence hall lobbies. There's no deposit, but each student can check out only one container at a time, so if you haven't returned your last one, you won't be able to take out another meal. Paper boxes will still be available for guests."
+        }
+      ]
+    },
+    "l_ann2": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Before you go, a quick note about the observatory session. The session scheduled for Wednesday night is going to be moved, because the forecast shows heavy cloud cover all week. We'll aim for next Tuesday instead, but I'll confirm by email on Monday afternoon. If you can't make Tuesday, you can complete the alternative assignment, which uses archived telescope images. It covers the same material. And please, if you borrowed a star chart last time, bring it back. We're short a few."
+        }
+      ]
+    },
+    "l_talk1": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Today I want to look at a farming system that is, in some ways, older and simpler than irrigation: flood-recession agriculture. Picture a river that floods every year at roughly the same time. When the water rises, it spreads over the low land on either side and leaves behind a layer of fine, nutrient-rich silt. Then, as the flood recedes, farmers plant seeds directly into the damp soil. The crop grows on moisture stored in the ground, so there's no need to dig channels or lift water. Now, you might think this sounds almost too easy, and in a good year, it was. The silt replaced nutrients every season, so fields could be farmed for centuries without wearing out. Compare that with rain-fed fields elsewhere, which often had to be left empty for years to recover. But the system had a serious weakness. It depended entirely on the size of the flood. If the river rose too little, the upper fields stayed dry and couldn't be planted. If it rose too much, the water stayed on the land too long, and planting came too late in the season. So farmers became very interested in predicting the flood. Some communities kept records of water levels, marking them on stone, and over generations those records became a kind of early science. In fact, some historians argue that it was the need to manage uncertainty, rather than the need to grow more food, that pushed these societies toward more complex forms of administration."
+        }
+      ]
+    },
+    "l_talk2": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Let's talk about an idea from public health that many people find counterintuitive. It's called the prevention paradox. Suppose a city wants to reduce heart disease. The obvious strategy is to find the small group of people at very high risk, say, those with extremely high blood pressure, and treat them. That certainly helps those individuals. But here's the thing: most heart attacks in that city won't happen to the high-risk group. They'll happen to the much larger group of people at moderate risk, simply because there are so many more of them. So an alternative strategy is to shift the whole population a little, for instance, by reducing the salt in processed foods. Each person's blood pressure drops only slightly, and any one individual benefits very little. Yet across hundreds of thousands of people, the number of heart attacks prevented can be larger than with the targeted approach. That's the paradox: a measure that brings large benefits to the community offers little to each person who takes part. And this creates a practical problem. If you ask people to change their behavior for a benefit they'll never personally notice, many won't bother. That's why population strategies tend to work best when they don't depend on individual effort at all, when the change happens in the food supply or the environment rather than through personal choices."
+        }
+      ]
+    },
+    "l_c11": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "What time does the cafeteria open?"
+        }
+      ]
+    },
+    "l_c12": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Where did you buy that jacket?"
+        }
+      ]
+    },
+    "l_c13": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Can you help me carry these chairs?"
+        }
+      ]
+    },
+    "l_c14": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Is the library open on Sunday?"
+        }
+      ]
+    },
+    "l_c15": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "How was the soccer game?"
+        }
+      ]
+    },
+    "l_c16": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Do you want tea or coffee?"
+        }
+      ]
+    },
+    "l_conv4": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Hi, what can I get you?"
+        },
+        {
+          "v": "Orus",
+          "t": "Can I have the chicken sandwich, please?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "Sorry, we just ran out of chicken. We have a turkey sandwich or a vegetable wrap."
+        },
+        {
+          "v": "Orus",
+          "t": "Hmm. I'll take the vegetable wrap, then. How much is it?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "It's five dollars. Would you like a drink with it?"
+        },
+        {
+          "v": "Orus",
+          "t": "No, thanks. I have water."
+        }
+      ]
+    },
+    "l_conv5": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Did you hear there's a meteor shower tonight?"
+        },
+        {
+          "v": "Kore",
+          "t": "Really? What time?"
+        },
+        {
+          "v": "Puck",
+          "t": "The best time is after midnight. My brother says we should go to the hill outside town, because the city lights are too bright."
+        },
+        {
+          "v": "Kore",
+          "t": "Midnight is late, but I don't have class tomorrow morning. Can you drive?"
+        },
+        {
+          "v": "Puck",
+          "t": "Yes. I'll pick you up at eleven thirty."
+        }
+      ]
+    },
+    "l_ann3": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Hello, shoppers. This Saturday, the Greenway Community Center will have a free health day. Nurses will check your blood pressure, and you can get a flu shot for free. The event starts at nine in the morning and ends at one in the afternoon. You don't need an appointment. Please bring a photo ID. There will also be a cooking class about healthy lunches at eleven. Children are welcome."
+        }
+      ]
+    },
+    "l_talk3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Today we'll talk about how babies learn to speak. Babies don't say real words at first. At about six months old, they start to babble. Babbling means making the same simple sounds again and again, like ba-ba-ba or da-da-da. Babies all over the world babble in a similar way. But by around ten months, something changes. Their babbling starts to sound more like the language they hear at home. A baby in a Spanish-speaking family begins to sound a little Spanish, and a baby in a Japanese-speaking family begins to sound a little Japanese. Most babies say their first real word around their first birthday. Parents can help by talking to their babies often, even before the babies understand."
+        }
+      ]
+    },
+    "l_talk4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Astronomers have found thousands of planets around other stars. But which ones might have life? One important idea is the habitable zone. This is the area around a star where a planet is not too hot and not too cold, so water can stay liquid. If a planet is too close to its star, the water boils away. If it is too far, the water freezes. Earth is in the habitable zone of our Sun. Being in this zone does not mean that a planet has life. It only means that liquid water is possible. Scientists then use powerful telescopes to study the planet's air for other clues."
+        }
+      ]
+    },
+    "l_c17": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "I thought you'd already handed in your thesis proposal."
+        }
+      ]
+    },
+    "l_c18": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Do you happen to know whether the dining hall accepts guest passes on weekends?"
+        }
+      ]
+    },
+    "l_c19": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "I'm surprised Professor Adeyemi agreed to extend the deadline."
+        }
+      ]
+    },
+    "l_c20": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Wouldn't it make more sense to run the survey after midterms?"
+        }
+      ]
+    },
+    "l_c21": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "You couldn't have picked a worse week to move apartments."
+        }
+      ]
+    },
+    "l_c22": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "The committee's decision hasn't been made public yet, has it?"
+        }
+      ]
+    },
+    "l_conv6": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Professor Hale, do you have a minute? It's about my final project."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Of course. You were looking for transits in the public survey data, right?"
+        },
+        {
+          "v": "Orus",
+          "t": "Right. The problem is, I found a dip in one star's brightness, but it shows up only once in the whole data set."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Once isn't enough to call it a planet, I'm afraid. A single dip could be a passing asteroid, an instrument glitch, even a dark spot on the star."
+        },
+        {
+          "v": "Orus",
+          "t": "That's what I was worried about. So should I just drop it?"
+        },
+        {
+          "v": "Zephyr",
+          "t": "Not necessarily. The archive added a new season of observations last month. If the object is real, it might show up again there. And even if it doesn't, explaining why your candidate can't be confirmed would make a perfectly good project."
+        },
+        {
+          "v": "Orus",
+          "t": "So a negative result still counts."
+        },
+        {
+          "v": "Zephyr",
+          "t": "As long as your reasoning is careful, absolutely."
+        }
+      ]
+    },
+    "l_conv7": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "So, Jordan, you've been tracking plate waste for three weeks. What's the headline?"
+        },
+        {
+          "v": "Puck",
+          "t": "The biggest surprise is that waste went up after we introduced the larger plates in September. About forty grams more per tray, on average."
+        },
+        {
+          "v": "Kore",
+          "t": "Hmm. That's not what the supplier promised. They said bigger plates would mean fewer trips back to the line."
+        },
+        {
+          "v": "Puck",
+          "t": "Fewer trips, yes. But people fill the plates on the first trip and don't finish."
+        },
+        {
+          "v": "Kore",
+          "t": "Is it the same at breakfast?"
+        },
+        {
+          "v": "Puck",
+          "t": "Breakfast barely changed. The difference shows up mostly at dinner."
+        },
+        {
+          "v": "Kore",
+          "t": "OK. Before we go back to the old plates, I'd like one more week of numbers, just to rule out a start-of-semester effect. If it holds, I'll take it to the director."
+        }
+      ]
+    },
+    "l_ann4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Hi everyone, a quick announcement on behalf of the Child Language Lab. The lab is recruiting families with children between eighteen and thirty months old for a study on how toddlers learn new verbs. Sessions take about forty minutes. The child watches short videos while an eye tracker records where they look. Parents receive a twenty-dollar gift card, and the child gets to pick a book to take home. I should mention that, because the study looks at early vocabulary, the lab can only include children who hear mainly English at home. A separate study for bilingual families will run in the spring. The sign-up link is on the department page."
+        }
+      ]
+    },
+    "l_talk5": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "I want to pick up a point from last week about infants and speech sounds. Every language uses a limited set of contrasts, that is, differences between sounds that change the meaning of a word. English distinguishes r and l, so rock and lock are different words. Japanese doesn't make that distinction. What's remarkable is that infants around six months old can hear differences between sounds from virtually any language, including contrasts their parents can't hear at all. But by about their first birthday, that ability has narrowed. Babies become better at the contrasts in their own language and noticeably worse at the ones they don't hear around them. Researchers call this perceptual narrowing. At first glance, it looks like a loss. Why would the brain throw away a useful ability? But think about what the infant is doing. It's learning which differences matter. If you treated every tiny variation as meaningful, you'd struggle to recognize that two people saying the same word are, in fact, saying the same word. So narrowing is better understood as tuning than as decline. One more thing: exposure seems to have to be social. In one line of research, infants who heard a new language from a live speaker kept the ability to hear its contrasts, but infants who heard the same speech from a video recording did not."
+        }
+      ]
+    },
+    "l_talk6": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Let's turn to early wheat. Wild wheat has a feature that's great for the plant but terrible for a farmer: when the seeds ripen, the head of the plant shatters, and the seeds fall to the ground on their own. That's how the plant spreads. Domesticated wheat, by contrast, keeps its seeds on the stalk until someone harvests them. So at some point, people must have selected plants that didn't shatter. For a long time, researchers assumed this happened quickly. Experiments with modern wild wheat suggested that if farmers harvested with sickles, non-shattering plants would dominate a field within twenty or thirty years. But the archaeological record tells a different story. Preserved plant remains from early sites show that non-shattering wheat took something like two thousand years to become dominant. So why the gap? One explanation is harvesting technique. If people gathered wheat before it was fully ripe, or simply pulled up whole plants, they'd collect shattering and non-shattering seeds alike, and there'd be little pressure favoring one type over the other. In other words, the speed of domestication may have depended less on the plant than on human habits."
+        }
+      ]
+    },
+    "sp_r1": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Welcome to the planetarium."
+        }
+      ]
+    },
+    "sp_r2": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "The next show begins in ten minutes."
+        }
+      ]
+    },
+    "sp_r3": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Please turn off your phones before the lights go down."
+        }
+      ]
+    },
+    "sp_r4": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Our telescope on the roof is open to visitors on clear evenings."
+        }
+      ]
+    },
+    "sp_r5": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Children under eight must be accompanied by an adult at all times."
+        }
+      ]
+    },
+    "sp_r6": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "If you'd like to learn more about the planets, pick up a free guide at the exit."
+        }
+      ]
+    },
+    "sp_r7": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "The images you will see were taken by a telescope that has watched distant stars for years."
+        }
+      ]
+    },
+    "sp_i1": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Thanks for joining me today. I'm studying how people make choices about food. To start, could you describe what you usually eat on a typical weekday?"
+        }
+      ]
+    },
+    "sp_i2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Some people prefer to cook their own meals, while others would rather eat out or buy ready-made food. Which do you prefer, and why?"
+        }
+      ]
+    },
+    "sp_i3": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Many schools and workplaces now post nutrition information, like calorie counts, next to the food they serve. Do you think this information actually changes what people choose to eat? Why or why not?"
+        }
+      ]
+    },
+    "sp_i4": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Last question. Some governments have introduced special taxes on sugary drinks to improve public health. Others argue that people should be free to make their own food choices without government involvement. What's your view? Please explain."
+        }
+      ]
+    }
+  },
+  "reading": {
+    "stage1": {
+      "id": "r1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Farming began independently in several regions of the world about ten thousand years ago. Before that, most people {moved} from {place} to place, {following} herds {and} gathering {wild} plants {as} the seasons {changed}. Once they {learned} to store {seeds} and plant them, {villages} began to appear near rivers. These early settlements eventually grew into the first towns."
+        },
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Children acquire their first language with remarkable speed. By the age of three, most {can} produce {sentences} that they {have} never heard {before}, which suggests {that} they are not {simply} imitating adults. {Instead}, they appear to {extract} general {patterns} from the {speech} around them. Errors such as 'goed' or 'mouses' support this view, because no adult would say them."
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "HOLLIS DINING COMMONS: WEEKEND BRUNCH\nSaturdays and Sundays, 10:00 a.m. to 2:00 p.m.\n\nHot station: omelets made to order, pancakes, roasted potatoes\nCold station: yogurt bar, fresh fruit, bagels\n\nMeal-plan holders: one swipe. Guests: $11.50 (card payment only).\n\nPlease note: The omelet station stops taking orders at 1:30 p.m. Gluten-free pancakes are prepared on request; please allow ten minutes.",
+          "items": [
+            {
+              "id": "r1_d1_1",
+              "q": "Ana has a meal plan. She wants to bring a friend to brunch who has no meal plan and is carrying only cash. What problem will they have?",
+              "options": [
+                "The friend must arrive before 1:30 p.m.",
+                "The guest fee is card-only.",
+                "Ana's swipe is valid only on weekdays.",
+                "Guests may eat only at the cold station."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_d1_2",
+              "q": "What is stated about the gluten-free pancakes?",
+              "options": [
+                "They are served only on Sundays.",
+                "They cost extra for guests.",
+                "They are cooked to order.",
+                "They are available until 1:30 p.m."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "From: Student Health Services\nTo: All residents, Marlow Hall\nSubject: Flu clinic moved: please read\n\nHi everyone,\n\nBecause of the storm forecast, Thursday's flu vaccination clinic in the Marlow Hall lobby has been moved to Monday, October 20, at the same time (11 a.m. to 3 p.m.). If you already signed up for a time slot, you do not need to sign up again; your slot carries over automatically. If Monday doesn't work for you, walk-in vaccinations are available at the Health Center on weekdays, although wait times there can exceed an hour. Please bring your student ID and wear a shirt with short or loose sleeves.\n\nStay well,\nDana Ruiz, RN",
+          "items": [
+            {
+              "id": "r1_d2_1",
+              "q": "Why was the clinic moved?",
+              "options": [
+                "Too few residents had signed up.",
+                "The lobby needs repairs.",
+                "Bad weather is expected on Thursday.",
+                "The nurse will be away on Thursday."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_d2_2",
+              "q": "What is true about residents who have already signed up?",
+              "options": [
+                "Their booking stays valid.",
+                "They must choose a new time slot online.",
+                "They should go to the Health Center instead.",
+                "They will be seen first during walk-in hours."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_d2_3",
+              "q": "Why does the writer mention that wait times at the Health Center can exceed an hour?",
+              "options": [
+                "To explain why the clinic had to be moved",
+                "To apologize for the long delays residents faced at last year's clinic",
+                "To ask residents to arrive early on Monday",
+                "To suggest that the Monday clinic is the more convenient option"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "academic",
+          "title": "Read an Academic Passage",
+          "text": "Finding Planets Around Other Stars\n\nFor most of history, astronomers could only speculate about whether other stars had planets. The difficulty is one of contrast: a planet is billions of times fainter than the star it orbits, and from Earth the two appear almost on top of each other. Since the 1990s, however, more than five thousand such worlds, called exoplanets, have been confirmed, most of them without ever being seen directly.\n\nThe most productive technique is the transit method. When a planet passes between its star and an observer, it blocks a tiny fraction of the star's light. A telescope that measures the star's brightness continuously will record a small, regular dip each time this happens. The depth of the dip reveals the planet's size relative to the star, and the time between dips gives the length of its year.\n\nThe method has an important bias. A transit can be observed only if the planet's orbit is lined up almost exactly with our line of sight, so most planetary systems are invisible to it. Moreover, planets that orbit close to their stars transit frequently and are detected quickly, whereas a planet with an orbit as long as Jupiter's might pass in front of its star only once every twelve years.",
+          "items": [
+            {
+              "id": "r1_a1_1",
+              "q": "The word 'speculate' in the passage is closest in meaning to",
+              "options": [
+                "guess",
+                "argue",
+                "record",
+                "worry"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_a1_2",
+              "q": "According to paragraph 1, why is it difficult to observe exoplanets directly?",
+              "options": [
+                "They move across the sky too quickly to be photographed by most telescopes.",
+                "They are usually hidden behind clouds of interstellar dust.",
+                "Telescopes could not measure starlight before the 1990s.",
+                "Their light is swamped by a much brighter source almost beside them."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_a1_3",
+              "q": "According to the passage, what does the time between dips reveal?",
+              "options": [
+                "The planet's size compared with its star",
+                "How long the planet takes to orbit its star",
+                "How far the planet is from Earth",
+                "How much light the planet itself reflects"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_a1_4",
+              "q": "Why does the author mention Jupiter?",
+              "options": [
+                "To give an example of a planet discovered by the transit method",
+                "To compare the sizes of exoplanets with planets in our solar system",
+                "To show why long-orbit planets are found slowly",
+                "To show that the method works best for very large planets"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_a1_5",
+              "q": "What can be inferred about the exoplanets confirmed so far?",
+              "options": [
+                "Planets with short orbits are probably overrepresented among them.",
+                "Most of them were first detected in photographs.",
+                "Most of them orbit stars that are similar to the Sun.",
+                "They include nearly all the planets in our galaxy."
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "r2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Washing your hands is one of the easiest ways to stay healthy. Germs {can} live on {doors}, phones {and} desks. When {you} touch your {face}, they can {enter} your body. {Doctors} say you {should} wash {with} soap for {twenty} seconds. Clean hands protect you and the people around you."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "CAMPUS CAFE: THIS WEEK'S SPECIALS\n\nMonday: Tomato soup and bread, $4\nTuesday: Chicken rice bowl, $6\nWednesday: Vegetable pasta, $5\nThursday: Fish tacos, $6\nFriday: Pizza slice and salad, $5\n\nThe cafe is closed on weekends. Free coffee with any special before 9 a.m.",
+            "items": [
+              {
+                "id": "r2l_d1_1",
+                "q": "On which day can you buy pasta?",
+                "options": [
+                  "Monday",
+                  "Tuesday",
+                  "Friday",
+                  "Wednesday"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_d1_2",
+                "q": "How can you get a free coffee?",
+                "options": [
+                  "Visit the cafe on a weekend",
+                  "Buy a special before 9 a.m.",
+                  "Buy a pizza slice on Friday",
+                  "Spend more than $6"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "Mia Torres\n\nOur astronomy club is holding a free stargazing night this Friday at 8 p.m. on the soccer field! We will bring three telescopes, so you don't need your own. You will see the rings of Saturn and maybe the Moon. It gets cold at night, so wear a warm jacket. If it rains, we will meet on Saturday instead. Everyone is welcome!\n\nLike   Comment   Share",
+            "items": [
+              {
+                "id": "r2l_d2_1",
+                "q": "What is the main purpose of the post?",
+                "options": [
+                  "To invite people to look at the night sky",
+                  "To sell telescopes to club members",
+                  "To ask people to join a soccer team",
+                  "To explain how to find Saturn"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_d2_2",
+                "q": "What does Mia say about the telescopes?",
+                "options": [
+                  "People must bring their own.",
+                  "They cost money to use.",
+                  "The club will bring them.",
+                  "They work only when it is cold."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_d2_3",
+                "q": "What will happen if it rains on Friday?",
+                "options": [
+                  "The event will be cancelled.",
+                  "The club will meet indoors.",
+                  "People should bring umbrellas.",
+                  "The event will happen on Saturday."
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "The First Farm Animals\n\nLong ago, people did not keep animals on farms. They hunted wild animals for food. About ten thousand years ago, people in the Middle East began to keep wild goats near their homes. Over time, these goats became calmer and smaller. People used them for milk, meat and skin. Goats were very useful because they can eat many plants that people cannot eat. Later, people also kept sheep, cows and pigs. Keeping animals meant that families had food all year, even in winter.",
+            "items": [
+              {
+                "id": "r2l_a1_1",
+                "q": "What is the passage mainly about?",
+                "options": [
+                  "How people hunted wild goats",
+                  "How people started keeping animals",
+                  "Why goats are smaller than sheep",
+                  "Where cows first lived"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_a1_2",
+                "q": "According to the passage, where did people first keep goats?",
+                "options": [
+                  "In the Middle East",
+                  "In Europe",
+                  "Near the sea",
+                  "In cold mountains"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_a1_3",
+                "q": "How did goats change over time?",
+                "options": [
+                  "They became larger and wilder.",
+                  "They started to eat meat.",
+                  "They stopped giving milk.",
+                  "They became calmer and smaller."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_a1_4",
+                "q": "Why were goats useful?",
+                "options": [
+                  "They could pull farm tools.",
+                  "They needed very little water.",
+                  "They ate plants people can't.",
+                  "They were easy to hunt."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_a1_5",
+                "q": "What was one benefit of keeping animals?",
+                "options": [
+                  "Families did not have to work.",
+                  "Families had food all year.",
+                  "Families could stop growing plants.",
+                  "Families moved more often."
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "r2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Vaccination protects not only the person who receives it but also the wider community. When a sufficiently large {proportion} of a {population} is immune, a {pathogen} cannot {circulate} {efficiently}, since {each} infected person {encounters} too few {susceptible} hosts. This {phenomenon}, known as herd {immunity}, shields those who cannot be vaccinated, such as newborns. The threshold required varies with how contagious the disease is."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "CAMPUS DINING SERVICES: SPRING MEAL PLANS\n\nPlan 14: 14 swipes per week + $150 Dining Dollars, $2,450 per semester\nBlock 160: 160 swipes per semester + $300 Dining Dollars, $2,380 per semester\nFlex: no swipes + $1,900 Dining Dollars (10% bonus added at purchase), $1,900 per semester\n\nWeekly swipes reset every Sunday at midnight and do not carry over. Block swipes may be used at any time during the semester. Dining Dollars roll over from fall to spring but expire at the end of the academic year. First-year residents must choose Plan 14 or Block 160.",
+            "items": [
+              {
+                "id": "r2u_d1_1",
+                "q": "A first-year resident often skips breakfast and goes home on many weekends. She does not want to pay for meals she will not use. Which plan best suits her?",
+                "options": [
+                  "Plan 14",
+                  "Block 160",
+                  "Flex",
+                  "Plan 14 or Flex, whichever costs less"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_d1_2",
+                "q": "What is true about Dining Dollars?",
+                "options": [
+                  "They reset every Sunday at midnight.",
+                  "First-year residents cannot receive them as part of any meal plan.",
+                  "Money left over in the fall can be spent in the spring.",
+                  "Flex plan holders receive exactly the amount they pay."
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "CITY OF HARLOW: PRECAUTIONARY BOIL-WATER NOTICE\nIssued Tuesday, 6:40 a.m.\n\nFollowing a water main break on Ferris Avenue, pressure dropped in the North Ridge district overnight. Although no contamination has been detected, a loss of pressure can allow groundwater to enter the pipes. As a precaution, North Ridge residents should bring tap water to a rolling boil for one minute before drinking it, making ice, or brushing their teeth. Water is safe for bathing and laundry without boiling, but infants should be sponge-bathed. Residents of other districts are not affected. The notice will remain in effect until tests on two consecutive days show that the water is safe; the earliest this can happen is Thursday evening.",
+            "items": [
+              {
+                "id": "r2u_d2_1",
+                "q": "Why was the notice issued?",
+                "options": [
+                  "Tests found bacteria in the North Ridge water supply.",
+                  "A storm flooded parts of Ferris Avenue.",
+                  "The city's treatment plant was shut down overnight.",
+                  "Low pressure may have let groundwater in."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_d2_2",
+                "q": "According to the notice, which activity does NOT require boiled water in North Ridge?",
+                "options": [
+                  "Washing clothes",
+                  "Making ice",
+                  "Brushing teeth",
+                  "Drinking from the tap"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_d2_3",
+                "q": "What can be inferred about residents of districts other than North Ridge?",
+                "options": [
+                  "They should sponge-bathe infants.",
+                  "No boiling is needed for them.",
+                  "They also lost water pressure overnight.",
+                  "Their water will be tested on Thursday."
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Statistical Learning in Infancy\n\nSpoken language poses a problem that written language does not: there are no reliable pauses between words. A listener who does not yet know a language's vocabulary therefore faces a continuous stream of sound, and it was long assumed that infants must rely on innate knowledge to divide it into words. A series of experiments beginning in the 1990s complicated that assumption. Eight-month-old infants listened for two minutes to an artificial 'language' of nonsense syllables strung together without pauses or stress. Within the stream, certain syllables always followed one another, forming 'words', while other pairings occurred only by chance, at word boundaries. When later presented with sequences from the stream, the infants listened longer to the chance pairings, indicating that they had registered which syllables reliably belonged together.\n\nThe finding was striking less for its demonstration of learning than for the speed and the kind of computation involved: the infants were, in effect, tracking transitional probabilities, the likelihood that one sound predicts the next. Yet researchers have been cautious about its scope. Natural speech is far richer and noisier than an artificial stream, and the ability to detect patterns does not by itself explain how infants attach meaning to the units they discover. Statistical learning is thus better described as one tool among several than as a complete account of how language is acquired.",
+            "items": [
+              {
+                "id": "r2u_a1_1",
+                "q": "According to paragraph 1, what problem does spoken language present to a new listener?",
+                "options": [
+                  "It is spoken more quickly than infants can process.",
+                  "It contains more sounds than written language does.",
+                  "It has no dependable gaps between words.",
+                  "It sounds different from one speaker to another."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_a1_2",
+                "q": "The word 'complicated' in the passage is closest in meaning to",
+                "options": [
+                  "challenged",
+                  "confirmed",
+                  "explained",
+                  "introduced"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_a1_3",
+                "q": "What did the infants' longer listening to the chance pairings indicate?",
+                "options": [
+                  "The infants found the chance pairings more familiar.",
+                  "The infants preferred syllables that carried stress.",
+                  "The infants had learned what the 'words' meant.",
+                  "The infants had noticed which syllables consistently occurred together."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_a1_4",
+                "q": "Why does the author say that the finding was 'striking less for its demonstration of learning than for the speed and the kind of computation involved'?",
+                "options": [
+                  "To suggest that the experiment did not actually show learning",
+                  "To stress the method of learning over the fact of it",
+                  "To argue that infants learn more slowly than earlier studies claimed",
+                  "To criticize the short length of the listening session"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_a1_5",
+                "q": "Which of the following best describes the author's view of statistical learning?",
+                "options": [
+                  "It has been largely disproved by later studies of natural speech.",
+                  "It explains how infants come to connect sounds with their meanings.",
+                  "It depends on innate knowledge of a language's vocabulary.",
+                  "It is real but only part of the story."
+                ],
+                "answer": 3
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "listening": {
+    "stage1": {
+      "id": "l1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "choose",
+          "title": "Listen and Choose a Response",
+          "items": [
+            {
+              "id": "l1_c1",
+              "audio": "l_c1",
+              "q": "Choose the best response.",
+              "options": [
+                "I think it's at two.",
+                "I had the soup for lunch.",
+                "Yes, it's a very long hall.",
+                "No, I've already eaten."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c2",
+              "audio": "l_c2",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I'll report it to them.",
+                "No, the lab is closed today.",
+                "They pushed it back to Friday.",
+                "It took me two days to write."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c3",
+              "audio": "l_c3",
+              "q": "Choose the best response.",
+              "options": [
+                "It picks people up around noon.",
+                "Outside the library.",
+                "I'll pick it up for you.",
+                "Yes, I could."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c4",
+              "audio": "l_c4",
+              "q": "Choose the best response.",
+              "options": [
+                "It was meant for someone else.",
+                "I'm asking about it too.",
+                "No, I didn't mean that.",
+                "Sure, go ahead."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c5",
+              "audio": "l_c5",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I'll tell them.",
+                "It hasn't changed much since last year.",
+                "No, where is it now?",
+                "The seminar was really interesting."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c6",
+              "audio": "l_c6",
+              "q": "Choose the best response.",
+              "options": [
+                "Good idea.",
+                "Because it's too expensive.",
+                "I split it in half yesterday.",
+                "The book has a lot of chapters."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c7",
+              "audio": "l_c7",
+              "q": "Choose the best response.",
+              "options": [
+                "I'll log the hours for you.",
+                "It's a very useful website for the course.",
+                "Yes, you can see it from here.",
+                "The server's been down all morning."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c8",
+              "audio": "l_c8",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, I am.",
+                "I went last night.",
+                "It reviewed the whole chapter.",
+                "I'll review it tomorrow."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c9",
+              "audio": "l_c9",
+              "q": "Choose the best response.",
+              "options": [
+                "I haven't been there yet.",
+                "It's going to rain later.",
+                "Check the hook by the door.",
+                "Yes, I bought a blue one."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c10",
+              "audio": "l_c10",
+              "q": "Choose the best response.",
+              "options": [
+                "Then I'd better hurry.",
+                "She wants five copies.",
+                "I'd rather have lunch at noon.",
+                "Instead, she gave a lecture."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv1",
+          "items": [
+            {
+              "id": "l1_v1_1",
+              "q": "Why does the woman talk to the man?",
+              "options": [
+                "To complain about the ingredient cards",
+                "To ask about safe meals",
+                "To apply for a job in the dining hall",
+                "To ask for a refund on her meal plan"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_v1_2",
+              "q": "What will the woman most likely do next?",
+              "options": [
+                "Order a meal online",
+                "Pay a registration fee",
+                "Read the ingredient cards at each station",
+                "Contact her doctor's office"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv2",
+          "items": [
+            {
+              "id": "l1_v2_1",
+              "q": "Why does the woman mention bath time?",
+              "options": [
+                "To suggest a time when her niece talks freely",
+                "To explain why the recording was so short",
+                "To complain that her sister is too busy",
+                "To describe a game she plays with her niece"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_v2_2",
+              "q": "What does the man remind the woman to do?",
+              "options": [
+                "Ask the professor for an extension",
+                "Record in a quiet room",
+                "Get her sister's consent in writing",
+                "Transcribe the recording before Sunday"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv3",
+          "items": [
+            {
+              "id": "l1_v3_1",
+              "q": "What is the problem with the posters?",
+              "options": [
+                "They arrived after the event.",
+                "Too few of them were printed.",
+                "The print shop charged too much.",
+                "They show the wrong date."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_v3_2",
+              "q": "What does the woman mean when she says, 'You're a step ahead of me'?",
+              "options": [
+                "She thinks the man is acting too quickly.",
+                "He already did it.",
+                "She wants the man to wait for her instructions.",
+                "The man should visit the print shop first."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann1",
+          "items": [
+            {
+              "id": "l1_n1_1",
+              "q": "What change is being announced?",
+              "options": [
+                "The grill will close on Mondays.",
+                "Guests must pay a deposit.",
+                "Takeout meals will come in reusable containers.",
+                "Return bins will be removed from residence halls."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_n1_2",
+              "q": "What will happen if a student has not returned a container?",
+              "options": [
+                "The student cannot take out another meal.",
+                "The student will be charged a fee.",
+                "The student will get a paper box instead.",
+                "The student must visit the dining office."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann2",
+          "items": [
+            {
+              "id": "l1_n2_1",
+              "q": "Why is the observatory session being moved?",
+              "options": [
+                "The observatory is being repaired.",
+                "Cloudy skies are expected all week.",
+                "Many students have a conflict on Wednesday.",
+                "The professor will be away."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_n2_2",
+              "q": "What does the professor say about the alternative assignment?",
+              "options": [
+                "Every student must complete it.",
+                "It is due on Monday afternoon.",
+                "It requires a star chart.",
+                "It covers the same content."
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk1",
+          "items": [
+            {
+              "id": "l1_t1_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "How irrigation channels were built",
+                "Why early farmers left fields empty",
+                "How river floods damaged early settlements",
+                "Farming on river floods"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t1_2",
+              "q": "Why does the professor mention rain-fed fields?",
+              "options": [
+                "To point out an advantage of flood-recession farming",
+                "To show that rain-fed fields produced more food",
+                "To explain where flood-recession farming began",
+                "To describe a method that later replaced flood-recession farming"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t1_3",
+              "q": "According to the professor, what happened when a flood was too large?",
+              "options": [
+                "The upper fields stayed dry.",
+                "The silt was washed away.",
+                "Planting happened too late in the season.",
+                "Farmers had to dig channels."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_t1_4",
+              "q": "What do some historians argue, according to the professor?",
+              "options": [
+                "The need to grow more food led to complex administration.",
+                "Managing flood uncertainty drove administrative complexity.",
+                "Stone records of water levels were mainly religious.",
+                "Irrigation replaced flood-recession farming within a few generations."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk2",
+          "items": [
+            {
+              "id": "l1_t2_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "How doctors decide which patients are at high risk of heart disease",
+                "Why broad small changes can beat targeted care",
+                "Why heart disease has become more common in large cities",
+                "How reducing salt in the diet affects an individual's blood pressure"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t2_2",
+              "q": "According to the professor, why do most heart attacks occur in the moderate-risk group?",
+              "options": [
+                "Its members rarely visit doctors.",
+                "Its members eat more processed food.",
+                "Its members are older on average.",
+                "The group contains far more people."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t2_3",
+              "q": "Why does the professor mention reducing the salt in processed foods?",
+              "options": [
+                "To give an example of a strategy that shifts the whole population",
+                "To show how high-risk patients are usually treated",
+                "To argue that food companies cause heart disease",
+                "To introduce the topic of the next class"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t2_4",
+              "q": "What does the professor imply about population strategies that depend on personal choices?",
+              "options": [
+                "They are cheaper than targeted treatment.",
+                "They work best for high-risk individuals who already see a doctor.",
+                "They may fail because people notice little personal benefit.",
+                "They have been replaced by changes to the food supply."
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "l2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2l_c1",
+                "audio": "l_c11",
+                "q": "Choose the best response.",
+                "options": [
+                  "At seven thirty.",
+                  "It's very open.",
+                  "Yes, I'm hungry.",
+                  "Next to the gym."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c2",
+                "audio": "l_c12",
+                "q": "Choose the best response.",
+                "options": [
+                  "Last weekend.",
+                  "Yes, I like it a lot.",
+                  "At the store downtown.",
+                  "It's too big for me."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_c3",
+                "audio": "l_c13",
+                "q": "Choose the best response.",
+                "options": [
+                  "I like those chairs.",
+                  "Sure, where do they go?",
+                  "He carried them yesterday.",
+                  "They are very cheap."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c4",
+                "audio": "l_c14",
+                "q": "Choose the best response.",
+                "options": [
+                  "I read a book there.",
+                  "On the first floor.",
+                  "She is open to it.",
+                  "Only in the afternoon."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_c5",
+                "audio": "l_c15",
+                "q": "Choose the best response.",
+                "options": [
+                  "We won by two goals!",
+                  "I play on Fridays.",
+                  "It's at four o'clock.",
+                  "By bus."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c6",
+                "audio": "l_c16",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, please.",
+                  "Coffee.",
+                  "I drank it.",
+                  "It's hot today."
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv4",
+            "items": [
+              {
+                "id": "l2l_v1_1",
+                "q": "Why can't the man get the chicken sandwich?",
+                "options": [
+                  "He doesn't have enough money.",
+                  "The cafe is closing.",
+                  "There is no more chicken.",
+                  "He wants something healthier."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_v1_2",
+                "q": "What does the man buy?",
+                "options": [
+                  "A vegetable wrap",
+                  "A turkey sandwich",
+                  "A chicken sandwich",
+                  "A bottle of water"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv5",
+            "items": [
+              {
+                "id": "l2l_v2_1",
+                "q": "Why will they go to the hill?",
+                "options": [
+                  "It is close to the woman's house.",
+                  "The man's brother lives there.",
+                  "It is warmer there at night.",
+                  "It is darker than the city."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_v2_2",
+                "q": "What time will the man pick up the woman?",
+                "options": [
+                  "At eleven o'clock",
+                  "At eleven thirty",
+                  "At midnight",
+                  "At twelve thirty"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann3",
+            "items": [
+              {
+                "id": "l2l_n1_1",
+                "q": "What is the announcement about?",
+                "options": [
+                  "A new grocery store",
+                  "A free health event",
+                  "A cooking school",
+                  "A sale on flu medicine"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_n1_2",
+                "q": "What should people bring?",
+                "options": [
+                  "An appointment card",
+                  "Some food",
+                  "Money for the flu shot",
+                  "A photo ID"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_n1_3",
+                "q": "What will happen at eleven o'clock?",
+                "options": [
+                  "The event will start.",
+                  "The nurses will leave.",
+                  "A cooking class will begin.",
+                  "Children's games will start."
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk3",
+            "items": [
+              {
+                "id": "l2l_t1_1",
+                "q": "What does 'babbling' mean, according to the speaker?",
+                "options": [
+                  "Repeating simple sounds",
+                  "Saying a first real word",
+                  "Crying when hungry",
+                  "Listening to parents"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_t1_2",
+                "q": "What changes at about ten months?",
+                "options": [
+                  "Babies stop making sounds.",
+                  "Babies say many real words.",
+                  "Babbling starts to sound like the language at home.",
+                  "Babies begin to understand Spanish and Japanese."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_t1_3",
+                "q": "How can parents help, according to the speaker?",
+                "options": [
+                  "Teach their babies to read",
+                  "Play music for their babies",
+                  "Wait until their babies understand",
+                  "Talk to their babies often"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk4",
+            "items": [
+              {
+                "id": "l2l_t2_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "An area around a star where liquid water is possible",
+                  "How telescopes study a planet's air",
+                  "Why Earth is warmer than other planets",
+                  "How stars are born"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_t2_2",
+                "q": "What happens to water on a planet that is too far from its star?",
+                "options": [
+                  "It boils away.",
+                  "It turns into air.",
+                  "It freezes.",
+                  "It moves closer to the star."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_t2_3",
+                "q": "What does the speaker say about planets in the habitable zone?",
+                "options": [
+                  "They all have life.",
+                  "They could have liquid water.",
+                  "They are close to Earth.",
+                  "They have no air."
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "l2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2u_c1",
+                "audio": "l_c17",
+                "q": "Choose the best response.",
+                "options": [
+                  "My advisor wants more revisions.",
+                  "Yes, I'll propose it to them.",
+                  "My hand is fine now, thanks.",
+                  "It was handed out in class yesterday."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_c2",
+                "audio": "l_c18",
+                "q": "Choose the best response.",
+                "options": [
+                  "I passed it on the way here.",
+                  "It happens every weekend.",
+                  "Your best bet is to ask at the front desk.",
+                  "Yes, I've been a guest there a few times now."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_c3",
+                "audio": "l_c19",
+                "q": "Choose the best response.",
+                "options": [
+                  "I agreed with her on that point.",
+                  "So am I.",
+                  "The deadline was surprisingly early.",
+                  "I'll extend my stay too."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_c4",
+                "audio": "l_c20",
+                "q": "Choose the best response.",
+                "options": [
+                  "It made sense at the time.",
+                  "Midterms are worth thirty percent.",
+                  "The survey has twelve questions.",
+                  "Maybe, but people leave for break."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_c5",
+                "audio": "l_c21",
+                "q": "Choose the best response.",
+                "options": [
+                  "I'll pick you up next week.",
+                  "Tell me about it. I have three exams.",
+                  "The apartment wasn't worse than mine.",
+                  "No, I couldn't have."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_c6",
+                "audio": "l_c22",
+                "q": "Choose the best response.",
+                "options": [
+                  "Not as far as I know.",
+                  "I'd rather keep it private.",
+                  "The public is invited to the meeting.",
+                  "They decided it unanimously."
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv6",
+            "items": [
+              {
+                "id": "l2u_v1_1",
+                "q": "Why does the professor say that a single dip is not enough?",
+                "options": [
+                  "Planets rarely produce dips in brightness.",
+                  "The survey data are known to be unreliable.",
+                  "Something else could have caused it.",
+                  "The star is too faint for a dip to be measured."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_v1_2",
+                "q": "What does the professor imply about the student's project?",
+                "options": [
+                  "It should be moved to a different star.",
+                  "It must include last month's data to pass.",
+                  "It will be graded mainly on whether a planet is found.",
+                  "It can succeed even if the planet is not confirmed."
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv7",
+            "items": [
+              {
+                "id": "l2u_v2_1",
+                "q": "What did the man find?",
+                "options": [
+                  "Larger plates led people to make more trips to the line.",
+                  "Waste rose with the bigger plates.",
+                  "Breakfast produced more waste than dinner.",
+                  "The supplier's prediction about waste was correct."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_v2_2",
+                "q": "Why does the woman want another week of data?",
+                "options": [
+                  "To rule out a start-of-term effect",
+                  "To compare breakfast and dinner waste",
+                  "To give the supplier time to respond",
+                  "To check whether students like the new plates"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann4",
+            "items": [
+              {
+                "id": "l2u_n1_1",
+                "q": "What is the main purpose of the announcement?",
+                "options": [
+                  "To report the results of a study",
+                  "To invite parents to a talk on child development",
+                  "To advertise a children's book sale",
+                  "To recruit families for a research study"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_n1_2",
+                "q": "What will children do during a session?",
+                "options": [
+                  "Learn a list of new verbs",
+                  "Read a book with a researcher",
+                  "Watch videos while being eye-tracked",
+                  "Answer questions about short stories"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_n1_3",
+                "q": "What can be inferred about a family whose toddler hears two languages equally at home?",
+                "options": [
+                  "They could take part in a different study later.",
+                  "They will receive a larger gift card.",
+                  "They are the main focus of the current study.",
+                  "They must sign up through the department office."
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk5",
+            "items": [
+              {
+                "id": "l2u_t1_1",
+                "q": "According to the professor, what happens by about the first birthday?",
+                "options": [
+                  "Infants begin to hear contrasts from every language.",
+                  "Infants lose the ability to hear any new sounds.",
+                  "Infants hear foreign contrasts less well.",
+                  "Infants learn to pronounce r and l correctly."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_t1_2",
+                "q": "Why does the professor describe narrowing as tuning rather than decline?",
+                "options": [
+                  "Because the lost ability is easily regained later",
+                  "Because it helps infants ignore differences that do not change meaning",
+                  "Because adults hear more contrasts than infants do",
+                  "Because it happens far more slowly than researchers had originally expected"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_t1_3",
+                "q": "What does the research comparing live speakers and video recordings suggest?",
+                "options": [
+                  "Videos are as effective as live speakers.",
+                  "Infants prefer recorded speech to live speech.",
+                  "Infants cannot learn sounds from adults they do not know.",
+                  "Live interaction matters for keeping contrasts."
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk6",
+            "items": [
+              {
+                "id": "l2u_t2_1",
+                "q": "Why is shattering a problem for farmers?",
+                "options": [
+                  "The seeds drop before harvest.",
+                  "The plants grow too tall to cut.",
+                  "The seeds are too small to eat.",
+                  "The plants need too much water."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_t2_2",
+                "q": "What does the professor say about the archaeological evidence?",
+                "options": [
+                  "It confirms that domestication happened within thirty years.",
+                  "It shows that wild wheat was never harvested.",
+                  "It suggests domestication took far longer than experiments predicted.",
+                  "It shows that sickles were invented much later than historians once believed"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_t2_3",
+                "q": "What does the professor imply about early harvesting practices?",
+                "options": [
+                  "They quickly favored non-shattering plants.",
+                  "They may have slowed the spread of non-shattering wheat.",
+                  "They damaged most of the harvested seeds.",
+                  "They were similar to those used in modern experiments."
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "speaking": {
+    "repeat": {
+      "title": "Listen and Repeat",
+      "instructions": "Listen to each sentence once. After the beep, repeat it exactly as you heard it. No preparation time.",
+      "context": "You are training to be a volunteer guide at a city planetarium. Listen to your supervisor and repeat what she says. You hear each sentence one time.",
+      "maxSeconds": 14,
+      "items": [
+        {
+          "id": "sp_r1",
+          "audio": "sp_r1",
+          "text": "Welcome to the planetarium."
+        },
+        {
+          "id": "sp_r2",
+          "audio": "sp_r2",
+          "text": "The next show begins in ten minutes."
+        },
+        {
+          "id": "sp_r3",
+          "audio": "sp_r3",
+          "text": "Please turn off your phones before the lights go down."
+        },
+        {
+          "id": "sp_r4",
+          "audio": "sp_r4",
+          "text": "Our telescope on the roof is open to visitors on clear evenings."
+        },
+        {
+          "id": "sp_r5",
+          "audio": "sp_r5",
+          "text": "Children under eight must be accompanied by an adult at all times."
+        },
+        {
+          "id": "sp_r6",
+          "audio": "sp_r6",
+          "text": "If you'd like to learn more about the planets, pick up a free guide at the exit."
+        },
+        {
+          "id": "sp_r7",
+          "audio": "sp_r7",
+          "text": "The images you will see were taken by a telescope that has watched distant stars for years."
+        }
+      ]
+    },
+    "interview": {
+      "title": "Take an Interview",
+      "instructions": "An interviewer will ask you four questions. There is no preparation time. You have 45 seconds to answer each question.",
+      "context": "You are joining a research study about food and health. A researcher will interview you online for a few minutes.",
+      "maxSeconds": 45,
+      "items": [
+        {
+          "id": "sp_i1",
+          "audio": "sp_i1",
+          "text": "Thanks for joining me today. I'm studying how people make choices about food. To start, could you describe what you usually eat on a typical weekday?"
+        },
+        {
+          "id": "sp_i2",
+          "audio": "sp_i2",
+          "text": "Some people prefer to cook their own meals, while others would rather eat out or buy ready-made food. Which do you prefer, and why?"
+        },
+        {
+          "id": "sp_i3",
+          "audio": "sp_i3",
+          "text": "Many schools and workplaces now post nutrition information, like calorie counts, next to the food they serve. Do you think this information actually changes what people choose to eat? Why or why not?"
+        },
+        {
+          "id": "sp_i4",
+          "audio": "sp_i4",
+          "text": "Last question. Some governments have introduced special taxes on sugary drinks to improve public health. Others argue that people should be free to make their own food choices without government involvement. What's your view? Please explain."
+        }
+      ]
+    }
+  },
+  "writing": {
+    "build": {
+      "title": "Build a Sentence",
+      "instructions": "Arrange the words to build a correct sentence. One box may not be needed.",
+      "items": [
+        {
+          "id": "w_b1",
+          "context": "I'm thinking of joining the astronomy club.",
+          "chunks": [
+            "know",
+            "does",
+            "when",
+            "it",
+            "you",
+            "Do",
+            "meets"
+          ],
+          "answer": "Do you know when it meets",
+          "after": "?"
+        },
+        {
+          "id": "w_b2",
+          "context": "Did you finish the reading for linguistics?",
+          "before": "No, I",
+          "chunks": [
+            "time",
+            "start",
+            "haven't",
+            "it",
+            "had",
+            "to",
+            "having"
+          ],
+          "answer": "haven't had time to start it",
+          "after": "yet."
+        },
+        {
+          "id": "w_b3",
+          "context": "Why is the dining hall closed today?",
+          "before": "The kitchen",
+          "chunks": [
+            "inspected",
+            "the health department",
+            "been",
+            "is",
+            "by",
+            "being"
+          ],
+          "answer": "is being inspected by the health department",
+          "after": "this morning."
+        },
+        {
+          "id": "w_b4",
+          "context": "What did the professor ask you after class?",
+          "before": "She asked",
+          "chunks": [
+            "the article",
+            "I",
+            "had",
+            "whether",
+            "read",
+            "she",
+            "assigned"
+          ],
+          "answer": "whether I had read the article she assigned",
+          "after": "."
+        },
+        {
+          "id": "w_b5",
+          "context": "Is the new exoplanet similar to Earth?",
+          "before": "Nobody",
+          "chunks": [
+            "water",
+            "is",
+            "how",
+            "sure",
+            "it",
+            "contains",
+            "much",
+            "does"
+          ],
+          "answer": "is sure how much water it contains",
+          "after": "."
+        },
+        {
+          "id": "w_b6",
+          "context": "The flu clinic was so crowded this morning.",
+          "before": "I wish",
+          "chunks": [
+            "gone",
+            "the afternoon",
+            "I",
+            "went",
+            "in",
+            "had"
+          ],
+          "answer": "I had gone in the afternoon",
+          "after": "instead."
+        },
+        {
+          "id": "w_b7",
+          "context": "You can use your meal swipes at several campus cafes.",
+          "before": "Great.",
+          "chunks": [
+            "tell",
+            "ones",
+            "Could",
+            "accept",
+            "me",
+            "do",
+            "which",
+            "you",
+            "them"
+          ],
+          "answer": "Could you tell me which ones accept them",
+          "after": "?",
+          "alts": [
+            "Could you tell me which ones do accept them"
+          ]
+        },
+        {
+          "id": "w_b8",
+          "context": "How did the study on toddlers turn out?",
+          "before": "The results",
+          "chunks": [
+            "surprising",
+            "had",
+            "the researchers",
+            "were",
+            "most",
+            "than",
+            "more",
+            "expected"
+          ],
+          "answer": "were more surprising than the researchers had expected",
+          "after": "."
+        },
+        {
+          "id": "w_b9",
+          "context": "Why didn't Maya come to the review session?",
+          "before": "She told me",
+          "chunks": [
+            "asked",
+            "she",
+            "to work",
+            "had",
+            "late",
+            "been"
+          ],
+          "answer": "she had been asked to work late",
+          "after": "."
+        },
+        {
+          "id": "w_b10",
+          "context": "Are you going to apply for the research assistant position?",
+          "before": "I'm not sure",
+          "chunks": [
+            "meet",
+            "the requirements",
+            "I",
+            "do",
+            "whether",
+            "all"
+          ],
+          "answer": "whether I meet all the requirements",
+          "after": "."
+        }
+      ]
+    },
+    "email": {
+      "title": "Write an Email",
+      "to": "Ms. Alvarez, Director of Campus Dining",
+      "subject": "Dining hall hours",
+      "prompt": "You live in a residence hall and have a meal plan. This semester, the main dining hall changed its weekday closing time from 9:00 p.m. to 7:00 p.m. You have a chemistry lab that ends at 7:15 p.m. three evenings a week.\n\nWrite an email to Ms. Alvarez, the director of Campus Dining. In your email, do the following:\n- Explain your situation.\n- Describe how the new hours affect you.\n- Suggest a solution that would help students like you.\n\nUse full sentences, and write as much as you can.",
+      "rubric": "Task: email to a university administrator about a service problem. Must cover all 3 bullets: the situation (lab ends 7:15, dining closes 7:00), a concrete effect (missed dinners, paying twice, eating poorly), and a specific, realistic solution (late window, take-out box, later hours on lab days). Look for polite, formal-neutral register, greeting and sign-off, logical organization, accurate and varied grammar, precise word choice. Typical strong length 100-150 words."
+    },
+    "discussion": {
+      "title": "Write for an Academic Discussion",
+      "prompt": "Your professor is teaching a class on linguistics. Post a reply to the professor's question. In your reply, do these two things:\n- State your view and back it up.\n- Add something new to the thread, in your own words.\n\nAim for at least 100 words.",
+      "professor": {
+        "name": "Dr. Mensah",
+        "text": "Many countries now introduce a second language in the first year of primary school, at age six or even earlier. Supporters say young children learn languages more naturally. Others argue that the money would be better spent on teaching a second language intensively to older students, who learn grammar faster and can study more independently. If you were advising a school system, which approach would you recommend, and why?"
+      },
+      "students": [
+        {
+          "name": "Lena",
+          "text": "I'd start early. Young children aren't embarrassed to make mistakes, and they pick up pronunciation in a way teenagers rarely do. Even an hour a week builds familiarity, so the language never feels foreign later on."
+        },
+        {
+          "name": "Omar",
+          "text": "I'm not convinced. In my primary school, the language teacher visited once a week and we mostly sang songs. By the time we were twelve, we had to start again from the beginning. Intensive classes for older students would have been far more useful."
+        }
+      ],
+      "rubric": "Task: academic discussion post, 100+ words. Look for a clear position on early versus later language instruction, specific reasons or examples, engagement with Lena's or Omar's point (agreeing with extension, or rebutting, not repeating), coherence, and varied, accurate grammar and vocabulary."
+    }
+  }
+}

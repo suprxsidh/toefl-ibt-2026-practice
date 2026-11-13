@@ -1,0 +1,2199 @@
+{
+ "id": "test3",
+ "title": "Practice Test 3",
+ "timings": {
+  "reading": {
+   "router": 20,
+   "lower": 9,
+   "upper": 9
+  },
+  "listening": {
+   "router": 18,
+   "lower": 7,
+   "upper": 11
+  },
+  "writing": {
+   "build": 6,
+   "email": 7,
+   "discussion": 10
+  },
+  "speaking": 8
+ },
+ "audio": {
+  "l1_c1": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "Did you hear the shuttle schedule is changing again?"
+    }
+   ]
+  },
+  "l1_c2": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "I can't believe how long that line is."
+    }
+   ]
+  },
+  "l1_c3": {
+   "lines": [
+    {
+     "v": "Kore",
+     "t": "Would you mind showing me how to log into the course portal?"
+    }
+   ]
+  },
+  "l1_c4": {
+   "lines": [
+    {
+     "v": "Puck",
+     "t": "The seminar was supposed to start at two, wasn't it?"
+    }
+   ]
+  },
+  "l1_c5": {
+   "lines": [
+    {
+     "v": "Leda",
+     "t": "I thought you'd already submitted your application."
+    }
+   ]
+  },
+  "l1_c6": {
+   "lines": [
+    {
+     "v": "Orus",
+     "t": "Could you point me toward the chemistry department?"
+    }
+   ]
+  },
+  "l1_c7": {
+   "lines": [
+    {
+     "v": "Zephyr",
+     "t": "How come you didn't come to the study session?"
+    }
+   ]
+  },
+  "l1_c8": {
+   "lines": [
+    {
+     "v": "Charon",
+     "t": "If the weather's bad tomorrow, the picnic is moving indoors."
+    }
+   ]
+  },
+  "l1_c9": {
+   "lines": [
+    {
+     "v": "Kore",
+     "t": "You've been working on that poster for hours."
+    }
+   ]
+  },
+  "l1_c10": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "Do you want to split a taxi, or are you taking the train?"
+    }
+   ]
+  },
+  "l1_conv1": {
+   "lines": [
+    {
+     "v": "Kore",
+     "t": "Hey, do you have a second? I wanted to bring something up, and I don't want it to be awkward."
+    },
+    {
+     "v": "Puck",
+     "t": "Sure. What's going on?"
+    },
+    {
+     "v": "Kore",
+     "t": "It's about the late-night practice sessions. I know the band has a concert in two weeks, but I have my organic chemistry exam on Thursday, and I've barely been sleeping."
+    },
+    {
+     "v": "Puck",
+     "t": "Oh, I had no idea it was bothering you that much. I assumed you didn't mind, since you never said anything."
+    },
+    {
+     "v": "Kore",
+     "t": "I didn't want to be the one to complain. But it's getting to be too much."
+    },
+    {
+     "v": "Puck",
+     "t": "I get it. What if I practice in the music building until ten, and after that I switch to headphones for the keyboard?"
+    },
+    {
+     "v": "Kore",
+     "t": "That would be a huge help, honestly. Thanks for being so understanding."
+    }
+   ]
+  },
+  "l1_conv2": {
+   "lines": [
+    {
+     "v": "Zephyr",
+     "t": "Dr. Okafor, I'm thinking of dropping my economics course. I'm barely keeping up with the readings."
+    },
+    {
+     "v": "Charon",
+     "t": "I see. Before you decide, have you spoken with the instructor? Sometimes a short conversation can change things."
+    },
+    {
+     "v": "Zephyr",
+     "t": "Not yet. I figured he'd just tell me to work harder."
+    },
+    {
+     "v": "Charon",
+     "t": "He might, but he might also point you toward the tutoring center, or tell you which parts of the course matter most for the exams. Also, keep in mind that the deadline to drop without a penalty is Friday. After that, a withdrawal goes on your transcript."
+    },
+    {
+     "v": "Zephyr",
+     "t": "So I have until Friday to decide."
+    },
+    {
+     "v": "Charon",
+     "t": "Exactly. And if you do drop it, we should look at what that does to your credits. You need twelve to stay full-time and keep your scholarship, and you're currently at fifteen."
+    },
+    {
+     "v": "Zephyr",
+     "t": "So I could drop it and still be fine."
+    },
+    {
+     "v": "Charon",
+     "t": "Yes, but I'd talk to the professor first."
+    }
+   ]
+  },
+  "l1_conv3": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "Hey, Dan, I'm in a bit of a bind. Could you cover my Saturday shift at the café? My cousin's wedding got moved up."
+    },
+    {
+     "v": "Orus",
+     "t": "Saturday... I'd love to help, but I'm supposed to be at my sister's recital in the afternoon."
+    },
+    {
+     "v": "Aoede",
+     "t": "It's just the morning shift, seven to eleven."
+    },
+    {
+     "v": "Orus",
+     "t": "Oh, that's different. The recital's not until two. But isn't Mia on Saturdays?"
+    },
+    {
+     "v": "Aoede",
+     "t": "She offered to swap with me, but then she realized she'd go over her weekly hours."
+    },
+    {
+     "v": "Orus",
+     "t": "All right, then. I'll do it. But you owe me one, and I'm collecting when midterms start."
+    },
+    {
+     "v": "Aoede",
+     "t": "Deal. I'll ask Mr. Reyes to put it on the schedule so it's official."
+    }
+   ]
+  },
+  "l1_ann1": {
+   "lines": [
+    {
+     "v": "Charon",
+     "t": "Attention, students planning to register for spring courses. Registration opens next Monday at 8 a.m., with seniors going first, followed by juniors on Tuesday and sophomores on Wednesday. First-year students can register starting Thursday. If you have a hold on your account, such as unpaid fees or missing immunization records, you won't be able to register until it's cleared, and the offices that handle holds close at four. So please check your account status now rather than waiting until your registration day. Advisors will be available all week in the Student Services Building."
+    }
+   ]
+  },
+  "l1_ann2": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "Riders on the Blue Line, please note: starting next week, the Blue Line will no longer stop at Hartley Street because of road construction. Buses will instead stop one block east, at Dunmore Avenue. This will add about three minutes to the trip in each direction. Passengers who use wheelchairs should know that Dunmore Avenue has a temporary ramp, but the sidewalk is narrow, so assistance is available on request from the driver. The transit authority expects the construction to finish by the end of October, at which point the Hartley Street stop will return to service."
+    }
+   ]
+  },
+  "l1_talk1": {
+   "lines": [
+    {
+     "v": "Puck",
+     "t": "Let's talk about a phenomenon that anyone who has ever worked on a group project will recognize: social loafing. This is the tendency for people to put in less effort when they work as part of a group than when they work alone. The classic demonstration comes from a rope-pulling experiment in the late nineteenth century. An engineer noticed that when people pulled on a rope together, the total force was less than the sum of what each person could pull individually. Later researchers refined this with a clever design. They asked people to shout as loudly as they could, either alone or in a group, and they made people believe that their individual volume would not be measured. Group members consistently produced less noise than they did alone. Why? The main explanation is diffusion of responsibility. When the output is pooled, no one person's contribution can be identified, so each person feels less accountable. Now, this isn't inevitable. Researchers have found that social loafing shrinks when individual contributions are made visible, for example when each member's part of a project is graded separately. It also shrinks when the task is personally meaningful, or when the group is small and members know and respect each other. Interestingly, the effect also varies across cultures. In some cultures that emphasize collective goals, groups sometimes work harder than individuals, which is the opposite of what the original studies found. So the takeaway is not that groups are inherently lazy, but that group settings change the incentives people feel."
+    }
+   ]
+  },
+  "l1_talk2": {
+   "lines": [
+    {
+     "v": "Leda",
+     "t": "Cities are almost always warmer than the surrounding countryside, sometimes by several degrees, and this is called the urban heat island effect. There are a few contributing factors. First, there are the materials. Asphalt, concrete, and dark roofing absorb a large share of incoming sunlight and release it slowly after sunset, which is why a city can stay warm at night when the countryside has already cooled. Second, there's a lack of vegetation. Plants cool their surroundings by releasing water vapor, a process called transpiration, and by providing shade. In a downtown dominated by pavement, that cooling is largely absent. Third, the geometry of tall buildings traps heat. Streets lined with towers, what we call urban canyons, reduce the amount of heat that radiates back to the sky, and they slow the wind that might otherwise carry warm air away. Finally, there's waste heat from air conditioners, vehicles, and industry. Now, why should we care? Higher temperatures raise energy demand because of air conditioning, which in turn creates more waste heat, a kind of feedback loop. They also worsen air pollution and increase heat-related illness, especially among older residents. Some cities are responding with so-called cool roofs, which are painted white or covered with reflective coatings, and with green roofs planted with vegetation. Early studies suggest that cool roofs reduce indoor temperatures noticeably, though their effect on temperatures at street level is more modest. Green roofs help in both ways but cost considerably more to install."
+    }
+   ]
+  },
+  "l2l_c1": {
+   "lines": [
+    {
+     "v": "Orus",
+     "t": "What time does the library open?"
+    }
+   ]
+  },
+  "l2l_c2": {
+   "lines": [
+    {
+     "v": "Kore",
+     "t": "Can you help me carry these boxes?"
+    }
+   ]
+  },
+  "l2l_c3": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "I'm not feeling well today."
+    }
+   ]
+  },
+  "l2l_c4": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "Where did you buy that backpack?"
+    }
+   ]
+  },
+  "l2l_c5": {
+   "lines": [
+    {
+     "v": "Puck",
+     "t": "Would you like some tea or coffee?"
+    }
+   ]
+  },
+  "l2l_c6": {
+   "lines": [
+    {
+     "v": "Leda",
+     "t": "Isn't the museum closed on Mondays?"
+    }
+   ]
+  },
+  "l2l_conv1": {
+   "lines": [
+    {
+     "v": "Puck",
+     "t": "Excuse me, I'd like to borrow this laptop for the weekend."
+    },
+    {
+     "v": "Leda",
+     "t": "Sure. Do you have your student card?"
+    },
+    {
+     "v": "Puck",
+     "t": "I left it in my room. Can I show you the picture on my phone?"
+    },
+    {
+     "v": "Leda",
+     "t": "I'm sorry, I need the actual card. But the dorm is close. You can go and come back before we close at six."
+    },
+    {
+     "v": "Puck",
+     "t": "Oh, it's only five. I'll hurry."
+    }
+   ]
+  },
+  "l2l_conv2": {
+   "lines": [
+    {
+     "v": "Zephyr",
+     "t": "Have you decided what to do for Lisa's birthday?"
+    },
+    {
+     "v": "Charon",
+     "t": "I was thinking about a small dinner at my apartment. She doesn't like big parties."
+    },
+    {
+     "v": "Zephyr",
+     "t": "That's true. I can bake the cake if you cook the pasta."
+    },
+    {
+     "v": "Charon",
+     "t": "Great. Should we do it on Friday? Most of her friends work on Saturday."
+    },
+    {
+     "v": "Zephyr",
+     "t": "Friday is good. I'll invite everyone tonight."
+    }
+   ]
+  },
+  "l2l_ann1": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "Good morning, students. This is a reminder that Sports Day will be held this Friday on the main field. Classes will end at noon, and the events will start at one o'clock. Please wear comfortable shoes and bring a water bottle, because it is going to be hot. If it rains, Sports Day will move to next Wednesday. Parents are welcome to watch, but they must sign in at the front office first. Prizes will be given after the last race at four o'clock."
+    }
+   ]
+  },
+  "l2l_talk1": {
+   "lines": [
+    {
+     "v": "Kore",
+     "t": "Today I'd like to talk about how honey bees make honey. First, worker bees leave the hive and fly to flowers. They drink a sweet liquid called nectar and store it in a special stomach. When they return, they pass the nectar to other bees inside the hive. These bees chew the nectar for a while, and this changes it chemically. Then they place it in the small wax cells of the honeycomb. At this point, the nectar is still too wet. So the bees fan their wings to blow warm air over it, and the extra water slowly leaves. When the honey is thick enough, the bees cover the cell with a thin layer of wax. A hive can store enough honey to feed all the bees through the winter, when there are no flowers."
+    }
+   ]
+  },
+  "l2l_talk2": {
+   "lines": [
+    {
+     "v": "Orus",
+     "t": "Long before clocks existed, people used the sun to tell the time. The simplest tool was the sundial. A sundial has a flat plate with numbers and a thin stick, called a gnomon, in the middle. When the sun shines, the stick makes a shadow on the plate. As the sun moves across the sky during the day, the shadow moves, too, and the number it touches shows the hour. Sundials were used in many ancient places, including Egypt, Greece, and China. But they had a problem. They did not work at night or on cloudy days. So later people invented water clocks, which measured time by the amount of water that dripped out of a container. Water clocks worked in any weather, but they were harder to build."
+    }
+   ]
+  },
+  "l2u_c1": {
+   "lines": [
+    {
+     "v": "Charon",
+     "t": "I'd have thought the deadline was Friday, not Monday."
+    }
+   ]
+  },
+  "l2u_c2": {
+   "lines": [
+    {
+     "v": "Zephyr",
+     "t": "You're not seriously thinking of quitting the orchestra, are you?"
+    }
+   ]
+  },
+  "l2u_c3": {
+   "lines": [
+    {
+     "v": "Puck",
+     "t": "Whoever planned this schedule clearly never tried to get between buildings in ten minutes."
+    }
+   ]
+  },
+  "l2u_c4": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "I'll lend you my notes if you promise not to share them."
+    }
+   ]
+  },
+  "l2u_c5": {
+   "lines": [
+    {
+     "v": "Orus",
+     "t": "Do you happen to know whether the bookstore takes back opened textbooks?"
+    }
+   ]
+  },
+  "l2u_c6": {
+   "lines": [
+    {
+     "v": "Kore",
+     "t": "Wasn't it your idea to meet at the library in the first place?"
+    }
+   ]
+  },
+  "l2u_conv1": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "Did you get a chance to look at the spreadsheet Priya sent around?"
+    },
+    {
+     "v": "Zephyr",
+     "t": "I did. Honestly, the readings from the second trial don't look right to me. Almost every value is higher than in the first trial, and by nearly the same amount."
+    },
+    {
+     "v": "Fenrir",
+     "t": "I noticed that too. I figured she just recalibrated the sensor between runs."
+    },
+    {
+     "v": "Zephyr",
+     "t": "Maybe. But if she had, wouldn't she have mentioned it in her notes? They only say, 'trial two completed, no problems.'"
+    },
+    {
+     "v": "Fenrir",
+     "t": "True. So should we email her, or just rerun the trial ourselves? The lab's free on Thursday."
+    },
+    {
+     "v": "Zephyr",
+     "t": "Rerunning takes a whole afternoon, and we don't actually know there's an error. Let's ask her first. If it turns out she recalibrated, we've saved ourselves four hours."
+    },
+    {
+     "v": "Fenrir",
+     "t": "And if she says she didn't touch it?"
+    },
+    {
+     "v": "Zephyr",
+     "t": "Then we book the lab for Thursday, and I'll bring the backup sensor."
+    }
+   ]
+  },
+  "l2u_conv2": {
+   "lines": [
+    {
+     "v": "Kore",
+     "t": "Professor Haines, do you have a minute? It’s about the policy paper."
+    },
+    {
+     "v": "Orus",
+     "t": "Of course. Come in. Is something wrong with the topic?"
+    },
+    {
+     "v": "Kore",
+     "t": "Not exactly. The topic's fine. It's that the city council released its revised budget yesterday, and a lot of what I'd written about the transit proposal is now out of date."
+    },
+    {
+     "v": "Orus",
+     "t": "Ah. Well, that's a nuisance, but it's also the kind of thing policy analysts deal with all the time."
+    },
+    {
+     "v": "Kore",
+     "t": "I know, and I don't want to ask for more time just because I'm behind. I'm mostly done with the other sections. I just think the argument would be stronger if I could rework the analysis around the new figures."
+    },
+    {
+     "v": "Orus",
+     "t": "Hmm. How long are you thinking?"
+    },
+    {
+     "v": "Kore",
+     "t": "Maybe three extra days?"
+    },
+    {
+     "v": "Orus",
+     "t": "I could do two. And if you submit the revised analysis as a separate appendix, I'll compare it with your original argument. That way it's no more work for you, and I get to see how your reasoning holds up when the facts change."
+    },
+    {
+     "v": "Kore",
+     "t": "That actually sounds more interesting than just fixing the numbers."
+    }
+   ]
+  },
+  "l2u_ann1": {
+   "lines": [
+    {
+     "v": "Puck",
+     "t": "Good morning, everyone. A few updates from the library before the semester gets busy. First, the third-floor reading room, which has been closed for renovation since March, will reopen on Monday as the Research Commons. Despite what some of you may have heard, it will not be a quiet space. The idea is that groups can talk freely there, so silent study will remain on the fourth floor, where we've added forty extra desks. Second, because the renovation ran over budget, the planned extension of weekend hours has been postponed until next term, so the library will keep its current Saturday closing time of five. Finally, librarians will run drop-in sessions in the Commons on Wednesdays, covering citation software and database searching. You don't need to register. Just turn up."
+    }
+   ]
+  },
+  "l2u_talk1": {
+   "lines": [
+    {
+     "v": "Orus",
+     "t": "Today I want to talk about a rather humble organism, lichen, and why environmental scientists pay such close attention to it. A lichen isn't a single organism but a partnership between a fungus and an alga. The fungus provides structure and protection, while the alga produces food through photosynthesis. Now, here's what makes lichens useful. Unlike plants, they have no roots and no protective outer layer, so they absorb water and nutrients, and unfortunately pollutants, directly from the air over their entire surface. Sulfur dioxide, for instance, damages the alga, and the lichen dies. So if you went to an industrial city in nineteenth-century Britain, you'd find that the lichens near the factories had vanished, while those in the countryside were thriving. Researchers eventually turned that observation into a scale. Species that tolerate pollution, the crusty ones that hug tree bark, indicate heavily polluted air. Leafy species indicate moderate pollution, and bushy, hanging species survive only where the air is quite clean. Now, you might ask, why not just use an instrument? Well, instruments tell you what's in the air at the moment of measurement. Lichens, by contrast, record exposure over years. That said, they're not perfect. Lichens respond to many things, including humidity and the age of the tree, so a missing species doesn't automatically point to pollution. Scientists therefore use lichens as a first screening, and they follow up with chemical monitoring where the signs suggest trouble."
+    }
+   ]
+  },
+  "l2u_talk2": {
+   "lines": [
+    {
+     "v": "Leda",
+     "t": "Let's start with a question that sounds almost childish: why is the sky dark at night? If the universe were infinite and filled evenly with stars, then in whichever direction you looked, your line of sight would eventually land on the surface of a star. The whole sky should blaze as brightly as the surface of the Sun. This puzzle is known as Olbers' paradox, after the nineteenth-century astronomer who popularized it, though it had been noticed earlier. For a long time, people proposed that dust between the stars absorbed the light. That doesn't work, I'm afraid. The dust would heat up and glow, so the energy would simply be re-emitted. The real solution came with the discovery that the universe isn't eternal. It has a finite age, roughly fourteen billion years. Light travels at a finite speed, so we can only see stars whose light has had time to reach us. Beyond that distance, there simply hasn't been time. That's the main reason. A second, smaller effect is that the universe is expanding, which stretches the light from distant galaxies to longer wavelengths and shifts some of it out of the visible range. Notice, by the way, that the darkness of the night sky was one of the earliest clues that the universe has a beginning. Next time, we'll look at how astronomers estimated that age."
+    }
+   ]
+  },
+  "sp_i1": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "Thanks for taking part. To begin, can you tell me about a job, internship, or volunteer role you've had, and what you did there?"
+    }
+   ]
+  },
+  "sp_i2": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "Some people learn best at work by watching experienced colleagues, while others prefer to learn by trying things on their own. Which way works better for you, and why?"
+    }
+   ]
+  },
+  "sp_i3": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "Many companies offer internships that are unpaid. Some people say this is fair because interns gain valuable experience. Others say it is unfair to students who cannot afford to work for free. What is your view?"
+    }
+   ]
+  },
+  "sp_i4": {
+   "lines": [
+    {
+     "v": "Aoede",
+     "t": "Final question. Some universities are considering making an internship a requirement for graduation in every major, including subjects like history and philosophy. Do you think this is a good idea? Why or why not?"
+    }
+   ]
+  },
+  "sp_r1": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "The greenhouse is open every day except Monday."
+    }
+   ]
+  },
+  "sp_r2": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "Please keep to the marked paths and do not touch the plants."
+    }
+   ]
+  },
+  "sp_r3": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "Tropical species are kept on the left, where the air is warmer."
+    }
+   ]
+  },
+  "sp_r4": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "Guided tours for school groups need to be booked at least a week in advance."
+    }
+   ]
+  },
+  "sp_r5": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "Because some of the plants are extremely delicate, visitors are asked to keep their bags close to their bodies."
+    }
+   ]
+  },
+  "sp_r6": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "If you would like to learn about the rare orchids, our volunteers will be glad to answer any questions you might have."
+    }
+   ]
+  },
+  "sp_r7": {
+   "lines": [
+    {
+     "v": "Fenrir",
+     "t": "The newest exhibit, which was funded by a local foundation, shows how climate change has been affecting the flowering seasons of native species."
+    }
+   ]
+  }
+ },
+ "reading": {
+  "stage1": {
+   "id": "r1",
+   "cefr": "A2-C1",
+   "tasks": [
+    {
+     "type": "ctw",
+     "title": "Complete the Words",
+     "text": "Ocean tides are the regular rise and fall of sea level along the coast. They are {caused} mainly by the {gravitational} pull of the Moon, which {draws} the water on the {nearest} side of Earth toward it. Most coasts {experience} two high tides and two low tides {each} day, but the {exact} timing {depends} on the shape of the shoreline and the {depth} of the nearby water. In some narrow bays, the water level can {change} by more than ten meters. Sailors and fishermen have long studied these patterns to plan their work safely."
+    },
+    {
+     "type": "ctw",
+     "title": "Complete the Words",
+     "text": "Before the invention of the printing press, every book in Europe was copied by hand, usually by monks working in quiet rooms called scriptoria. A single {volume} could {take} many months to finish, so books were {extremely} expensive and {owned} mostly by churches, universities, and wealthy {families}. When {movable} type {arrived} in the fifteenth century, a printer could {produce} hundreds of {identical} copies in the time a scribe {needed} for one. Prices fell sharply, and literacy spread beyond the elite. Within decades, new ideas traveled across the continent faster than ever before."
+    },
+    {
+     "type": "daily",
+     "title": "Read in Daily Life",
+     "text": "RIVERSIDE COMMUNITY POOL: Schedule notice\n\nBeginning Monday 3 June, the pool will switch to its summer hours. Lap swimming will take place from 6:00 to 8:00 a.m. on weekdays, followed by open swim until 4:00 p.m. Family swim is now held on Saturdays from 1:00 to 5:00 p.m. only; Sunday sessions have been discontinued because of low attendance. Swim lessons for children ages 5 to 12 continue on Tuesdays and Thursdays at 5:30 p.m., but registration is required at the front desk at least two days in advance. Lockers must be emptied nightly, and items left overnight will be moved to the lost-and-found box.",
+     "items": [
+      {
+       "id": "r1_d1_1",
+       "q": "A parent wants to bring two children, ages 6 and 9, to a lesson on Thursday. What must the parent do?",
+       "options": [
+        "Sign the children up by Tuesday",
+        "Register at the desk on Thursday afternoon",
+        "Come to the Saturday family session first",
+        "Bring a padlock for the lockers"
+       ],
+       "answer": 0
+      },
+      {
+       "id": "r1_d1_2",
+       "q": "What can be inferred about the Sunday family swim?",
+       "options": [
+        "It has moved to a different building.",
+        "Too few people were using it.",
+        "It will return when summer ends.",
+        "It was replaced by lap swimming."
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "daily",
+     "title": "Read in Daily Life",
+     "text": "Subject: Revised arrangements for Friday's field trip\n\nDear students,\n\nBecause of forecasts of heavy rain, the visit to the Marlow Wetlands Reserve will be postponed from this Friday to the following Friday, 14 October. The bus will still leave from the south entrance of the Science Building at 8:15 a.m. and return by 3:00 p.m. Please wear waterproof footwear, as parts of the boardwalk are likely to be wet even without rain. Students who cannot attend on the new date should write to me by Wednesday; they will complete a short written assignment on the reserve's water-management plan instead. Note that the quiz originally scheduled for this Friday will take place as planned. Lunch is not provided, so bring your own.\n\nProf. Dalton",
+     "items": [
+      {
+       "id": "r1_d2_1",
+       "q": "What is the main purpose of the email?",
+       "options": [
+        "To cancel the trip for the rest of the term",
+        "To explain how to prepare for a quiz",
+        "To ask the reserve for waterproof equipment",
+        "To announce a change to a planned trip"
+       ],
+       "answer": 3
+      },
+      {
+       "id": "r1_d2_2",
+       "q": "What must students who miss the trip do?",
+       "options": [
+        "Take the quiz on a different day",
+        "Visit the reserve on their own at some later date this term",
+        "Write a short paper on a topic linked to the reserve",
+        "Meet the professor on Wednesday"
+       ],
+       "answer": 2
+      },
+      {
+       "id": "r1_d2_3",
+       "q": "What is indicated about this Friday?",
+       "options": [
+        "The bus will leave at 3:00 p.m.",
+        "Lunch will be provided at the reserve.",
+        "A quiz will still be given.",
+        "The boardwalk will be closed to visitors."
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "type": "academic",
+     "title": "Read an Academic Passage",
+     "text": "The Puzzle of Yawning\n\nAlmost every vertebrate yawns, yet scientists still disagree about why. A popular explanation holds that yawning draws in extra oxygen, but experiments have undermined it: volunteers breathing air enriched with oxygen yawned just as often as those breathing normal air. A more recent proposal is that yawning helps cool the brain. Inhaling deeply sends cooler air past the blood vessels of the skull, and studies suggest that people yawn more in moderate temperatures than in very hot or very cold weather.\n\nYawning is also notably contagious. Seeing, hearing, or even reading about a yawn can trigger one, and the effect appears stronger among close friends and relatives than among strangers. This pattern has led some researchers to suggest that contagious yawning is linked to empathy, although the evidence is mixed: children under four rarely catch yawns, and some studies have found no difference between people with high and low empathy scores. For now, the simplest conclusion is that yawning probably serves more than one purpose.",
+     "items": [
+      {
+       "id": "r1_a1_1",
+       "q": "The word 'undermined' in paragraph 1 is closest in meaning to",
+       "options": [
+        "confirmed the truth of",
+        "provided a cause for",
+        "repeated the results of",
+        "weakened the case for"
+       ],
+       "answer": 3
+      },
+      {
+       "id": "r1_a1_2",
+       "q": "What did the experiment with oxygen-enriched air show?",
+       "options": [
+        "Volunteers breathing normal air yawned more often.",
+        "Extra oxygen did not reduce how often people yawned.",
+        "Extra oxygen made the volunteers feel less tired.",
+        "Cooler air led to a noticeable increase in the number of yawns."
+       ],
+       "answer": 1
+      },
+      {
+       "id": "r1_a1_3",
+       "q": "Why does the author mention that children under four rarely catch yawns?",
+       "options": [
+        "To give a reason for doubting a proposed explanation",
+        "To show that yawning is learned from parents",
+        "To explain why strangers rarely yawn together",
+        "To suggest that young children yawn less often than adults do"
+       ],
+       "answer": 0
+      },
+      {
+       "id": "r1_a1_4",
+       "q": "What does the passage suggest about the brain-cooling proposal?",
+       "options": [
+        "It has been disproved by experiments on oxygen.",
+        "It is supported by the studies of empathy and contagious yawning.",
+        "It explains why yawns spread between people.",
+        "It predicts fewer yawns in very hot or very cold weather."
+       ],
+       "answer": 3
+      },
+      {
+       "id": "r1_a1_5",
+       "q": "According to paragraph 2, who is most likely to catch a yawn from a person?",
+       "options": [
+        "Someone who has just watched a long film",
+        "Someone who knows that person well",
+        "A child between the ages of four and ten",
+        "A person who has high empathy scores"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  "stage2": {
+   "lower": {
+    "id": "r2l",
+    "cefr": "A1-B1",
+    "tasks": [
+     {
+      "type": "ctw",
+      "title": "Complete the Words",
+      "text": "Many people enjoy growing vegetables in small gardens at home. A garden does not {need} to be {large}, and {even} a few pots on a balcony can {produce} fresh food. Most vegetables {need} sunlight, water, and {good} soil to {grow} well. Some plants, like tomatoes, need {warm} weather, while {others}, like lettuce, {prefer} cooler days. Gardeners often learn by trying different plants each year. Growing your own food can save money and teach you where your meals come from."
+     },
+     {
+      "type": "daily",
+      "title": "Read in Daily Life",
+      "text": "GREENFIELD LIBRARY: New opening hours\n\nStarting 1 September, the library will open at 9:00 a.m. on weekdays and close at 8:00 p.m. On Saturdays, it will be open from 10:00 a.m. to 4:00 p.m. The library will be closed on Sundays. The children's section has moved to the second floor, next to the study rooms. You can still return books at the front desk or in the box outside the main door.",
+      "items": [
+       {
+        "id": "r2l_d1_1",
+        "q": "Where can a visitor find books for children after 1 September?",
+        "options": [
+         "Next to the front desk",
+         "Upstairs, beside the study rooms",
+         "In the box outside the main door",
+         "On the ground floor, near the entrance"
+        ],
+        "answer": 1
+       },
+       {
+        "id": "r2l_d1_2",
+        "q": "What is true about returning books?",
+        "options": [
+         "They can only be returned on Saturdays.",
+         "They must be taken to the second floor.",
+         "They cannot be returned at all on weekdays, only on Saturdays.",
+         "They can be left at the desk or outside the main entrance."
+        ],
+        "answer": 3
+       }
+      ]
+     },
+     {
+      "type": "daily",
+      "title": "Read in Daily Life",
+      "text": "Hi Tom,\n\nI'm sorry, but I can't come to the movie on Saturday. My sister is moving to a new apartment, and I promised to help her carry boxes in the morning. We will probably finish by two, so I could meet you after that. Do you want to go to the later show at 7:30 instead? I checked online, and there are still plenty of seats. If that doesn't work, we could see the film next week. Let me know by tomorrow, and I'll buy the tickets.\n\nBest,\nAnna",
+      "items": [
+       {
+        "id": "r2l_d2_1",
+        "q": "Why can't Anna go to the movie on Saturday?",
+        "options": [
+         "She has promised to help a family member.",
+         "She has to work all morning at her new job.",
+         "She could not buy a ticket.",
+         "Her sister is coming to visit her."
+        ],
+        "answer": 0
+       },
+       {
+        "id": "r2l_d2_2",
+        "q": "What does Anna suggest?",
+        "options": [
+         "Going to the movie without Tom",
+         "Meeting at her sister’s new apartment",
+         "Seeing a later show on the same day",
+         "Buying tickets for next month"
+        ],
+        "answer": 2
+       },
+       {
+        "id": "r2l_d2_3",
+        "q": "What will Anna do after Tom answers?",
+        "options": [
+         "Buy the movie tickets",
+         "Help him carry some boxes",
+         "Check the film online again",
+         "Call her sister at two o’clock"
+        ],
+        "answer": 0
+       }
+      ]
+     },
+     {
+      "type": "academic",
+      "title": "Read an Academic Passage",
+      "text": "The Bicycle\n\nThe first bicycle looked very different from the ones we ride today. In 1817, a German inventor built a wooden machine with two wheels but no pedals. Riders sat on it and pushed their feet against the ground to move forward. It was fun, but it was slow and tiring, and it was not popular for long.\n\nLater, in the 1860s, French builders added pedals to the front wheel. These bicycles were heavy and uncomfortable, and people called them \"boneshakers\" because the roads were rough. In the 1880s, the \"safety bicycle\" appeared. It had two wheels of equal size and a chain that turned the back wheel. This design was easier and safer to ride, and it soon became popular around the world. Today, the basic shape of the bicycle has changed very little.",
+      "items": [
+       {
+        "id": "r2l_a1_1",
+        "q": "What is the passage mainly about?",
+        "options": [
+         "Why many roads were so rough in the past",
+         "How to ride a bicycle safely",
+         "Who invented the chain",
+         "How the bicycle changed over time"
+        ],
+        "answer": 3
+       },
+       {
+        "id": "r2l_a1_2",
+        "q": "The word 'tiring' in paragraph 1 is closest in meaning to",
+        "options": [
+         "moving much too quickly for most people",
+         "making a person very weary",
+         "costing a lot of money",
+         "difficult to build"
+        ],
+        "answer": 1
+       },
+       {
+        "id": "r2l_a1_3",
+        "q": "What was a problem with the bicycles that French builders made?",
+        "options": [
+         "They had no pedals.",
+         "They were too small for adults to ride comfortably.",
+         "They were heavy and uncomfortable to ride.",
+         "They were not made of wood."
+        ],
+        "answer": 2
+       },
+       {
+        "id": "r2l_a1_4",
+        "q": "What made the safety bicycle different from earlier bicycles?",
+        "options": [
+         "It had a very large front wheel with pedals fixed to the axle.",
+         "It was built from lighter wood.",
+         "Riders pushed it with their feet.",
+         "The wheels were equal in size, and a chain drove the back one."
+        ],
+        "answer": 3
+       },
+       {
+        "id": "r2l_a1_5",
+        "q": "What does the passage suggest about the wooden machine from 1817?",
+        "options": [
+         "It did not stay popular for long.",
+         "It was faster than later bicycles.",
+         "It was built by French inventors.",
+         "It is still used in some countries."
+        ],
+        "answer": 0
+       }
+      ]
+     }
+    ]
+   },
+   "upper": {
+    "id": "r2u",
+    "cefr": "B2-C2",
+    "tasks": [
+     {
+      "type": "ctw",
+      "title": "Complete the Words",
+      "text": "Long before instruments could record temperature, trees were quietly keeping their own archive. Each year a tree adds a ring whose {width} reflects the growing {conditions} of that season: narrow rings generally {indicate} drought or cold, while broad ones {suggest} abundant {moisture}. Researchers {examine} patterns across many {specimens}, matching {overlapping} sequences until they {construct} a chronology that {extends} back thousands of years. Such records are not flawless, since a tree can respond to causes other than climate, yet their precision remains remarkable."
+     },
+     {
+      "type": "daily",
+      "title": "Read in Daily Life",
+      "text": "Subject: Changes to the winter break housing arrangement\n\nDear residents,\n\nResidence halls will close at noon on 19 December and reopen on 5 January. Students who must remain on campus over the break may apply for the limited-occupancy option, which requires a $120 fee and relocation to Harlow Hall, the only building where the heating stays on. Applications received after 1 December will be considered only if space remains. Students who fail to vacate their rooms by the closing time without an approved application will be charged a daily penalty of $40, and their keycards will be deactivated until the charge is paid. Dining services will run on a reduced schedule: the Central Dining Hall will be closed, but the Garrison Café will serve lunch on weekdays.\n\nResidential Life Office",
+      "items": [
+       {
+        "id": "r2u_d1_1",
+        "q": "What is implied about a student who applies for limited occupancy on 10 December?",
+        "options": [
+         "The student will pay the $40 daily penalty from that day.",
+         "The student may stay in the current residence hall.",
+         "The request will be reviewed only if beds are still available.",
+         "The student will be asked to take meals at the Central Dining Hall."
+        ],
+        "answer": 2
+       },
+       {
+        "id": "r2u_d1_2",
+        "q": "Why does the email say that Harlow Hall has heating that stays on?",
+        "options": [
+         "It gives a reason for moving students who stay into one building.",
+         "It explains why the occupancy fee is set at $120 instead of a lower amount.",
+         "It warns that other halls are unsafe in winter.",
+         "It encourages students to apply before 1 December."
+        ],
+        "answer": 0
+       }
+      ]
+     },
+     {
+      "type": "daily",
+      "title": "Read in Daily Life",
+      "text": "★★★☆☆  Good hardware, frustrating ecosystem  (posted by L. Moretti)\n\nI bought the Lumen 6 mainly for commuting, and on that score it delivers: the screen is easy on the eyes even in direct sun, and a single charge lasted me nearly five weeks of daily use. Where it falls short is the software. Importing my own files takes more steps than it should, and the store keeps pushing bestsellers I have no interest in. I returned the first unit because the page-turn buttons stuck, but the replacement has been fine, and customer support handled the exchange without any fuss. If you read mostly purchased titles, you will probably be happy. If, like me, you rely on your own library of PDFs, I'd suggest looking at a competitor, or at least waiting for the promised firmware update.",
+      "items": [
+       {
+        "id": "r2u_d2_1",
+        "q": "What is the reviewer's main criticism of the Lumen 6?",
+        "options": [
+         "Its battery has to be recharged much more often than advertised.",
+         "Its screen is hard to read outdoors.",
+         "Its store recommends titles that the reviewer finds irrelevant.",
+         "It is awkward to use with files the buyer already owns."
+        ],
+        "answer": 3
+       },
+       {
+        "id": "r2u_d2_2",
+        "q": "What can be inferred about the reviewer's replacement unit?",
+        "options": [
+         "It already includes the promised firmware update.",
+         "It does not have the defect that the first unit had.",
+         "It was bought from a competitor.",
+         "It imports PDF files more easily than the first unit did."
+        ],
+        "answer": 1
+       },
+       {
+        "id": "r2u_d2_3",
+        "q": "Whom would the reviewer most likely recommend the Lumen 6 to?",
+        "options": [
+         "A reader with a large collection of PDFs",
+         "A commuter who dislikes bright screens and wants a lighter device",
+         "A reader who buys most books from the device's own store",
+         "A buyer who is happy to wait for a competitor"
+        ],
+        "answer": 2
+       }
+      ]
+     },
+     {
+      "type": "academic",
+      "title": "Read an Academic Passage",
+      "text": "Tacit Knowledge\n\nIn 1958 the philosopher Michael Polanyi observed that \"we can know more than we can tell.\" A skilled cyclist keeps her balance by turning the handlebars slightly toward the direction in which she is falling, yet most cyclists could not state this rule, and those who can are no better at staying upright. Polanyi called such expertise tacit knowledge: competence that resides in practice rather than in propositions.\n\nThe notion posed a quiet challenge to engineers who hoped to codify skilled work. Efforts in the 1980s to capture the judgment of expert diagnosticians in software, for example, yielded systems that performed adequately on textbook cases but faltered on the ambiguous ones that experienced clinicians handle almost without noticing. Interviewing the experts did not help much; when pressed, they tended to offer plausible rationalizations that bore little relation to the cues they actually relied upon.\n\nIt would be a mistake, however, to conclude that tacit knowledge is mysterious or unteachable. Apprenticeship has transmitted it for millennia, not by explanation but by sustained proximity: novices watch, imitate, and are corrected in small ways until their judgments converge on those of the master. What resists transfer is not the knowledge itself but the shortcut of explicit instruction.",
+      "items": [
+       {
+        "id": "r2u_a1_1",
+        "q": "The word 'faltered' in paragraph 2 is closest in meaning to",
+        "options": [
+         "adjusted quickly",
+         "lost reliability",
+         "stopped being used",
+         "repeated earlier results"
+        ],
+        "answer": 1
+       },
+       {
+        "id": "r2u_a1_2",
+        "q": "Why does the author mention the cyclist in paragraph 1?",
+        "options": [
+         "To show that knowing the rule makes people ride better",
+         "To argue that physical skills are easier to learn than intellectual ones",
+         "To explain why handlebar design affects balance",
+         "To illustrate a skill people use without being able to state its rule"
+        ],
+        "answer": 3
+       },
+       {
+        "id": "r2u_a1_3",
+        "q": "What can be inferred about the expert diagnosticians who were interviewed?",
+        "options": [
+         "They were not fully aware of what actually guided their judgments.",
+         "They explained their reasoning accurately but too briefly for engineers to use.",
+         "They disagreed with Polanyi about the nature of expertise.",
+         "They relied on textbook cases more than they admitted."
+        ],
+        "answer": 0
+       },
+       {
+        "id": "r2u_a1_4",
+        "q": "According to paragraph 3, what makes tacit knowledge difficult to transfer?",
+        "options": [
+         "Those who have mastered a skill are rarely able to describe it.",
+         "Masters are unwilling to let novices watch them work.",
+         "Explanation cannot replace extended practice alongside an expert.",
+         "Novices lack the background knowledge needed to imitate their teachers."
+        ],
+        "answer": 2
+       },
+       {
+        "id": "r2u_a1_5",
+        "q": "What is the function of paragraph 3 in relation to paragraph 2?",
+        "options": [
+         "It supplies further evidence for the failures that paragraph 2 describes.",
+         "It introduces a rival theory to the one presented in paragraph 2.",
+         "It restates the opening observation of the passage in general terms.",
+         "It qualifies a discouraging conclusion that paragraph 2 might suggest."
+        ],
+        "answer": 3
+       }
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "listening": {
+  "stage1": {
+   "id": "l1",
+   "cefr": "A2-C1",
+   "tasks": [
+    {
+     "type": "choose",
+     "title": "Listen and Choose a Response",
+     "items": [
+      {
+       "id": "l1_c1",
+       "q": "Choose the best response.",
+       "options": [
+        "I changed my schedule last week, actually.",
+        "It was late again this morning, as usual.",
+        "Yes, they're adding a stop by the dorms.",
+        "Not until tomorrow at noon, I believe."
+       ],
+       "answer": 2,
+       "audio": "l1_c1"
+      },
+      {
+       "id": "l1_c2",
+       "q": "Choose the best response.",
+       "options": [
+        "It's about ten dollars each, I think.",
+        "We could grab lunch somewhere else.",
+        "I believe it starts at noon today.",
+        "Yes, I drew the line there myself."
+       ],
+       "answer": 1,
+       "audio": "l1_c2"
+      },
+      {
+       "id": "l1_c3",
+       "q": "Choose the best response.",
+       "options": [
+        "Sure. Do you have your student ID?",
+        "Yes, I've already logged in twice today.",
+        "The portal is on the second floor, I think.",
+        "It's mine, so please show me the course."
+       ],
+       "answer": 0,
+       "audio": "l1_c3"
+      },
+      {
+       "id": "l1_c4",
+       "q": "Choose the best response.",
+       "options": [
+        "Yes, I supposed it would be interesting.",
+        "Two seats were still open this morning.",
+        "Seminars start at the end of September.",
+        "It was moved to three, I think."
+       ],
+       "answer": 3,
+       "audio": "l1_c4"
+      },
+      {
+       "id": "l1_c5",
+       "q": "Choose the best response.",
+       "options": [
+        "I submitted yours for you on Tuesday.",
+        "It is due after the new semester starts.",
+        "Thanks, I thought it was good too.",
+        "I meant to, but the site crashed."
+       ],
+       "answer": 3,
+       "audio": "l1_c5"
+      },
+      {
+       "id": "l1_c6",
+       "q": "Choose the best response.",
+       "options": [
+        "It's the brick building behind the library.",
+        "The department usually meets on Fridays at noon.",
+        "I pointed him that way just yesterday.",
+        "It would be point two zero, I think."
+       ],
+       "answer": 0,
+       "audio": "l1_c6"
+      },
+      {
+       "id": "l1_c7",
+       "q": "Choose the best response.",
+       "options": [
+        "The session is about statistics, I think.",
+        "My bus broke down on the way.",
+        "I came by to study it last Friday.",
+        "It's come to my attention too, actually."
+       ],
+       "answer": 1,
+       "audio": "l1_c7"
+      },
+      {
+       "id": "l1_c8",
+       "q": "Choose the best response.",
+       "options": [
+        "It's rather cold for tomorrow already, isn't it?",
+        "I moved all of it indoors myself.",
+        "Good, I was worried about getting soaked.",
+        "The picnic baskets are heavy to carry."
+       ],
+       "answer": 2,
+       "audio": "l1_c8"
+      },
+      {
+       "id": "l1_c9",
+       "q": "Choose the best response.",
+       "options": [
+        "It was posted on the board for hours.",
+        "I know. I keep changing the layout.",
+        "Yes, the opening hours are posted outside.",
+        "Work starts at six o'clock tomorrow."
+       ],
+       "answer": 1,
+       "audio": "l1_c9"
+      },
+      {
+       "id": "l1_c10",
+       "q": "Choose the best response.",
+       "options": [
+        "The train leaves from platform two at noon.",
+        "Yes, I'll split the check with you later.",
+        "Both of them were late again yesterday.",
+        "The train's cheaper, so I'll stick with it."
+       ],
+       "answer": 3,
+       "audio": "l1_c10"
+      }
+     ]
+    },
+    {
+     "type": "conversation",
+     "title": "Listen to a Conversation",
+     "audio": "l1_conv1",
+     "items": [
+      {
+       "id": "l1_v1_1",
+       "q": "Why did the man think the woman was comfortable with the noise?",
+       "options": [
+        "She had joined the band herself.",
+        "She usually studies at the library at night.",
+        "She had never told him otherwise.",
+        "She once said it helped her concentrate."
+       ],
+       "answer": 2
+      },
+      {
+       "id": "l1_v1_2",
+       "q": "What does the man offer to do?",
+       "options": [
+        "Practice elsewhere early, then switch to headphones",
+        "Stop practicing altogether until her exam on Thursday is over",
+        "Ask the band to postpone the concert",
+        "Move his keyboard into the hallway"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "conversation",
+     "title": "Listen to a Conversation",
+     "audio": "l1_conv2",
+     "items": [
+      {
+       "id": "l1_v2_1",
+       "q": "What does the advisor recommend that the student do first?",
+       "options": [
+        "Discuss the situation with the instructor",
+        "Visit the tutoring center for extra help first",
+        "Drop the course before the penalty date",
+        "Reduce the number of credits to twelve"
+       ],
+       "answer": 0
+      },
+      {
+       "id": "l1_v2_2",
+       "q": "Why does the advisor mention twelve credits?",
+       "options": [
+        "To warn that the student is dangerously close to losing full-time status",
+        "To explain why the withdrawal will appear on the transcript",
+        "To suggest that the student should add another class",
+        "To show that dropping the course would not endanger the scholarship"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "type": "conversation",
+     "title": "Listen to a Conversation",
+     "audio": "l1_conv3",
+     "items": [
+      {
+       "id": "l1_v3_1",
+       "q": "Why can't Mia take the shift?",
+       "options": [
+        "She has a family wedding to attend.",
+        "She will be away from the city that week.",
+        "She would be working more hours than she is allowed.",
+        "She has already agreed to work a different shift that day."
+       ],
+       "answer": 2
+      },
+      {
+       "id": "l1_v3_2",
+       "q": "What does the man mean when he says, \"you owe me one\"?",
+       "options": [
+        "He wants to be paid extra for the shift.",
+        "He expects a favor from her in return.",
+        "He believes she made a mistake with the schedule.",
+        "He plans to take a day off during midterms."
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "announcement",
+     "title": "Listen to an Announcement",
+     "audio": "l1_ann1",
+     "items": [
+      {
+       "id": "l1_n1_1",
+       "q": "Why does the speaker advise students to check their accounts now?",
+       "options": [
+        "A problem on an account can block registration and take time to fix.",
+        "Registration slots are given out in the order that students log in online.",
+        "Advisors will not be available once registration begins.",
+        "Unpaid fees are added automatically on Monday morning."
+       ],
+       "answer": 0
+      },
+      {
+       "id": "l1_n1_2",
+       "q": "Which students can register on Tuesday?",
+       "options": [
+        "Seniors",
+        "Sophomores",
+        "First-year students",
+        "Juniors"
+       ],
+       "answer": 3
+      }
+     ]
+    },
+    {
+     "type": "announcement",
+     "title": "Listen to an Announcement",
+     "audio": "l1_ann2",
+     "items": [
+      {
+       "id": "l1_n2_1",
+       "q": "Why is the bus stop being moved?",
+       "options": [
+        "Fewer riders use the Hartley Street stop.",
+        "The street is blocked by roadwork.",
+        "The trip needs to be made shorter.",
+        "A new ramp is being built at Hartley Street."
+       ],
+       "answer": 1
+      },
+      {
+       "id": "l1_n2_2",
+       "q": "What does the announcement say about passengers who use wheelchairs?",
+       "options": [
+        "They must board at Hartley Street until October.",
+        "They will ride at a reduced fare during construction.",
+        "They can ask the driver for help at the new stop.",
+        "They should use a different bus line for three minutes."
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "type": "talk",
+     "title": "Listen to an Academic Talk",
+     "audio": "l1_talk1",
+     "items": [
+      {
+       "id": "l1_t1_1",
+       "q": "What was the key feature of the shouting experiment?",
+       "options": [
+        "Participants were told to match the loudest voice in the whole group.",
+        "Participants believed their own contribution could not be measured.",
+        "Participants shouted in pairs rather than in large groups.",
+        "Participants were rewarded for the loudest group."
+       ],
+       "answer": 1
+      },
+      {
+       "id": "l1_t1_2",
+       "q": "According to the professor, what is the main explanation for social loafing?",
+       "options": [
+        "People feel less accountable when effort is combined.",
+        "Group tasks are less interesting than individual tasks.",
+        "Members compete with one another for credit.",
+        "People get tired faster in a group."
+       ],
+       "answer": 0
+      },
+      {
+       "id": "l1_t1_3",
+       "q": "Which step would the professor most likely recommend to reduce social loafing?",
+       "options": [
+        "Making the group larger so more ideas are shared",
+        "Combining all contributions into one anonymous product",
+        "Giving the whole group a single grade",
+        "Grading each member's portion of the work separately"
+       ],
+       "answer": 3
+      },
+      {
+       "id": "l1_t1_4",
+       "q": "Why does the professor mention cultures that emphasize collective goals?",
+       "options": [
+        "To prove that the original studies were badly designed",
+        "To argue that groups are naturally more productive",
+        "To show that social loafing does not appear everywhere",
+        "To explain why shouting experiments failed in some countries"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "type": "talk",
+     "title": "Listen to an Academic Talk",
+     "audio": "l1_talk2",
+     "items": [
+      {
+       "id": "l1_t2_1",
+       "q": "Why can a city stay warm after sunset?",
+       "options": [
+        "Pavement and roofs give off stored heat gradually.",
+        "Air conditioners are switched on mostly late at night.",
+        "Plants release heat that they absorbed by day.",
+        "Winds blow warm air in from the countryside."
+       ],
+       "answer": 0
+      },
+      {
+       "id": "l1_t2_2",
+       "q": "Why does the lack of vegetation raise city temperatures?",
+       "options": [
+        "Plants trap heat between tall buildings.",
+        "Vegetation absorbs sunlight and releases it slowly.",
+        "Roots prevent pavement from losing heat.",
+        "There is less cooling from water release and shade."
+       ],
+       "answer": 3
+      },
+      {
+       "id": "l1_t2_3",
+       "q": "Why does the professor mention a feedback loop?",
+       "options": [
+        "To argue that air conditioning should be banned",
+        "To show that a result of heat can make the heat worse",
+        "To explain why air pollution has fallen in cities",
+        "To describe how cool roofs lower indoor temperatures a lot"
+       ],
+       "answer": 1
+      },
+      {
+       "id": "l1_t2_4",
+       "q": "What does the professor imply about cool roofs compared with green roofs?",
+       "options": [
+        "Cool roofs lower street-level temperatures more than green roofs do.",
+        "Cool roofs and green roofs cost about the same.",
+        "Cool roofs cost less but do less for street-level temperatures.",
+        "Cool roofs are less effective inside buildings."
+       ],
+       "answer": 2
+      }
+     ]
+    }
+   ]
+  },
+  "stage2": {
+   "lower": {
+    "id": "l2l",
+    "cefr": "A1-B1",
+    "tasks": [
+     {
+      "type": "choose",
+      "title": "Listen and Choose a Response",
+      "items": [
+       {
+        "id": "l2l_c1",
+        "q": "Choose the best response.",
+        "options": [
+         "It's next to the cafeteria, I think.",
+         "For about two hours, I think.",
+         "I open it every morning at eight.",
+         "At nine o'clock, I think."
+        ],
+        "answer": 3,
+        "audio": "l2l_c1"
+       },
+       {
+        "id": "l2l_c2",
+        "q": "Choose the best response.",
+        "options": [
+         "Yes, they carry them very well.",
+         "Sure, where do you want them?",
+         "I have two of them at home.",
+         "No, I was not in the box."
+        ],
+        "answer": 1,
+        "audio": "l2l_c2"
+       },
+       {
+        "id": "l2l_c3",
+        "q": "Choose the best response.",
+        "options": [
+         "Maybe you should go home and rest.",
+         "That's a nice shirt you are wearing.",
+         "Yes, today is Wednesday, I think.",
+         "I feel well, too, thank you very much."
+        ],
+        "answer": 0,
+        "audio": "l2l_c3"
+       },
+       {
+        "id": "l2l_c4",
+        "q": "Choose the best response.",
+        "options": [
+         "Yes, it is my new backpack, thanks.",
+         "It's very big, and it's very heavy.",
+         "At the shop near the station.",
+         "About thirty dollars, I think, maybe."
+        ],
+        "answer": 2,
+        "audio": "l2l_c4"
+       },
+       {
+        "id": "l2l_c5",
+        "q": "Choose the best response.",
+        "options": [
+         "Yes, I would like to, thank you.",
+         "Tea, please, with a little milk.",
+         "Some time tomorrow afternoon, maybe.",
+         "I like coffee shops, but not this one."
+        ],
+        "answer": 1,
+        "audio": "l2l_c5"
+       },
+       {
+        "id": "l2l_c6",
+        "q": "Choose the best response.",
+        "options": [
+         "Yes, we should go on Tuesday.",
+         "It is a very big museum, really.",
+         "Mondays are always busy here, I think.",
+         "Yes, I'd love some, thanks very much."
+        ],
+        "answer": 0,
+        "audio": "l2l_c6"
+       }
+      ]
+     },
+     {
+      "type": "conversation",
+      "title": "Listen to a Conversation",
+      "audio": "l2l_conv1",
+      "items": [
+       {
+        "id": "l2l_v1_1",
+        "q": "What does the man want?",
+        "options": [
+         "To buy a new phone",
+         "To return a library book",
+         "To get a new student card from the office",
+         "To borrow a laptop for two days"
+        ],
+        "answer": 3
+       },
+       {
+        "id": "l2l_v1_2",
+        "q": "What will the man probably do next?",
+        "options": [
+         "Wait at the desk until six",
+         "Show the woman his phone again",
+         "Go to his room to get his card",
+         "Look for a different laptop"
+        ],
+        "answer": 2
+       }
+      ]
+     },
+     {
+      "type": "conversation",
+      "title": "Listen to a Conversation",
+      "audio": "l2l_conv2",
+      "items": [
+       {
+        "id": "l2l_v2_1",
+        "q": "Why does the man want a small dinner?",
+        "options": [
+         "His apartment is very large.",
+         "He wants to cook dinner for everyone he knows.",
+         "Lisa does not enjoy big parties.",
+         "Lisa has no friends nearby."
+        ],
+        "answer": 2
+       },
+       {
+        "id": "l2l_v2_2",
+        "q": "Why does the man choose Friday?",
+        "options": [
+         "The woman cannot bake on Saturday.",
+         "It is Lisa's real birthday.",
+         "The shops are closed on Saturday.",
+         "Many guests are busy on Saturday."
+        ],
+        "answer": 3
+       }
+      ]
+     },
+     {
+      "type": "announcement",
+      "title": "Listen to an Announcement",
+      "audio": "l2l_ann1",
+      "items": [
+       {
+        "id": "l2l_n1_1",
+        "q": "What is the announcement mainly about?",
+        "options": [
+         "A change in the class schedule",
+         "An upcoming sports event",
+         "A new rule for parents",
+         "A prize for the best student"
+        ],
+        "answer": 1
+       },
+       {
+        "id": "l2l_n1_2",
+        "q": "What should students bring?",
+        "options": [
+         "A bottle of water",
+         "A signed note from a parent",
+         "A towel for the rain",
+         "Extra money for lunch"
+        ],
+        "answer": 0
+       },
+       {
+        "id": "l2l_n1_3",
+        "q": "What will happen if it rains on Friday?",
+        "options": [
+         "The event will be held on another day.",
+         "Classes will end at noon.",
+         "Parents will have to sign in twice at the office.",
+         "The races will be shorter."
+        ],
+        "answer": 0
+       }
+      ]
+     },
+     {
+      "type": "talk",
+      "title": "Listen to an Academic Talk",
+      "audio": "l2l_talk1",
+      "items": [
+       {
+        "id": "l2l_t1_1",
+        "q": "What is the talk mainly about?",
+        "options": [
+         "Why bees fly to flowers",
+         "How beekeepers collect honey",
+         "How bees produce honey",
+         "Where bees build their hives"
+        ],
+        "answer": 2
+       },
+       {
+        "id": "l2l_t1_2",
+        "q": "Why do the bees fan their wings?",
+        "options": [
+         "To cool down the hive",
+         "To remove extra water from the nectar",
+         "To call the other bees over to the open cell",
+         "To spread the nectar on the wax"
+        ],
+        "answer": 1
+       },
+       {
+        "id": "l2l_t1_3",
+        "q": "Why does a hive store honey?",
+        "options": [
+         "To feed young bees in summer",
+         "To build more wax cells",
+         "To attract new workers",
+         "To have food in the winter"
+        ],
+        "answer": 3
+       }
+      ]
+     },
+     {
+      "type": "talk",
+      "title": "Listen to an Academic Talk",
+      "audio": "l2l_talk2",
+      "items": [
+       {
+        "id": "l2l_t2_1",
+        "q": "What is a gnomon?",
+        "options": [
+         "The flat plate with all of the numbers on it",
+         "A kind of water clock",
+         "The shadow on the plate",
+         "The stick that makes the shadow"
+        ],
+        "answer": 3
+       },
+       {
+        "id": "l2l_t2_2",
+        "q": "What was a disadvantage of sundials?",
+        "options": [
+         "They could not be used without sunlight.",
+         "They were very hard to build and they were expensive.",
+         "They were not accurate in Egypt.",
+         "They needed water to work."
+        ],
+        "answer": 0
+       },
+       {
+        "id": "l2l_t2_3",
+        "q": "Why did people invent water clocks?",
+        "options": [
+         "To make clocks that were much easier to build and to carry",
+         "To measure time when the sun could not be seen",
+         "To replace the stick with a larger one",
+         "To track the movement of the moon"
+        ],
+        "answer": 1
+       }
+      ]
+     }
+    ]
+   },
+   "upper": {
+    "id": "l2u",
+    "cefr": "B2-C2",
+    "tasks": [
+     {
+      "type": "choose",
+      "title": "Listen and Choose a Response",
+      "items": [
+       {
+        "id": "l2u_c1",
+        "q": "Choose the best response.",
+        "options": [
+         "Friday works better for me, too, honestly.",
+         "No, I haven't thought about it yet at all.",
+         "I'd rather turn it in on Monday, then.",
+         "It was, until the office pushed it back."
+        ],
+        "answer": 3,
+        "audio": "l2u_c1"
+       },
+       {
+        "id": "l2u_c2",
+        "q": "Choose the best response.",
+        "options": [
+         "Yes, the orchestra is performing tonight, in the main hall.",
+         "I haven't decided. Rehearsals eat my study time.",
+         "I'm serious about learning the trumpet this year.",
+         "No, I would rather quit something else instead."
+        ],
+        "answer": 1,
+        "audio": "l2u_c2"
+       },
+       {
+        "id": "l2u_c3",
+        "q": "Choose the best response.",
+        "options": [
+         "Tell me about it. I was late to chemistry again.",
+         "It starts in about ten minutes from now, I think.",
+         "Yes, the buildings were planned last year, I believe.",
+         "No, I'm not the person who planned the schedule."
+        ],
+        "answer": 0,
+        "audio": "l2u_c3"
+       },
+       {
+        "id": "l2u_c4",
+        "q": "Choose the best response.",
+        "options": [
+         "Sure, I'll share mine with you, too, if you'd like that.",
+         "Thanks, but I took good notes in class.",
+         "Deal. I just need to catch up on Monday's lecture.",
+         "I promised to return them, didn't I?"
+        ],
+        "answer": 2,
+        "audio": "l2u_c4"
+       },
+       {
+        "id": "l2u_c5",
+        "q": "Choose the best response.",
+        "options": [
+         "It's open until nine on most weeknights, I'm fairly sure.",
+         "Only in the first two weeks, I think.",
+         "I think I opened it yesterday morning, yes.",
+         "No, I just bought mine at the campus store."
+        ],
+        "answer": 1,
+        "audio": "l2u_c5"
+       },
+       {
+        "id": "l2u_c6",
+        "q": "Choose the best response.",
+        "options": [
+         "The library is the first building on the left.",
+         "No, the meeting place is far from the library.",
+         "Yes, it was reserved for the first week.",
+         "Fair point. I'll go and find us a room."
+        ],
+        "answer": 3,
+        "audio": "l2u_c6"
+       }
+      ]
+     },
+     {
+      "type": "conversation",
+      "title": "Listen to a Conversation",
+      "audio": "l2u_conv1",
+      "items": [
+       {
+        "id": "l2u_v1_1",
+        "q": "What is the students' main concern about the spreadsheet?",
+        "options": [
+         "The second trial's values all seem shifted upward.",
+         "Several of the readings are missing from the second trial.",
+         "Priya's notes describe the wrong procedure.",
+         "The first trial was run with a faulty sensor."
+        ],
+        "answer": 0
+       },
+       {
+        "id": "l2u_v1_2",
+        "q": "Why does the woman prefer to contact Priya before rerunning the trial?",
+        "options": [
+         "She is unsure the lab will be free on Thursday.",
+         "She believes Priya's notes are reliable.",
+         "An answer might make a long rerun unnecessary.",
+         "She wants Priya to bring the backup sensor."
+        ],
+        "answer": 2
+       }
+      ]
+     },
+     {
+      "type": "conversation",
+      "title": "Listen to a Conversation",
+      "audio": "l2u_conv2",
+      "items": [
+       {
+        "id": "l2u_v2_1",
+        "q": "What is the main reason the student wants more time?",
+        "options": [
+         "She has not yet finished writing all the other sections.",
+         "She wants to switch to a different topic.",
+         "Recent news affects a central part of her argument.",
+         "She could not get access to the budget figures."
+        ],
+        "answer": 2
+       },
+       {
+        "id": "l2u_v2_2",
+        "q": "What does the professor imply by saying, \"it's the kind of thing policy analysts deal with all the time\"?",
+        "options": [
+         "This is a normal part of the work, not an unusual hardship.",
+         "He will not agree to any extension.",
+         "He thinks she should have predicted the council’s decision.",
+         "He considers her topic a poor choice."
+        ],
+        "answer": 0
+       }
+      ]
+     },
+     {
+      "type": "announcement",
+      "title": "Listen to an Announcement",
+      "audio": "l2u_ann1",
+      "items": [
+       {
+        "id": "l2u_n1_1",
+        "q": "What does the speaker say about the Research Commons?",
+        "options": [
+         "It will replace the fourth-floor study area.",
+         "It will be a quiet area for individual study.",
+         "It is reserved for graduate researchers and visiting faculty only.",
+         "It is meant for conversation rather than silent work."
+        ],
+        "answer": 3
+       },
+       {
+        "id": "l2u_n1_2",
+        "q": "Why will the library's weekend hours stay the same?",
+        "options": [
+         "Students rarely use the library on weekends.",
+         "The renovation cost more than expected.",
+         "The longer hours will be offered only during exams.",
+         "Librarians are not available on Sundays."
+        ],
+        "answer": 1
+       },
+       {
+        "id": "l2u_n1_3",
+        "q": "Why does the speaker say, \"Despite what some of you may have heard\"?",
+        "options": [
+         "To admit that the renovation caused rumors",
+         "To announce a change to an earlier plan",
+         "To criticize students who ignored an earlier notice from the library",
+         "To correct a likely misunderstanding about the room's purpose"
+        ],
+        "answer": 3
+       }
+      ]
+     },
+     {
+      "type": "talk",
+      "title": "Listen to an Academic Talk",
+      "audio": "l2u_talk1",
+      "items": [
+       {
+        "id": "l2u_t1_1",
+        "q": "Why does the professor mention industrial cities in nineteenth-century Britain?",
+        "options": [
+         "To introduce a scale for ranking lichens by their tolerance",
+         "To give evidence that lichens respond to air pollution",
+         "To show that factories were once built in the countryside",
+         "To compare lichens with flowering plants"
+        ],
+        "answer": 1
+       },
+       {
+        "id": "l2u_t1_2",
+        "q": "According to the professor, what advantage do lichens have over instruments?",
+        "options": [
+         "They can detect more kinds of chemicals.",
+         "They give instant readings of air quality.",
+         "They reflect exposure over a long period.",
+         "They cost nothing to maintain."
+        ],
+        "answer": 2
+       },
+       {
+        "id": "l2u_t1_3",
+        "q": "What does the professor imply about a site where bushy lichens are absent?",
+        "options": [
+         "More investigation is needed before pollution is blamed.",
+         "The air there is certainly heavily polluted.",
+         "The site is probably too humid for any lichens to survive.",
+         "Chemical monitoring is unnecessary at such a site."
+        ],
+        "answer": 0
+       }
+      ]
+     },
+     {
+      "type": "talk",
+      "title": "Listen to an Academic Talk",
+      "audio": "l2u_talk2",
+      "items": [
+       {
+        "id": "l2u_t2_1",
+        "q": "Why does the professor mention the idea that dust absorbs starlight?",
+        "options": [
+         "To support the claim that the universe is infinite",
+         "To describe how the age of the universe was measured",
+         "To present an explanation that fails and to say why",
+         "To show how Olbers reached his conclusion"
+        ],
+        "answer": 2
+       },
+       {
+        "id": "l2u_t2_2",
+        "q": "According to the professor, why is the night sky dark?",
+        "options": [
+         "Interstellar dust absorbs most starlight.",
+         "Light from the most distant stars has not yet reached Earth.",
+         "Starlight has been shifted entirely out of the visible range.",
+         "Stars are scattered unevenly across the universe."
+        ],
+        "answer": 1
+       },
+       {
+        "id": "l2u_t2_3",
+        "q": "What does the professor suggest about the effect of the universe's expansion?",
+        "options": [
+         "It adds to the darkness but matters less than the finite age.",
+         "It is the principal cause of the dark night sky.",
+         "It makes distant stars look brighter than nearby ones.",
+         "It was discovered several decades before the finite age of the universe."
+        ],
+        "answer": 0
+       }
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "writing": {
+  "build": {
+   "title": "Build a Sentence",
+   "instructions": "Arrange the words to build a correct sentence. One box may not be needed.",
+   "items": [
+    {
+     "id": "w_b1",
+     "context": "Why is the lab closed?",
+     "before": "I",
+     "after": ".",
+     "chunks": [
+      "the inspection",
+      "was told",
+      "completed",
+      "that it",
+      "closed until",
+      "had been",
+      "would remain"
+     ],
+     "answer": "was told that it would remain closed until the inspection had been completed"
+    },
+    {
+     "id": "w_b2",
+     "context": "Did the professor approve your topic?",
+     "before": "Not yet; she",
+     "after": ".",
+     "chunks": [
+      "to explain",
+      "asked me",
+      "from",
+      "how my argument",
+      "earlier studies",
+      "differs"
+     ],
+     "answer": "asked me to explain how my argument differs from earlier studies"
+    },
+    {
+     "id": "w_b3",
+     "context": "What happened during Monday’s lecture?",
+     "before": "Hardly",
+     "after": ".",
+     "chunks": [
+      "when",
+      "the lecture",
+      "went off",
+      "begun",
+      "the fire alarm",
+      "had"
+     ],
+     "answer": "had the lecture begun when the fire alarm went off"
+    },
+    {
+     "id": "w_b4",
+     "context": "What did the survey reveal?",
+     "before": "It",
+     "after": ".",
+     "chunks": [
+      "that fewer",
+      "were aware",
+      "revealed",
+      "of the new policy",
+      "students",
+      "than expected"
+     ],
+     "answer": "revealed that fewer students were aware of the new policy than expected",
+     "alts": [
+      "revealed that fewer students than expected were aware of the new policy"
+     ]
+    },
+    {
+     "id": "w_b5",
+     "context": "Can I borrow your car this weekend?",
+     "after": ".",
+     "chunks": [
+      "if it",
+      "I would",
+      "in the shop",
+      "lend it",
+      "were not",
+      "to you",
+      "was"
+     ],
+     "answer": "I would lend it to you if it were not in the shop",
+     "alts": [
+      "If it were not in the shop I would lend it to you"
+     ]
+    },
+    {
+     "id": "w_b6",
+     "context": "Why were so many people late?",
+     "before": "The train",
+     "after": ".",
+     "chunks": [
+      "that",
+      "by a signal failure",
+      "had anticipated",
+      "nobody",
+      "had been delayed"
+     ],
+     "answer": "had been delayed by a signal failure that nobody had anticipated"
+    },
+    {
+     "id": "w_b7",
+     "context": "How do you like your new apartment?",
+     "after": ".",
+     "chunks": [
+      "than",
+      "it is",
+      "live in",
+      "the one",
+      "much quieter",
+      "I used to"
+     ],
+     "answer": "It is much quieter than the one I used to live in"
+    },
+    {
+     "id": "w_b8",
+     "context": "What should I do about the missing page?",
+     "before": "You",
+     "after": ".",
+     "chunks": [
+      "it",
+      "should have",
+      "as soon as",
+      "told",
+      "you noticed",
+      "the librarian"
+     ],
+     "answer": "should have told the librarian as soon as you noticed it"
+    },
+    {
+     "id": "w_b9",
+     "context": "Did the study confirm the earlier findings?",
+     "before": "Only",
+     "after": ".",
+     "chunks": [
+      "was",
+      "to draw",
+      "the sample",
+      "firm conclusions",
+      "partly, because",
+      "too small"
+     ],
+     "answer": "partly, because the sample was too small to draw firm conclusions"
+    },
+    {
+     "id": "w_b10",
+     "context": "What did your advisor say about the thesis?",
+     "before": "She",
+     "after": ".",
+     "chunks": [
+      "the opposing view",
+      "whether",
+      "wondered",
+      "more carefully",
+      "I had",
+      "considered"
+     ],
+     "answer": "wondered whether I had considered the opposing view more carefully",
+     "alts": [
+      "wondered whether I had more carefully considered the opposing view"
+     ]
+    }
+   ]
+  },
+  "email": {
+   "title": "Write an Email",
+   "to": "Ms. Alvarez",
+   "subject": "Reference request for a scholarship",
+   "prompt": "Last summer, you completed an internship at a local marketing company. Your supervisor, Ms. Alvarez, gave you a lot of support and useful advice. You are now applying for a scholarship, and the application requires a reference letter from a recent supervisor.\n\nWrite an email to Ms. Alvarez. In your email, do the following:\n- Thank her for something specific she did during your internship.\n- Explain what the scholarship is and why you are applying.\n- Ask whether she would write a reference letter, and give the deadline.\n\nUse full sentences, and write as much as you can.",
+   "rubric": "Task: polite request email to a former internship supervisor. Must cover all 3 bullets: (1) specific thanks (a task, skill or piece of advice, not generic), (2) what the scholarship is and why the writer applies, (3) a clear, courteous request for a reference with a deadline (and ideally an offer to send a CV or details). Look for appropriate register (warm but professional), greeting and sign-off, clear organization, accurate grammar and natural phrasing. Typical strong length 100-150 words."
+  },
+  "discussion": {
+   "title": "Write for an Academic Discussion",
+   "prompt": "Your professor is teaching a class on economics. Post a reply to the professor's question. In your reply, do these two things.\n- State your view and back it up.\n- Add something new to the thread, in your own words.\nAim for at least 100 words.",
+   "professor": {
+    "name": "Dr. Nakamura",
+    "text": "This week we are studying 'nudges': small changes to how choices are presented that steer people toward better decisions without forbidding anything. Examples include automatically enrolling workers in a retirement savings plan unless they choose to leave it, or placing healthy food at eye level in school cafeterias. Supporters say nudges help people without limiting their freedom. Critics say governments should not try to steer people's decisions at all, even gently. Should governments use nudges? Why or why not?"
+   },
+   "students": [
+    {
+     "name": "Priya",
+     "text": "I think nudges are a good idea. Automatic enrollment in retirement plans has greatly increased saving in some countries, and anyone who disagrees can still leave the plan. Nobody is forced to do anything, so I do not see the harm."
+    },
+    {
+     "name": "Marcus",
+     "text": "I am uncomfortable with nudges. They work best when people do not notice them, which feels like manipulation. If the government wants people to eat better or save more, it should explain why openly and let people decide for themselves."
+    }
+   ],
+   "rubric": "Task: academic discussion post, 100+ words. Look for a clear opinion on government nudges, specific support (examples, consequences, conditions), engagement with Priya's or Marcus's point rather than repeating it, coherence, varied accurate grammar and vocabulary."
+  }
+ },
+ "speaking": {
+  "repeat": {
+   "title": "Listen and Repeat",
+   "instructions": "Listen to each sentence once. After the beep, repeat it exactly as you heard it. No preparation time.",
+   "context": "You are training to guide visitors through the greenhouse of a botanical garden. Listen to your supervisor and repeat what she says. You hear each sentence one time.",
+   "maxSeconds": 15,
+   "items": [
+    {
+     "id": "sp_r1",
+     "audio": "sp_r1",
+     "text": "The greenhouse is open every day except Monday."
+    },
+    {
+     "id": "sp_r2",
+     "audio": "sp_r2",
+     "text": "Please keep to the marked paths and do not touch the plants."
+    },
+    {
+     "id": "sp_r3",
+     "audio": "sp_r3",
+     "text": "Tropical species are kept on the left, where the air is warmer."
+    },
+    {
+     "id": "sp_r4",
+     "audio": "sp_r4",
+     "text": "Guided tours for school groups need to be booked at least a week in advance."
+    },
+    {
+     "id": "sp_r5",
+     "audio": "sp_r5",
+     "text": "Because some of the plants are extremely delicate, visitors are asked to keep their bags close to their bodies."
+    },
+    {
+     "id": "sp_r6",
+     "audio": "sp_r6",
+     "text": "If you would like to learn about the rare orchids, our volunteers will be glad to answer any questions you might have."
+    },
+    {
+     "id": "sp_r7",
+     "audio": "sp_r7",
+     "text": "The newest exhibit, which was funded by a local foundation, shows how climate change has been affecting the flowering seasons of native species."
+    }
+   ]
+  },
+  "interview": {
+   "title": "Take an Interview",
+   "instructions": "An interviewer will ask you four questions. There is no preparation time. Answer each question and use the whole time to say as much as you can.",
+   "context": "You are joining a research study about work experience and career preparation. A researcher will ask you some questions in a short online interview.",
+   "maxSeconds": 45,
+   "items": [
+    {
+     "id": "sp_i1",
+     "audio": "sp_i1",
+     "text": "Thanks for taking part. To begin, can you tell me about a job, internship, or volunteer role you've had, and what you did there?"
+    },
+    {
+     "id": "sp_i2",
+     "audio": "sp_i2",
+     "text": "Some people learn best at work by watching experienced colleagues, while others prefer to learn by trying things on their own. Which way works better for you, and why?"
+    },
+    {
+     "id": "sp_i3",
+     "audio": "sp_i3",
+     "text": "Many companies offer internships that are unpaid. Some people say this is fair because interns gain valuable experience. Others say it is unfair to students who cannot afford to work for free. What is your view?"
+    },
+    {
+     "id": "sp_i4",
+     "audio": "sp_i4",
+     "text": "Final question. Some universities are considering making an internship a requirement for graduation in every major, including subjects like history and philosophy. Do you think this is a good idea? Why or why not?"
+    }
+   ]
+  }
+ }
+}

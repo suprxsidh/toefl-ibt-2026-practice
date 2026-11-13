@@ -1,0 +1,1142 @@
+{
+  "id": "test1",
+  "title": "Practice Test 1 (short mock)",
+  "mock": true,
+  "note": "Original content. Short mock: real timings, fewer items than the real test. Count rules are relaxed by \"mock\": true.",
+  "timings": {
+    "reading": {
+      "router": 20,
+      "lower": 9,
+      "upper": 9
+    },
+    "listening": {
+      "router": 18,
+      "lower": 7,
+      "upper": 11
+    },
+    "writing": {
+      "build": 6,
+      "email": 7,
+      "discussion": 10
+    },
+    "speaking": 8
+  },
+  "audio": {
+    "l_c1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Excuse me, do you know if the bookstore is still open?"
+        }
+      ]
+    },
+    "l_c2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "I'm sorry I missed your presentation. How did it go?"
+        }
+      ]
+    },
+    "l_c3": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Would you mind closing the window? It's getting a little cold in here."
+        }
+      ]
+    },
+    "l_c4": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "I was hoping to switch into your lab section, but it looks like it's full."
+        }
+      ]
+    },
+    "l_c5": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Do you mind if I borrow your notes from Tuesday's class?"
+        }
+      ]
+    },
+    "l_c6": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "I can't believe the workshop got cancelled again."
+        }
+      ]
+    },
+    "l_conv1": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Hi Kenji, come in. What can I do for you?"
+        },
+        {
+          "v": "Puck",
+          "t": "Hi. I'm thinking about dropping my statistics course, and I wanted to ask whether that's still possible this late in the term."
+        },
+        {
+          "v": "Kore",
+          "t": "Well, the deadline to withdraw without a penalty is this Friday. After that, a W appears on your transcript."
+        },
+        {
+          "v": "Puck",
+          "t": "Oh, I thought it had already passed. Good. The thing is, the class is much faster than I expected, and I'm also working twelve hours a week at the bookstore."
+        },
+        {
+          "v": "Kore",
+          "t": "I see. Have you talked to the professor, or been to the tutoring center?"
+        },
+        {
+          "v": "Puck",
+          "t": "I've been to the tutoring center twice, but the sessions are always full, and I can't get an appointment on the days I'm free."
+        },
+        {
+          "v": "Kore",
+          "t": "Hmm. Before you drop, remember that statistics is required for your major. If you withdraw now, you'd have to take it next fall, which could delay your graduation by a semester."
+        },
+        {
+          "v": "Puck",
+          "t": "I hadn't thought about that. Is there another option?"
+        },
+        {
+          "v": "Kore",
+          "t": "You could ask the professor for a study group list. She often pairs students up. And the department offers free evening workshops on Wednesdays, which don't need an appointment."
+        },
+        {
+          "v": "Puck",
+          "t": "Wednesday evenings work for me. Maybe I should try that first and decide on Thursday."
+        },
+        {
+          "v": "Kore",
+          "t": "That sounds sensible. Just remember, the form must reach my office by five o'clock on Friday."
+        }
+      ]
+    },
+    "l_ann1": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Attention, residents of Fenwick Hall. Starting next Monday, the laundry room on the ground floor will close for repairs. It will reopen on the fourteenth. During this time, you may use the machines in Calder Hall, the building next to the dining center. Calder's laundry room is open from seven a.m. to eleven p.m., and it accepts the same ID cards. If you have a load already inside a machine, please collect it by Sunday night, because staff will remove anything left behind on Monday morning. Questions can be sent to the housing office."
+        }
+      ]
+    },
+    "l_talk1": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Today I want to talk about one of the most remarkable skills in the animal world: how octopuses change their appearance. An octopus can match the color and even the texture of a rock or a patch of seaweed in less than a second. How? The answer lies in its skin. Embedded in the skin are thousands of tiny organs called chromatophores. Each one is a small sac of pigment surrounded by muscles. When the muscles pull, the sac stretches out and the color becomes visible. When they relax, the sac shrinks to a dot, and the color seems to vanish. Now, here's what surprises people. Octopuses are colorblind, at least as far as we can tell. Their eyes contain just one type of light-sensitive cell. So how do they match colors they cannot see? One idea is that the skin itself contains light-sensitive proteins, which let it detect brightness without the help of the eyes. Another idea is that the octopus uses the shape of its pupil to compare light from different angles. Researchers have not settled the question. What we do know is that camouflage is not only for hiding. Octopuses also flash bright patterns to startle predators, and males sometimes display bold stripes to attract mates. So the same system serves several purposes. For next week, please read the article on cephalopod vision, and think about which of the two explanations seems more convincing."
+        }
+      ]
+    },
+    "l_talk2": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Let's turn to a tool that archaeologists rely on, though it doesn't look like a tool at all: pollen. Every flowering plant releases pollen, and its outer shell is incredibly durable. In wet soil, such as the bottom of a lake or a bog, pollen can survive for thousands of years. Layers of sediment build up over time, so by taking a long core of mud and counting the pollen grains in each layer, researchers can reconstruct which plants grew in an area, and when. Suppose a core shows oak and elm pollen for a long stretch, and then the oak suddenly drops while grass and cereal pollen rise. That pattern usually signals that people cleared the forest to plant crops. Now, there's a limitation. Pollen from some plants, like pine, travels for miles in the wind, so finding pine pollen doesn't prove that pines grew nearby. And insect-pollinated plants release much less pollen, so they may be underrepresented. That's why researchers combine pollen data with other evidence, such as seeds and charcoal, before drawing conclusions."
+        }
+      ]
+    },
+    "sp_r1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "The library opens at eight o'clock every morning."
+        }
+      ]
+    },
+    "sp_r2": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Please leave your bags at the front desk before you enter."
+        }
+      ]
+    },
+    "sp_r3": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "My roommate and I usually cook dinner together on Sundays."
+        }
+      ]
+    },
+    "sp_r4": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "The professor asked us to submit our proposals by the end of next week."
+        }
+      ]
+    },
+    "sp_r5": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Although the museum was crowded, we managed to see most of the exhibits."
+        }
+      ]
+    },
+    "sp_r6": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Researchers have found that students who sleep well tend to remember more of what they study."
+        }
+      ]
+    },
+    "sp_r7": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "If the weather improves tomorrow, the department will move the field trip to the botanical garden."
+        }
+      ]
+    },
+    "sp_i1": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Let's talk about how you study. Tell me about the place where you usually study. What makes it a good place for you?"
+        }
+      ]
+    },
+    "sp_i2": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Some students prefer studying alone, while others prefer studying in groups. Which do you prefer, and why?"
+        }
+      ]
+    },
+    "sp_i3": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "How has technology, such as apps and online videos, changed the way people learn?"
+        }
+      ]
+    },
+    "sp_i4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Some universities are thinking about making attendance optional in all large lectures. Do you think this is a good idea? Please explain your opinion."
+        }
+      ]
+    },
+    "l_c7": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Where should I put these boxes?"
+        }
+      ]
+    },
+    "l_c8": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Are you coming to the picnic on Sunday?"
+        }
+      ]
+    },
+    "l_ann2": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Good morning, everyone. Today's art class will not meet in Room 12. Please go to Room 20 on the second floor instead. Remember to bring your pencils and the drawing you started last week. Class starts at ten o'clock, as usual."
+        }
+      ]
+    }
+  },
+  "reading": {
+    "stage1": {
+      "id": "r1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Honeybees live in colonies that can hold tens of thousands of workers. They {share} information about food through movement. When a worker finds a good patch of flowers, she {returns} to the hive and performs a short dance. The {angle} of the dance shows the direction of the food, and its {length} shows the distance. Other bees {watch} closely, then {fly} out to find the flowers {themselves}. Scientists {believe} this system helps the colony {collect} food {quickly}. It is one of the most complex forms of communication among insects."
+        },
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Industrial cities changed very quickly in the nineteenth century. In the early nineteenth century, many {towns} grew up beside rivers because water {power} was cheap and reliable. Factories {needed} workers, so families moved in from the {countryside}. Housing was often {crowded}, and diseases {spread} easily. Over time, city {leaders} built new {sewers} and passed laws to {improve} {conditions} for ordinary residents. Many of these reforms still shape cities today."
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "NOTICE: Hartwell University Library, extended hours for exams\n\nFrom Monday 8 December to Friday 19 December, the main library will stay open until 2:00 a.m. Sunday to Thursday, and until midnight on Friday and Saturday. The quiet study floor (Level 3) is reserved for students who show a valid ID. Group study rooms must be booked online at least 24 hours ahead, and each booking is limited to two hours. Food is not allowed on Levels 2 and 3, but the Level 1 cafe will stay open until 10:00 p.m.",
+          "items": [
+            {
+              "id": "r1_d1_1",
+              "q": "What is the main purpose of the notice?",
+              "options": [
+                "To ask students to donate books",
+                "To announce changes to library hours during exams",
+                "To close the cafe for the semester",
+                "To explain how to borrow study rooms permanently"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_d1_2",
+              "q": "What must a student do to use a group study room?",
+              "options": [
+                "Reserve it online a day in advance",
+                "Arrive before 10:00 p.m.",
+                "Show an ID at the front desk",
+                "Study on Level 3"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_d1_3",
+              "q": "According to the notice, what is required to enter Level 3?",
+              "options": [
+                "A group of at least two students",
+                "Permission from the cafe",
+                "A valid ID",
+                "A booking for two hours"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "From: Priya Nair <housing@brookside.example>\nTo: Marcus Webb\nSubject: Bicycle in the courtyard\n\nHi Marcus,\n\nI'm writing about the bicycle you left in the courtyard. The courtyard has to stay clear for the fire inspection on Thursday, so could you move the bike to the racks behind Building C before Wednesday evening? If you no longer need it, the housing office can arrange to recycle it. Just reply to let me know which you prefer.\n\nThanks,\nPriya",
+          "items": [
+            {
+              "id": "r1_d2_1",
+              "q": "Why is Priya writing to Marcus?",
+              "options": [
+                "To offer to sell him a new bicycle",
+                "To report a theft in the courtyard",
+                "To invite him to a fire safety class",
+                "To ask him to move his bicycle"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_d2_2",
+              "q": "What can Marcus do if he no longer wants the bicycle?",
+              "options": [
+                "Move it behind Building C",
+                "Ask the housing office to recycle it",
+                "Leave it in the courtyard",
+                "Bring it to the inspection"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "academic",
+          "title": "Read an Academic Passage",
+          "text": "Cities are often several degrees warmer than the countryside around them, a pattern known as the urban heat island effect. Two main factors cause it. First, materials such as asphalt, brick and concrete absorb sunlight during the day and release the stored heat slowly at night, so cities cool down far less after sunset than fields do. Second, cities contain fewer plants. Vegetation cools the air through transpiration, the process by which plants release water vapor, and trees also provide shade. When forests and grassland are replaced with buildings and roads, this natural cooling is lost.\n\nHeat islands have practical consequences. They raise demand for electricity as residents run air conditioners, and they can make heat waves more dangerous, especially for elderly people. Planners have tested several remedies. Painting roofs white reflects more sunlight, and planting trees along streets adds shade. Some cities have also created green roofs, which are rooftops covered with soil and plants. Studies suggest these measures can lower local temperatures by one to three degrees, although they are costly to install across an entire city.",
+          "items": [
+            {
+              "id": "r1_a1_1",
+              "q": "According to the passage, why do cities cool down slowly after sunset?",
+              "options": [
+                "Their streets receive less shade",
+                "They have more air conditioners",
+                "Fields reflect heat back to the city",
+                "Their buildings release stored heat gradually"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_a1_2",
+              "q": "In the passage, what is 'transpiration'?",
+              "options": [
+                "The release of water vapor by plants",
+                "The movement of warm air",
+                "The shade given by trees",
+                "The reflection of sunlight by roofs"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_a1_3",
+              "q": "Which of the following is NOT mentioned as a consequence of heat islands?",
+              "options": [
+                "Greater risk for elderly residents",
+                "Higher demand for electricity",
+                "Increased rainfall in cities",
+                "More dangerous heat waves"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_a1_4",
+              "q": "Why does the author mention green roofs?",
+              "options": [
+                "To show that rooftops cannot be changed",
+                "To explain why cities are warmer",
+                "To argue that trees are unnecessary",
+                "To give an example of a remedy planners have tried"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_a1_5",
+              "q": "What can be inferred about applying these remedies across a whole city?",
+              "options": [
+                "It would cause temperatures to rise",
+                "It has no effect on temperature",
+                "It may be too expensive for many cities",
+                "It is already done in most cities"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "r2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "My town has a small market every Saturday. Farmers {bring} fresh fruit {and} vegetables from {their} fields. Many {people} come early {to} buy the {best} bread. {There} is also {music} near the {fountain}, and {children} like to dance. It is my favourite part of the week."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "SWIMMING POOL: NEW HOURS\n\nFrom 1 March, the city pool opens at 7:00 a.m. and closes at 9:00 p.m. on weekdays. On weekends it opens at 9:00 a.m. Children under 12 must swim with an adult. Towels are not provided, so please bring your own.",
+            "items": [
+              {
+                "id": "r2l_d1_1",
+                "q": "When does the pool open on Saturday?",
+                "options": [
+                  "7:00 a.m.",
+                  "9:00 a.m.",
+                  "9:00 p.m.",
+                  "12:00 p.m."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_d1_2",
+                "q": "What should swimmers bring?",
+                "options": [
+                  "An adult",
+                  "A ticket",
+                  "A towel",
+                  "A swim cap"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Many birds fly long distances each year. This journey is called migration. In autumn, birds such as swallows leave cold places and fly to warmer areas where food is easy to find. In spring, they return to build nests. Scientists believe birds use the sun, the stars and even the Earth's magnetic field to find their way. Young birds often follow older birds on their first trip.",
+            "items": [
+              {
+                "id": "r2l_a1_1",
+                "q": "Why do swallows fly to warmer areas in autumn?",
+                "options": [
+                  "To build nests",
+                  "To find food more easily",
+                  "To follow the stars",
+                  "To escape other birds"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_a1_2",
+                "q": "According to the passage, how do young birds find their way on their first trip?",
+                "options": [
+                  "They fly only at night",
+                  "They use a map",
+                  "They stay near their nests",
+                  "They follow older birds"
+                ],
+                "answer": 3
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "r2u",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Coral reefs cover less than one percent of the ocean floor. Yet they {support} about a {quarter} of all known {marine} species, {which} makes them one {of} the richest {habitats} on Earth. {Rising} water temperatures, {however}, cause corals to {expel} the {algae} that feed them. Without these partners, the reefs turn white and often die within months."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "GREENFIELD CO-OP BIKE RENTAL: student rates\n\nRent a bike for the semester! Students with a valid ID pay $45 per month or $150 for a full semester (four months). Rates include a helmet and a lock. Bikes must be returned by the last day of final exams; late returns cost $5 per day. Damage from normal use is covered, but a lost key costs $20 to replace. Free tune-ups are offered every second Saturday.",
+            "items": [
+              {
+                "id": "r2_d1_1",
+                "q": "How much does a student save by choosing the semester rate instead of paying monthly for four months?",
+                "options": [
+                  "$20",
+                  "$30",
+                  "$10",
+                  "$45"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2_d1_2",
+                "q": "For which of the following would a renter have to pay extra?",
+                "options": [
+                  "A key that was lost",
+                  "A tune-up on a Saturday",
+                  "A worn tire from regular riding",
+                  "Using the included helmet"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Every year, a tree adds a new layer of wood beneath its bark, and in many climates the layer is visible as a ring. In a wet year the ring is wide; in a dry or cold year it is narrow. Because trees of the same species in the same region respond to the same weather, their ring patterns match. Scientists called dendrochronologists exploit this fact. By overlapping the patterns of living trees with those of old timber from buildings, they can build a continuous record that stretches back thousands of years, a method known as crossdating. Once such a record exists, a beam of unknown age can be dated simply by matching its rings against the master sequence.\n\nThe technique has been used to date medieval churches and to settle disputes about when ancient settlements were abandoned. It has limits, however. Trees in tropical regions often lack distinct rings, because growth is nearly constant throughout the year. And a single tree may be missing a ring entirely in an extremely harsh year, which is why researchers never rely on one specimen alone. Instead, they compare dozens, using the group pattern to detect errors.",
+            "items": [
+              {
+                "id": "r2_a1_1",
+                "q": "Why do the ring patterns of different trees in one region match?",
+                "options": [
+                  "The trees grow in old buildings",
+                  "The trees are all the same age",
+                  "The trees experience the same weather",
+                  "The trees are measured by the same scientists"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2_a1_2",
+                "q": "The word 'exploit' in the passage is closest in meaning to",
+                "options": [
+                  "hide",
+                  "make use of",
+                  "question",
+                  "damage"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2_a1_3",
+                "q": "Why do researchers compare dozens of specimens?",
+                "options": [
+                  "To find the tallest tree",
+                  "To reduce the cost of dating",
+                  "To prove that tropical trees have rings",
+                  "To detect rings that a single tree may be missing"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2_a1_4",
+                "q": "What can be inferred about dating tropical timber with this method?",
+                "options": [
+                  "It would be difficult because rings are not distinct",
+                  "It would be easier than in cold regions",
+                  "It has never been attempted",
+                  "It is the only method scientists use"
+                ],
+                "answer": 0
+              }
+            ]
+          }
+        ],
+        "cefr": "B2-C2"
+      }
+    }
+  },
+  "listening": {
+    "stage1": {
+      "id": "l1",
+      "tasks": [
+        {
+          "type": "choose",
+          "title": "Listen and Choose a Response",
+          "items": [
+            {
+              "id": "l1_c1",
+              "audio": "l_c1",
+              "q": "Choose the best response.",
+              "options": [
+                "Yes, until six o'clock.",
+                "It was a good book.",
+                "No, I don't have the time.",
+                "I bought it there last week."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c2",
+              "audio": "l_c2",
+              "q": "Choose the best response.",
+              "options": [
+                "I missed it too, you know.",
+                "It went better than I expected.",
+                "You should have gone there.",
+                "The presentation is on Friday."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c3",
+              "audio": "l_c3",
+              "q": "Choose the best response.",
+              "options": [
+                "I don't mind the weather either.",
+                "Yes, it's quite expensive.",
+                "The window was broken yesterday.",
+                "Not at all. I'll do it now."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c4",
+              "audio": "l_c4",
+              "q": "Choose the best response.",
+              "options": [
+                "The lab is on the second floor.",
+                "It's full of equipment, so be careful.",
+                "You could ask the instructor whether she'd make an exception.",
+                "I switched sections last term, and it was easy."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv1",
+          "items": [
+            {
+              "id": "l1_v1_1",
+              "q": "Why does the student visit the advisor?",
+              "options": [
+                "To get a tutoring appointment",
+                "To ask whether he can still drop a course",
+                "To apply for a job at the bookstore",
+                "To ask about changing his major"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_v1_2",
+              "q": "Why does the advisor mention that statistics is required for his major?",
+              "options": [
+                "To encourage him to change majors",
+                "To suggest he could graduate early",
+                "To show that dropping it may delay his graduation",
+                "To explain why the class is fast"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_v1_3",
+              "q": "What will the student most likely do next?",
+              "options": [
+                "Ask for a different advisor",
+                "Drop the course immediately",
+                "Quit his job at the bookstore",
+                "Go to a Wednesday workshop and then decide"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann1",
+          "items": [
+            {
+              "id": "l1_n1_1",
+              "q": "What should residents do by Sunday night?",
+              "options": [
+                "Remove their laundry from the machines",
+                "Email the housing office",
+                "Register their ID cards",
+                "Move to Calder Hall"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_n1_2",
+              "q": "Where can residents wash clothes while the ground floor room is closed?",
+              "options": [
+                "In the housing office",
+                "In the dining center",
+                "In Calder Hall",
+                "In their own rooms"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk1",
+          "items": [
+            {
+              "id": "l1_t1_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "How octopuses change their appearance",
+                "How octopus eyes evolved",
+                "How octopuses hunt for food",
+                "Why octopuses live alone"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t1_2",
+              "q": "What happens when the muscles around a chromatophore relax?",
+              "options": [
+                "The pupil changes shape",
+                "The sac grows and the color brightens",
+                "The skin becomes rougher",
+                "The sac shrinks and the color seems to vanish"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t1_3",
+              "q": "Why does the professor say that octopuses are colorblind?",
+              "options": [
+                "To argue that camouflage is not important",
+                "To explain a puzzle about how they match colors",
+                "To show that their eyes are weak",
+                "To describe how they find mates"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t1_4",
+              "q": "What does the professor ask the students to do?",
+              "options": [
+                "Count pigment sacs in a sample",
+                "Write a report on predators",
+                "Visit an aquarium",
+                "Read an article and think about two explanations"
+              ],
+              "answer": 3
+            }
+          ]
+        }
+      ],
+      "cefr": "A2-C1"
+    },
+    "stage2": {
+      "lower": {
+        "id": "l2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2l_c1",
+                "audio": "l_c7",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, they are very heavy.",
+                  "I bought them yesterday.",
+                  "On the table by the door, please.",
+                  "Because it was raining."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_c2",
+                "audio": "l_c8",
+                "q": "Choose the best response.",
+                "options": [
+                  "It was a nice day.",
+                  "I'd love to. What time does it start?",
+                  "No, I didn't eat lunch.",
+                  "The park is very big."
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann2",
+            "items": [
+              {
+                "id": "l2l_n1_1",
+                "q": "Where will the art class meet today?",
+                "options": [
+                  "Room 12",
+                  "Room 10",
+                  "The art museum",
+                  "Room 20"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_n1_2",
+                "q": "What should students bring?",
+                "options": [
+                  "Paint and brushes",
+                  "Pencils and last week's drawing",
+                  "A new notebook",
+                  "Their books"
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "l2u",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2_c1",
+                "audio": "l_c5",
+                "q": "Choose the best response.",
+                "options": [
+                  "Sure, just return them before the quiz.",
+                  "I took the notes to the bookstore yesterday.",
+                  "No, I borrowed money from him.",
+                  "Tuesday works for me too."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2_c2",
+                "audio": "l_c6",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's on the third floor, I think.",
+                  "Maybe they'll reschedule it once the speaker is available.",
+                  "Yes, I workshopped it in class last week.",
+                  "I never cancel anything."
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk2",
+            "items": [
+              {
+                "id": "l2_t1_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "Why flowers produce pollen",
+                  "How to grow oak forests",
+                  "How pollen is used to study the past",
+                  "Which plants cause allergies"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2_t1_2",
+                "q": "What does a rise in grass and cereal pollen, together with a drop in oak pollen, suggest?",
+                "options": [
+                  "A change in wind direction",
+                  "A flood in the area",
+                  "People cleared forest to grow crops",
+                  "A shortage of insects"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2_t1_3",
+                "q": "Why does the professor say that finding pine pollen proves little?",
+                "options": [
+                  "Pine pollen is hard to count",
+                  "Pine trees produce no seeds",
+                  "Pine pollen decays quickly",
+                  "Pine pollen can travel far on the wind"
+                ],
+                "answer": 3
+              }
+            ]
+          }
+        ],
+        "cefr": "B2-C2"
+      }
+    }
+  },
+  "speaking": {
+    "repeat": {
+      "title": "Listen and Repeat",
+      "instructions": "Listen to each sentence once. After the beep, repeat it exactly as you heard it. No preparation time.",
+      "maxSeconds": 14,
+      "items": [
+        {
+          "id": "sp_r1",
+          "audio": "sp_r1",
+          "text": "The library opens at eight o'clock every morning."
+        },
+        {
+          "id": "sp_r2",
+          "audio": "sp_r2",
+          "text": "Please leave your bags at the front desk before you enter."
+        },
+        {
+          "id": "sp_r3",
+          "audio": "sp_r3",
+          "text": "My roommate and I usually cook dinner together on Sundays."
+        },
+        {
+          "id": "sp_r4",
+          "audio": "sp_r4",
+          "text": "The professor asked us to submit our proposals by the end of next week."
+        },
+        {
+          "id": "sp_r5",
+          "audio": "sp_r5",
+          "text": "Although the museum was crowded, we managed to see most of the exhibits."
+        },
+        {
+          "id": "sp_r6",
+          "audio": "sp_r6",
+          "text": "Researchers have found that students who sleep well tend to remember more of what they study."
+        },
+        {
+          "id": "sp_r7",
+          "audio": "sp_r7",
+          "text": "If the weather improves tomorrow, the department will move the field trip to the botanical garden."
+        }
+      ],
+      "context": "You are practising everyday sentences for campus life. Listen to each speaker and repeat what you hear. You hear each sentence one time."
+    },
+    "interview": {
+      "title": "Take an Interview",
+      "instructions": "An interviewer will ask you four questions. There is no preparation time. You have 45 seconds to answer each question.",
+      "maxSeconds": 45,
+      "items": [
+        {
+          "id": "sp_i1",
+          "audio": "sp_i1",
+          "text": "Let's talk about how you study. Tell me about the place where you usually study. What makes it a good place for you?"
+        },
+        {
+          "id": "sp_i2",
+          "audio": "sp_i2",
+          "text": "Some students prefer studying alone, while others prefer studying in groups. Which do you prefer, and why?"
+        },
+        {
+          "id": "sp_i3",
+          "audio": "sp_i3",
+          "text": "How has technology, such as apps and online videos, changed the way people learn?"
+        },
+        {
+          "id": "sp_i4",
+          "audio": "sp_i4",
+          "text": "Some universities are thinking about making attendance optional in all large lectures. Do you think this is a good idea? Please explain your opinion."
+        }
+      ],
+      "context": "You are joining a short research study about how students learn. A researcher will ask you some questions."
+    }
+  },
+  "writing": {
+    "build": {
+      "title": "Build a Sentence",
+      "instructions": "Arrange the words to build a correct sentence. One box may not be needed.",
+      "items": [
+        {
+          "id": "w_b1",
+          "context": "What did you do after the lecture?",
+          "chunks": [
+            "to",
+            "went",
+            "library",
+            "the",
+            "go"
+          ],
+          "answer": "went to the library",
+          "before": "I",
+          "after": "after that."
+        },
+        {
+          "id": "w_b2",
+          "context": "Why was Sara late?",
+          "chunks": [
+            "it",
+            "She",
+            "because",
+            "missed",
+            "early",
+            "left",
+            "the bus"
+          ],
+          "answer": "She missed the bus because it left early"
+        },
+        {
+          "id": "w_b3",
+          "context": "Do you know where the registrar's office is?",
+          "chunks": [
+            "main building",
+            "It",
+            "on",
+            "is",
+            "of the",
+            "the second floor"
+          ],
+          "answer": "It is on the second floor of the main building"
+        },
+        {
+          "id": "w_b4",
+          "context": "How was your trip?",
+          "chunks": [
+            "had",
+            "It",
+            "longer",
+            "than",
+            "we",
+            "was",
+            "expected"
+          ],
+          "answer": "It was longer than we had expected"
+        },
+        {
+          "id": "w_b5",
+          "context": "Has the professor posted the results?",
+          "chunks": [
+            "not",
+            "She",
+            "posted",
+            "yet",
+            "has",
+            "them"
+          ],
+          "answer": "She has not posted them yet"
+        },
+        {
+          "id": "w_b6",
+          "context": "What does your brother do?",
+          "chunks": [
+            "He",
+            "to",
+            "studying",
+            "a nurse",
+            "become",
+            "is"
+          ],
+          "answer": "He is studying to become a nurse"
+        },
+        {
+          "id": "w_b7",
+          "context": "Why did the experiment fail?",
+          "chunks": [
+            "had",
+            "samples",
+            "been",
+            "The",
+            "stored",
+            "at the",
+            "wrong temperature"
+          ],
+          "answer": "The samples had been stored at the wrong temperature"
+        },
+        {
+          "id": "w_b8",
+          "context": "What did the committee decide?",
+          "chunks": [
+            "the deadline",
+            "They",
+            "that",
+            "would",
+            "not",
+            "decided",
+            "be extended"
+          ],
+          "answer": "They decided that the deadline would not be extended"
+        },
+        {
+          "id": "w_b9",
+          "context": "Did you enjoy the film?",
+          "chunks": [
+            "it",
+            "I",
+            "than",
+            "enjoyed",
+            "I thought",
+            "more",
+            "I would"
+          ],
+          "answer": "I enjoyed it more than I thought I would"
+        },
+        {
+          "id": "w_b10",
+          "context": "What worries you about the exam?",
+          "chunks": [
+            "will",
+            "I",
+            "the questions",
+            "whether",
+            "cover",
+            "wonder",
+            "the whole course"
+          ],
+          "answer": "I wonder whether the questions will cover the whole course"
+        }
+      ]
+    },
+    "email": {
+      "title": "Write an Email",
+      "prompt": "You are taking a biology course at a university. You missed last Thursday's lab session because you were sick, and the lab report is due next Monday.\n\nWrite an email to your professor, Dr. Hollis. In your email, do the following:\n- Explain why you missed the lab.\n- Ask whether you can make up the lab session or get the data from it.\n- Ask whether the due date for the report can be moved.",
+      "to": "Dr. Hollis",
+      "subject": "Missed lab on Thursday",
+      "rubric": "Task: academic email to a professor. Must cover all 3 bullets. Look for appropriate register (polite, formal-neutral), greeting and sign-off, clear organization, accurate grammar, natural phrasing. Typical strong length 90-150 words."
+    },
+    "discussion": {
+      "title": "Write for an Academic Discussion",
+      "prompt": "Your professor is teaching a class on education. Post a reply to the professor's question. In your reply, state your view with a reason, and add something new to the thread. Aim for at least 100 words.",
+      "professor": {
+        "name": "Dr. Okafor",
+        "text": "This week we are discussing how schools should prepare students for work. Some people say schools should spend more time on practical skills such as budgeting, cooking and computer repair, even if this means fewer hours on traditional subjects like history or literature. Others say traditional subjects teach students how to think and should stay the priority. Which approach do you think is better, and why?"
+      },
+      "students": [
+        {
+          "name": "Kelly",
+          "text": "I think practical skills should come first. Many graduates do not know how to manage money or sign a rental contract. Schools can still teach history, but a few hours a week of real-life skills would help everyone."
+        },
+        {
+          "name": "Andre",
+          "text": "I disagree. Practical skills change quickly, but the ability to read carefully and argue clearly never goes out of date. Students can learn budgeting from their families or online, but not critical thinking."
+        }
+      ],
+      "rubric": "Task: academic discussion post, 100+ words. Look for a clear opinion, specific support or examples, engagement with at least one classmate's point (not just repeating), coherence, varied accurate grammar and vocabulary."
+    }
+  }
+}

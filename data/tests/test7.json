@@ -1,0 +1,2145 @@
+{
+  "id": "test7",
+  "title": "Practice Test 7",
+  "timings": {
+    "reading": {
+      "router": 20,
+      "lower": 9,
+      "upper": 9
+    },
+    "listening": {
+      "router": 18,
+      "lower": 7,
+      "upper": 11
+    },
+    "writing": {
+      "build": 6,
+      "email": 7,
+      "discussion": 10
+    },
+    "speaking": 8
+  },
+  "audio": {
+    "l_c1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "When does the career fair start?"
+        }
+      ]
+    },
+    "l_c2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Could you hold the door for me?"
+        }
+      ]
+    },
+    "l_c3": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Didn't you use to work at the bank downtown?"
+        }
+      ]
+    },
+    "l_c4": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Who's in charge of ordering supplies for the lab?"
+        }
+      ]
+    },
+    "l_c5": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "I'm thinking of switching my major to neuroscience."
+        }
+      ]
+    },
+    "l_c6": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Shouldn't the glass for the new windows have arrived by now?"
+        }
+      ]
+    },
+    "l_c7": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Do you want me to look over your cover letter before you send it?"
+        }
+      ]
+    },
+    "l_c8": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "I'd be surprised if the bank approved his loan."
+        }
+      ]
+    },
+    "l_c9": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "Weren't you supposed to present your findings at the lab meeting today?"
+        }
+      ]
+    },
+    "l_c10": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "You'd think they'd have fixed the elevator by now."
+        }
+      ]
+    },
+    "l_conv1": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "So, Marcus, you said you wanted some help with internship applications?"
+        },
+        {
+          "v": "Fenrir",
+          "t": "Yes. I've applied to about fifteen companies, and I haven't heard back from any of them. I'm starting to wonder what I'm doing wrong."
+        },
+        {
+          "v": "Leda",
+          "t": "Let's look at what you sent. Did you use the same cover letter for all of them?"
+        },
+        {
+          "v": "Fenrir",
+          "t": "Mostly. I changed the company name each time."
+        },
+        {
+          "v": "Leda",
+          "t": "That might be the issue. Recruiters can usually tell when a letter is generic. They want to see that you know something specific about their organization."
+        },
+        {
+          "v": "Fenrir",
+          "t": "But writing a new letter for every application would take forever."
+        },
+        {
+          "v": "Leda",
+          "t": "It doesn't have to be completely new. Keep the parts about your skills, but write one paragraph for each company about why you want to work there in particular. And honestly, I'd send fewer, better applications."
+        },
+        {
+          "v": "Fenrir",
+          "t": "Okay. Could you look at a revised one next week?"
+        },
+        {
+          "v": "Leda",
+          "t": "Of course. Book a slot online. Tuesdays are usually quieter."
+        }
+      ]
+    },
+    "l_conv2": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Hey, did you see the flyer about the memory study in the psychology building?"
+        },
+        {
+          "v": "Kore",
+          "t": "The one that pays forty dollars? I thought about it, but it's five sessions."
+        },
+        {
+          "v": "Orus",
+          "t": "Four, actually. And each one's only half an hour. They're testing whether learning to juggle changes how well people remember lists of words."
+        },
+        {
+          "v": "Kore",
+          "t": "Juggling? That seems random."
+        },
+        {
+          "v": "Orus",
+          "t": "Not really. The idea is that learning any new physical skill might affect the brain more generally. Anyway, I signed up. You should too, and then we could go together."
+        },
+        {
+          "v": "Kore",
+          "t": "I'd like to, but I can't juggle at all."
+        },
+        {
+          "v": "Orus",
+          "t": "That's the point. They want beginners. If you already know how, you can't take part."
+        },
+        {
+          "v": "Kore",
+          "t": "Oh, in that case, I'm perfect for it. Where do I sign up?"
+        }
+      ]
+    },
+    "l_ann1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Good morning, students. This is a reminder from Career Services. Our mock interview week begins on Monday. Volunteers from local companies will conduct twenty-minute practice interviews and give you written feedback. Spaces are limited, so please register through the student portal by this Friday. When you register, you'll be asked to upload a real job advertisement that interests you, so that your interviewer can ask relevant questions. Business dress is recommended but not required."
+        }
+      ]
+    },
+    "l_ann2": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Before you leave, one note about Thursday. We'll be meeting in the materials lab in the engineering building, not here, because we're going to watch a glass tempering demonstration. Because the furnaces run extremely hot, closed-toe shoes are required. If you show up in sandals, the technicians won't let you in, and I can't make exceptions. Also, the lab only holds about thirty people, so the demonstration will run twice, at ten and at eleven. Your group assignments are on the course website. Please check which session you're in, because if both groups come at ten, nobody will see anything."
+        }
+      ]
+    },
+    "l_talk1": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Today we're going to talk about why ordinary glass breaks the way it does, and how engineers make it stronger. If you look at glass under a powerful microscope, you'll see that its surface is covered in tiny scratches and flaws, far too small to notice with your eyes. When you bend a sheet of glass, the stress concentrates at the tips of these flaws, and a crack can spread from one of them almost instantly. So in practice, glass is much weaker than its chemistry would suggest. One solution is tempering. The glass is heated until it's almost soft, and then the outer surfaces are cooled very rapidly with jets of air. The outside hardens first, while the inside is still hot. As the inside cools, it shrinks and pulls on the outer layer, squeezing it. That squeezing, or compression, makes it much harder for surface cracks to open. Tempered glass can be several times stronger than ordinary glass. And there's another benefit. When it does break, it shatters into small, rounded pieces rather than long, sharp blades. That's why it's used in car side windows and shower doors. The tradeoff is that you can't cut tempered glass after it's made. Any attempt to cut it releases the stress, and the whole sheet falls apart. So it has to be cut to its final shape before tempering."
+        }
+      ]
+    },
+    "l_talk2": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Let's go back to the goldsmiths of seventeenth-century London, because they help explain how modern banking works. Wealthy merchants needed somewhere safe to keep their gold, and goldsmiths already had strong vaults. So merchants deposited their gold and received a written receipt. Before long, people realized it was easier to pay each other by handing over these receipts than by fetching the gold itself. The receipts started to circulate almost like paper money. Here's where it gets interesting. The goldsmiths noticed that on any given day, only a small fraction of depositors actually came to withdraw their gold. Most of it just sat in the vault. So they began lending part of it out and charging interest, while keeping enough on hand to meet normal withdrawals. This is the basic idea behind what's now called fractional reserve banking. Of course, the system depended entirely on trust. If too many depositors suspected that their goldsmith couldn't pay, they'd all rush to withdraw at once, and even a well-run goldsmith would fail, simply because the gold was out on loan. That's essentially a bank run. In sixteen seventy-two, when the king stopped repaying loans that goldsmiths had made to the government, several of them collapsed for exactly this reason. Keep that in mind when we discuss deposit insurance next week."
+        }
+      ]
+    },
+    "l_c11": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Where is the career center?"
+        }
+      ]
+    },
+    "l_c12": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Would you like some tea?"
+        }
+      ]
+    },
+    "l_c13": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "How long is the bus ride to the museum?"
+        }
+      ]
+    },
+    "l_c14": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "I lost my phone this morning."
+        }
+      ]
+    },
+    "l_c15": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Are you taking the biology class next term?"
+        }
+      ]
+    },
+    "l_c16": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "Why don't we study together tonight?"
+        }
+      ]
+    },
+    "l_conv3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Excuse me. I bought this plant here last week, but the leaves are turning yellow."
+        },
+        {
+          "v": "Orus",
+          "t": "Oh, I'm sorry. How often are you watering it?"
+        },
+        {
+          "v": "Aoede",
+          "t": "Every day. I wanted to keep it healthy."
+        },
+        {
+          "v": "Orus",
+          "t": "That's probably the problem. This kind only needs water once a week. Too much water can hurt it."
+        },
+        {
+          "v": "Aoede",
+          "t": "Really? I didn't know that."
+        },
+        {
+          "v": "Orus",
+          "t": "Let it dry out for a few days. If it doesn't get better, bring it back and we'll give you a new one."
+        }
+      ]
+    },
+    "l_conv4": {
+      "lines": [
+        {
+          "v": "Puck",
+          "t": "How did your job interview go yesterday?"
+        },
+        {
+          "v": "Kore",
+          "t": "I think it went well. They asked a lot about my experience at the café."
+        },
+        {
+          "v": "Puck",
+          "t": "That's good. When will they tell you?"
+        },
+        {
+          "v": "Kore",
+          "t": "They said by Friday. But they also asked me to come back on Thursday to meet the manager."
+        },
+        {
+          "v": "Puck",
+          "t": "A second interview? That's a great sign."
+        }
+      ]
+    },
+    "l_ann3": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Good afternoon, students. The science museum trip is tomorrow. The bus leaves from the front of the school at eight thirty, so please be here by eight fifteen. Bring a packed lunch and a water bottle. We will see the new show about the brain, and you can try some memory games. We will be back at school at three o'clock."
+        }
+      ]
+    },
+    "l_talk3": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Did you know that some plants can warn each other? When an animal eats the leaves of certain plants, the plants make a special smell. Other plants nearby notice this smell. Then they start to make their leaves taste bad, so animals will not want to eat them. Scientists first saw this in trees in the nineteen eighties. At first, many people did not believe it. But now scientists have seen it in many kinds of plants, such as tomatoes and corn. One day, farmers may use this idea to protect their crops without chemicals."
+        }
+      ]
+    },
+    "l_talk4": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "Your brain changes every time you learn something new. Inside your brain are billions of cells called neurons. When you practice a skill, like playing the piano, the neurons used for that skill connect more strongly. That is why practice makes things easier. If you stop practicing, some of those connections become weaker. Scientists used to think that only children's brains could change like this. Now we know that adult brains can change too. So it is never too late to learn a new language or a musical instrument."
+        }
+      ]
+    },
+    "l_c17": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "I didn't realize the internship was unpaid."
+        }
+      ]
+    },
+    "l_c18": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Hasn't Professor Lin already reviewed your thesis draft?"
+        }
+      ]
+    },
+    "l_c19": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "There's no point in applying if they've already filled the position."
+        }
+      ]
+    },
+    "l_c20": {
+      "lines": [
+        {
+          "v": "Fenrir",
+          "t": "I could have sworn I saved the file before the computer crashed."
+        }
+      ]
+    },
+    "l_c21": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "The keynote speaker's flight was cancelled, so the session might be moved online."
+        }
+      ]
+    },
+    "l_c22": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Not that I'm complaining, but the new schedule gives us hardly any time for lunch."
+        }
+      ]
+    },
+    "l_conv5": {
+      "lines": [
+        {
+          "v": "Zephyr",
+          "t": "Jonah, you wanted to talk about your greenhouse experiment?"
+        },
+        {
+          "v": "Puck",
+          "t": "Yes. I followed the protocol exactly. I damaged leaves on half the bean plants and measured defense compounds in the untouched plants next to them. But I didn't find any difference between those plants and the controls."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Where were the control plants?"
+        },
+        {
+          "v": "Puck",
+          "t": "On the same bench, about two meters away."
+        },
+        {
+          "v": "Zephyr",
+          "t": "And was the greenhouse ventilation on?"
+        },
+        {
+          "v": "Puck",
+          "t": "It's always on. The fans run constantly in the summer."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Then that may be your answer. Those airborne signals are pretty dilute. With fans moving air around the whole room, your controls may have been exposed to the same compounds as the test plants."
+        },
+        {
+          "v": "Puck",
+          "t": "So my controls weren't really controls."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Possibly. It's not a wasted experiment, though. A null result with a clear explanation is still worth writing up. But if you want to test the effect properly, you'd need to separate the groups, maybe in sealed chambers."
+        },
+        {
+          "v": "Puck",
+          "t": "The department has a few of those, but they're booked through the end of the month."
+        },
+        {
+          "v": "Zephyr",
+          "t": "Then put your name on the list, and in the meantime, write up what you have. Include the ventilation issue in your discussion section."
+        }
+      ]
+    },
+    "l_ann4": {
+      "lines": [
+        {
+          "v": "Leda",
+          "t": "Attention, graduating seniors. Career Services has received a number of questions about the new employer verification process, so here's a quick clarification. Starting this semester, every job posting on the university's career portal will be reviewed before it goes live, which means new listings may take up to three business days to appear. This doesn't affect postings that are already on the site. We've introduced this step after several students reported postings from organizations that turned out not to exist. If you're ever asked to pay a fee to apply, or to provide your bank details before an interview, please don't respond. Report the posting to us instead. Legitimate employers will never ask you to do either of those things."
+        }
+      ]
+    },
+    "l_talk5": {
+      "lines": [
+        {
+          "v": "Kore",
+          "t": "I want to look at a striking case of neuroplasticity: what happens in the brains of people who are blind from birth. The visual cortex, at the back of the brain, normally processes information from the eyes. You might expect that, without visual input, this region would simply sit idle. But brain imaging shows the opposite. In people who were born blind, the visual cortex becomes highly active when they read Braille with their fingertips, and even during certain language tasks. In other words, a region we label visual has been recruited for touch and language. Now, the obvious question is whether this activity actually does anything, or whether it's just a side effect. One clever way to test it is to briefly disrupt the visual cortex using magnetic stimulation. When researchers did this in blind participants, their Braille reading became noticeably less accurate. In sighted participants, the same stimulation had no effect on reading by touch. So the activity seems to be functionally important. There's an important limitation, though. This kind of reorganization appears to be much more extensive in people who lost their sight early in life. In people who became blind as adults, the visual cortex is recruited to a lesser degree. So plasticity is real, but its extent depends heavily on timing."
+        }
+      ]
+    },
+    "l_talk6": {
+      "lines": [
+        {
+          "v": "Charon",
+          "t": "Today I want to talk about an innovation that made long-distance trade possible: the bill of exchange, which Italian merchant bankers developed in the thirteenth and fourteenth centuries. Imagine a wool merchant in Florence who wants to buy cloth in Bruges. Carrying chests of coins across the Alps was slow and dangerous. Instead, he'd pay a Florentine banker, who would write a bill instructing the banker's partner in Bruges to pay the equivalent in local currency. The merchant's agent would collect the money on arrival. No coins had to cross the mountains at all. But there's a subtler point here. The Church at the time prohibited usury, which meant charging interest on a loan. Bills of exchange offered a way around this. Because the bill involved converting one currency into another, and some time passed before payment, bankers could build a profit into the exchange rate. Technically, it was a currency transaction, not a loan, so it didn't count as interest. Historians still debate how much the system existed mainly for trade and how much it existed to disguise lending. My own view is that you can't separate the two neatly. The same document often did both jobs. In any case, bills of exchange created networks of trust between cities that later formed the backbone of international banking."
+        }
+      ]
+    },
+    "sp_r1": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Welcome to the science museum."
+        }
+      ]
+    },
+    "sp_r2": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "The glass exhibit is on the second floor."
+        }
+      ]
+    },
+    "sp_r3": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Please don't touch the objects in the display cases."
+        }
+      ]
+    },
+    "sp_r4": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Guided tours start every hour from the main entrance."
+        }
+      ]
+    },
+    "sp_r5": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Visitors who want to try the brain games should line up near the café."
+        }
+      ]
+    },
+    "sp_r6": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "If a child gets separated from their group, bring them to the information desk right away."
+        }
+      ]
+    },
+    "sp_r7": {
+      "lines": [
+        {
+          "v": "Orus",
+          "t": "Because the greenhouse is warm and humid, visitors should know that their glasses may fog up."
+        }
+      ]
+    },
+    "sp_i1": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Thanks for taking part in this study about how people prepare for their careers. First, could you tell me what kind of work you hope to do in the future?"
+        }
+      ]
+    },
+    "sp_i2": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "When people need career advice, some talk to family and friends, while others prefer professional advisors. Who would you go to for advice, and why?"
+        }
+      ]
+    },
+    "sp_i3": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Some people think it's better to stay in one job for a long time, while others think that changing jobs every few years helps people grow. What's your view?"
+        }
+      ]
+    },
+    "sp_i4": {
+      "lines": [
+        {
+          "v": "Aoede",
+          "t": "Finally, some universities now require every student to complete an internship before graduating. Do you think internships should be required? Why or why not?"
+        }
+      ]
+    }
+  },
+  "reading": {
+    "stage1": {
+      "id": "r1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Plants cannot move away from danger, but they are not defenseless. When {insects} attack, {some} plants {release} chemicals {into} the {air}. Nearby {plants} can {detect} these {signals} and {begin} producing {their} own defenses. In this way, a whole field can prepare for an attack before it arrives."
+        },
+        {
+          "type": "ctw",
+          "title": "Complete the Words",
+          "instructions": "Type the missing letters to complete the text.",
+          "text": "Banking in medieval Europe grew out of a practical problem. Merchants traveling {between} trade {fairs} were {reluctant} to {carry} large {quantities} of {coin}, which {attracted} thieves {and} was {costly} to {transport}. Italian bankers solved this with the bill of exchange, a written promise that could be turned into cash in a distant city."
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "CAREER SERVICES: Spring Internship Fair\n\nThursday, February 19 | 11:00 a.m.-3:00 p.m. | Hollis Gymnasium\n\nMore than 60 employers will attend, including engineering firms, hospitals and nonprofit organizations. Bring several printed copies of your résumé; there will be no printing available on site. Not sure your résumé is ready? Drop-in reviews are offered at the Career Center (Room 210, Marsh Hall) every weekday until the fair, from 1:00 to 4:00 p.m. No appointment is needed, but lines are always longest on the day before the fair.",
+          "items": [
+            {
+              "id": "r1_d1_1",
+              "q": "What are students told to bring to the fair?",
+              "options": [
+                "Several printed copies of their résumé",
+                "A laptop for printing documents",
+                "A confirmation of their appointment",
+                "A letter of recommendation from an employer"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_d1_2",
+              "q": "What does the notice suggest about getting a résumé review?",
+              "options": [
+                "Students must book an appointment in advance",
+                "Reviews will also be offered at the fair itself",
+                "Lines may be longer on February 18",
+                "Reviews are offered only in the morning"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "daily",
+          "title": "Read in Daily Life",
+          "text": "From: Lakeview Apartments Management\nTo: All residents, Building B\nSubject: Window replacement, March 3-7\n\nDear residents,\n\nAs part of our energy-saving project, the single-pane windows in Building B will be replaced with double-glazed windows during the week of March 3. Workers will need about two hours in each apartment. You do not need to be home, but please move furniture and plants at least one meter away from the windows the night before your scheduled day. A schedule by floor is posted in the lobby. Residents with pets should keep them in a closed room or take them out during the work. Once the project is complete, you should notice lower heating bills next winter.\n\nThank you for your patience,\nGreta Lund, Building Manager",
+          "items": [
+            {
+              "id": "r1_d2_1",
+              "q": "Why are the windows being replaced?",
+              "options": [
+                "Several windows were broken in a storm",
+                "To save energy",
+                "To reduce noise from the street",
+                "Residents complained about the old frames"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_d2_2",
+              "q": "What should residents do the night before their scheduled day?",
+              "options": [
+                "Check the schedule with the building manager",
+                "Take their pets out of the building",
+                "Stay home to let the workers in",
+                "Move furniture and plants away from the windows"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_d2_3",
+              "q": "What can be inferred from the email?",
+              "options": [
+                "Floors will be done on different days",
+                "All the apartments will be finished within two hours",
+                "Residents must be present while the work is done",
+                "Heating bills will rise during the project"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "type": "academic",
+          "title": "Read an Academic Passage",
+          "text": "The Changing Brain\n\nFor much of the twentieth century, neuroscientists believed that the adult brain was essentially fixed. Neurons, it was thought, formed their connections during childhood, and after that the brain could only decline. This view has since been overturned. Research has shown that the brain reorganizes itself throughout life in response to experience, a capacity known as neuroplasticity.\n\nOne striking demonstration came from studies of London taxi drivers, who must memorize thousands of streets before receiving a license. Brain scans revealed that the posterior hippocampus, a region involved in spatial memory, was larger in experienced drivers than in comparable adults. Because the difference grew with years on the job, researchers concluded that intensive practice had likely altered the drivers' brains, rather than people with larger hippocampi simply choosing the job.\n\nNeuroplasticity is not limitless, however. Changes tend to be greatest when a skill is practiced intensively and repeatedly, and some abilities, such as acquiring a native-like accent in a new language, appear harder to develop after adolescence. Moreover, plasticity works in both directions: connections that are rarely used may weaken over time.",
+          "items": [
+            {
+              "id": "r1_a1_1",
+              "q": "Which view does the research described in the passage challenge?",
+              "options": [
+                "Children's brains change more easily than adults' brains",
+                "The hippocampus is involved in spatial memory",
+                "Rarely used connections in the brain may weaken",
+                "The adult brain is unable to reorganize itself"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "r1_a1_2",
+              "q": "Why does the author mention London taxi drivers?",
+              "options": [
+                "To show that memorizing streets can damage memory",
+                "To provide evidence that experience can change the adult brain",
+                "To argue that people with good spatial memory choose to drive taxis",
+                "To explain how drivers earn their licenses"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "r1_a1_3",
+              "q": "Why did researchers consider it important that the difference grew with years on the job?",
+              "options": [
+                "It pointed to practice, not inborn size",
+                "It showed that older drivers had better memories than younger ones",
+                "It proved that all adults have equally large hippocampi",
+                "It indicated that the drivers had chosen the job because of their memory"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "r1_a1_4",
+              "q": "The word 'striking' in the passage is closest in meaning to",
+              "options": [
+                "forceful",
+                "very recent",
+                "remarkable",
+                "early"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "r1_a1_5",
+              "q": "According to paragraph 3, which statement about neuroplasticity is true?",
+              "options": [
+                "It stops completely after adolescence",
+                "Connections that are seldom used can weaken",
+                "It is greatest when a skill is practiced occasionally",
+                "It makes acquiring an accent easier for adults"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "r2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Getting a first job can be hard. Many {students} visit {the} career {center} at {their} school. Staff {there} can {read} your {job} application {and} give {you} useful {advice}. They can also help you practice for an interview."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "Hi Sam! Are you still coming to the plant sale on Saturday? It starts at 9:00 at the community garden on Oak Street. I'll be there early to help set up. Can you bring your big bag? I want to buy some tomato plants. See you there! Lina",
+            "items": [
+              {
+                "id": "r2l_d1_1",
+                "q": "Where is the plant sale?",
+                "options": [
+                  "At Lina's house",
+                  "At a flower shop",
+                  "On Oak Street",
+                  "At Sam's school"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2l_d1_2",
+                "q": "What does Lina ask Sam to do?",
+                "options": [
+                  "Help her set up early",
+                  "Bring his big bag",
+                  "Buy tomato plants for her",
+                  "Call her on Saturday"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "FOR SALE: Desk lamp and bookshelf\n\nI'm moving to a new city and must sell these by May 30.\nDesk lamp, like new: $10\nWooden bookshelf (5 shelves): $25\nBuy both for $30!\n\nPick-up only, no delivery. Text Jordan at 555-0148 after 5 p.m.",
+            "items": [
+              {
+                "id": "r2l_d2_1",
+                "q": "Why is Jordan selling the items?",
+                "options": [
+                  "He is moving to a new city",
+                  "He bought new furniture",
+                  "The lamp is broken",
+                  "He needs money for school"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_d2_2",
+                "q": "How much do the lamp and the bookshelf cost together?",
+                "options": [
+                  "$10",
+                  "$25",
+                  "$35",
+                  "$30"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_d2_3",
+                "q": "How can a buyer get the bookshelf?",
+                "options": [
+                  "Have it delivered",
+                  "Order it online",
+                  "Pick it up from Jordan",
+                  "Collect it after May 30"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Glass is made mostly from sand. To make glass, workers heat sand with a few other materials until it becomes a hot liquid. This needs a very high temperature, more than 1,500 degrees Celsius. When the liquid cools, it becomes hard and clear. People have made glass for about 4,500 years. At first, glass was rare and expensive, so only rich people had glass cups or beads. Later, people learned to blow air into hot glass to make bottles and bowls. Today, glass is everywhere: in windows, phones and cars. Glass is also easy to recycle. Old bottles can be melted and made into new ones many times.",
+            "items": [
+              {
+                "id": "r2l_a1_1",
+                "q": "What is the passage mainly about?",
+                "options": [
+                  "Why sand is important for buildings",
+                  "How glass is made and used",
+                  "How to recycle old phones",
+                  "Why glass was expensive"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2l_a1_2",
+                "q": "What is glass made mostly from?",
+                "options": [
+                  "Sand",
+                  "Metal",
+                  "Water",
+                  "Air"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_a1_3",
+                "q": "Why did only rich people have glass long ago?",
+                "options": [
+                  "It broke easily",
+                  "It was very heavy",
+                  "It was made in other countries",
+                  "It was rare and expensive"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2l_a1_4",
+                "q": "The word 'rare' in the passage is closest in meaning to",
+                "options": [
+                  "not common",
+                  "very old and valuable",
+                  "very hot",
+                  "not clean"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2l_a1_5",
+                "q": "What does the passage say about recycling glass?",
+                "options": [
+                  "Glass can be recycled only once",
+                  "Recycling glass needs more sand",
+                  "Old bottles can be made into new ones many times",
+                  "Old bottles cannot be melted"
+                ],
+                "answer": 2
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "r2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "ctw",
+            "title": "Complete the Words",
+            "instructions": "Type the missing letters to complete the text.",
+            "text": "Despite its rigidity, glass is not a crystal. When {molten} silica {cools} slowly, {its} atoms {settle} into {an} orderly {lattice}; {when} it {solidifies} rapidly, {however}, they {are} frozen in a disordered arrangement. This amorphous structure explains why glass softens gradually when heated rather than melting at a single, sharp temperature."
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "RESEARCH ASSISTANT (PART-TIME), Plant Signaling Lab\n\nThe Department of Plant Biology seeks an undergraduate assistant for 10-12 hours per week during the spring semester. Duties include maintaining greenhouse plants, recording growth measurements and entering data. Prior lab experience is desirable but not essential; training will be provided. Applicants must be available on at least two weekday mornings, when most measurements are taken. Students who receive work-study funding are especially encouraged to apply, as the position can be paid through that program. To apply, send a one-page cover letter and a list of relevant courses to Dr. Imani Brooks by January 24. Shortlisted candidates will be interviewed the following week.",
+            "items": [
+              {
+                "id": "r2u_d1_1",
+                "q": "Which applicant would most likely be unable to accept the position?",
+                "options": [
+                  "A student with no prior laboratory experience",
+                  "A student who receives work-study funding",
+                  "A student who can work twelve hours a week",
+                  "A student free only after midday"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_d1_2",
+                "q": "What is indicated about the application process?",
+                "options": [
+                  "Applicants must have completed a plant biology course",
+                  "Interviews will take place in the week after January 24",
+                  "Applicants should send a two-page cover letter",
+                  "Training is offered only to students with lab experience"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "daily",
+            "title": "Read in Daily Life",
+            "text": "From: Rafael Monteiro, Volunteer Coordinator\nTo: Gallery guides\nSubject: Changes to the Money Before Banks tours\n\nDear guides,\n\nFollowing visitor feedback, we are making two adjustments to the Money Before Banks tours, effective next Tuesday. First, the tour will now begin in the Ledger Room rather than the main hall. Many visitors found the coin display confusing without the background the merchants' ledgers provide, so starting there should make the rest of the tour easier to follow. Second, tours will be capped at fifteen people instead of twenty-five, since groups had become too large for everyone to see the smaller objects. As a result, we will need to run more tours each day, and I'm hoping some of you can take on an additional shift. If you're able to, please add your name to the sign-up sheet in the staff room by Friday. Updated tour notes will be emailed on Monday, so please don't print the old version.\n\nThanks as always,\nRafael",
+            "items": [
+              {
+                "id": "r2u_d2_1",
+                "q": "Why will tours now begin in the Ledger Room?",
+                "options": [
+                  "The main hall will be closed for repairs",
+                  "The coin display has been moved there",
+                  "It provides context for later displays",
+                  "It is larger than the main hall"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_d2_2",
+                "q": "Why does Rafael ask guides to sign up for additional shifts?",
+                "options": [
+                  "Smaller groups mean that more tours must be run",
+                  "Several guides have recently left",
+                  "Visitors have asked for longer tours",
+                  "The Ledger Room will be open for longer hours"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_d2_3",
+                "q": "What does Rafael suggest about the current tour notes?",
+                "options": [
+                  "They should be printed before Tuesday",
+                  "They are kept in the staff room",
+                  "They were written with visitors' help",
+                  "A new version will replace them"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "academic",
+            "title": "Read an Academic Passage",
+            "text": "Do Plants Talk?\n\nWhen a caterpillar chews a tomato leaf, the plant does more than repair the damage. It releases a blend of volatile organic compounds, airborne chemicals that can be detected by neighboring plants. In laboratory experiments, plants exposed to these compounds began producing defensive proteins before they themselves were attacked, as if they had been warned. Some researchers have described this as plant communication, and the metaphor has proved irresistible to journalists.\n\nOther scientists urge caution. Communication, in the strict biological sense, implies that the sender benefits from transmitting the signal. Yet it is not obvious why a damaged plant would gain from alerting its competitors, which vie with it for light and nutrients. One alternative explanation is that the compounds are primarily a message from one part of the plant to another: because chemical signals travel slowly through a plant's vascular system, releasing them into the air may be a faster way to reach distant branches. On this view, neighbors are merely eavesdropping on a private conversation. Supporting this interpretation, the effect in many field studies is detectable only over short distances, often less than a meter, which is consistent with a signal intended for the plant's own tissues rather than for a wider audience.",
+            "items": [
+              {
+                "id": "r2u_a1_1",
+                "q": "The word 'vie' in the passage is closest in meaning to",
+                "options": [
+                  "compete",
+                  "cooperate",
+                  "search",
+                  "wait"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "r2u_a1_2",
+                "q": "According to paragraph 2, why do some scientists hesitate to call the release of compounds 'communication'?",
+                "options": [
+                  "The compounds cannot be detected by other plants",
+                  "Journalists have exaggerated the laboratory results",
+                  "The sender's benefit is unclear",
+                  "The compounds travel too slowly through the air"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "r2u_a1_3",
+                "q": "What does the author mean by saying that neighbors are 'eavesdropping on a private conversation'?",
+                "options": [
+                  "Neighboring plants send false signals to their competitors",
+                  "Neighbors intercept signals meant for the plant itself",
+                  "Damaged plants deliberately hide their signals from neighbors",
+                  "Researchers have misunderstood how plants exchange signals"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "r2u_a1_4",
+                "q": "Why does the author mention that the effect is often detectable only within a meter?",
+                "options": [
+                  "To show that laboratory experiments were poorly designed",
+                  "To argue that plants communicate over long distances",
+                  "To explain why caterpillars prefer tomato plants",
+                  "To support the internal-signal explanation"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "r2u_a1_5",
+                "q": "What can be inferred about the author's position?",
+                "options": [
+                  "The author believes plants deliberately warn their neighbors",
+                  "The author thinks the word 'communication' may be misleading",
+                  "The author rejects the results of laboratory experiments",
+                  "The author thinks journalists described the research accurately"
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "listening": {
+    "stage1": {
+      "id": "l1",
+      "cefr": "A2-C1",
+      "tasks": [
+        {
+          "type": "choose",
+          "title": "Listen and Choose a Response",
+          "items": [
+            {
+              "id": "l1_c1",
+              "audio": "l_c1",
+              "q": "Choose the best response.",
+              "options": [
+                "In the main gym.",
+                "At ten, I believe.",
+                "It was fair enough.",
+                "I started yesterday."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c2",
+              "audio": "l_c2",
+              "q": "Choose the best response.",
+              "options": [
+                "Sure, no problem.",
+                "It's the door on the left.",
+                "I held it last week.",
+                "No, it's not mine."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c3",
+              "audio": "l_c3",
+              "q": "Choose the best response.",
+              "options": [
+                "I'll go to the bank later.",
+                "The river bank is downtown.",
+                "Yes, it's open until five.",
+                "Yes, for about two years."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c4",
+              "audio": "l_c4",
+              "q": "Choose the best response.",
+              "options": [
+                "They charge a lot for those.",
+                "In the supply closet.",
+                "That would be Professor Kim.",
+                "I ordered them pizza."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c5",
+              "audio": "l_c5",
+              "q": "Choose the best response.",
+              "options": [
+                "Really? What made you decide that?",
+                "I switched off the light.",
+                "He's thinking about it too.",
+                "The major roads are closed."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_c6",
+              "audio": "l_c6",
+              "q": "Choose the best response.",
+              "options": [
+                "I'll have a glass of water, thanks.",
+                "It's been delayed, apparently.",
+                "It arrives by now.",
+                "I've never broken a window."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_c7",
+              "audio": "l_c7",
+              "q": "Choose the best response.",
+              "options": [
+                "I'll cover it with a letter.",
+                "The letter is on the cover.",
+                "No, I can't see it.",
+                "That'd help a lot."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c8",
+              "audio": "l_c8",
+              "q": "Choose the best response.",
+              "options": [
+                "I approve of the bank.",
+                "It was a surprise party.",
+                "Why? Is his credit history that bad?",
+                "I loaned it to the bank."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_c9",
+              "audio": "l_c9",
+              "q": "Choose the best response.",
+              "options": [
+                "I found it under the desk.",
+                "I found them at the meeting.",
+                "The meeting was presented well.",
+                "It got pushed back to next week."
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_c10",
+              "audio": "l_c10",
+              "q": "Choose the best response.",
+              "options": [
+                "I'd think about it.",
+                "Tell me about it.",
+                "They fixed the dinner.",
+                "Yes, I'd have fixed it."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv1",
+          "items": [
+            {
+              "id": "l1_v1_1",
+              "q": "Why does the student meet with the advisor?",
+              "options": [
+                "He has had no replies from companies",
+                "He wants help choosing which companies to apply to",
+                "He needs a letter of recommendation",
+                "He wants to change his major"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_v1_2",
+              "q": "What does the advisor think is the main problem?",
+              "options": [
+                "He has applied to too few companies",
+                "His skills section is too short",
+                "His letters are too generic",
+                "He has sent letters to the wrong recruiters"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_v1_3",
+              "q": "What does the advisor recommend?",
+              "options": [
+                "Writing a completely new letter for every application",
+                "Adding a paragraph about each specific company",
+                "Applying to more companies each week",
+                "Visiting the career center every Tuesday"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "type": "conversation",
+          "title": "Listen to a Conversation",
+          "audio": "l_conv2",
+          "items": [
+            {
+              "id": "l1_v2_1",
+              "q": "What are the speakers mainly discussing?",
+              "options": [
+                "A juggling club the man wants to start",
+                "A psychology class they are both taking",
+                "A job in the psychology building",
+                "A study the man has joined"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_v2_2",
+              "q": "What does the man correct about the woman's understanding of the study?",
+              "options": [
+                "The number of sessions",
+                "The amount of money paid",
+                "The location of the study",
+                "The topic of the study"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_v2_3",
+              "q": "Why does the woman decide to take part?",
+              "options": [
+                "She learns that the study pays more than she thought",
+                "The man offers to teach her to juggle",
+                "Only beginners are wanted",
+                "She learns that each session lasts only half an hour"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann1",
+          "items": [
+            {
+              "id": "l1_n1_1",
+              "q": "What is the main purpose of the announcement?",
+              "options": [
+                "To introduce a new career advisor to students",
+                "To promote mock interviews and explain sign-up",
+                "To announce job openings at local companies",
+                "To explain a new dress code"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_n1_2",
+              "q": "Why must students upload a job advertisement when they register?",
+              "options": [
+                "To apply for the job directly",
+                "To prove that they are enrolled students",
+                "So that companies can contact them later",
+                "To get relevant interview questions"
+              ],
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "type": "announcement",
+          "title": "Listen to an Announcement",
+          "audio": "l_ann2",
+          "items": [
+            {
+              "id": "l1_n2_1",
+              "q": "Why must students wear closed-toe shoes?",
+              "options": [
+                "For safety, because the furnaces are extremely hot",
+                "Because the engineering building has a formal dress code",
+                "Because the floor of the lab is often wet",
+                "Because they will handle pieces of broken glass"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_n2_2",
+              "q": "Why does the professor mention that the lab holds about thirty people?",
+              "options": [
+                "To ask students to arrive early",
+                "To explain why some students cannot attend",
+                "To explain the two sessions",
+                "To show that the lab is larger than the classroom"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk1",
+          "items": [
+            {
+              "id": "l1_t1_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "How glass is made from sand",
+                "The history of car windows",
+                "Why glass is used in shower doors",
+                "Glass failure and tempering"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t1_2",
+              "q": "According to the professor, why is ordinary glass weaker than its chemistry would suggest?",
+              "options": [
+                "It is cooled too quickly during production",
+                "Surface flaws concentrate stress",
+                "Its atoms are not tightly bonded",
+                "It is usually made too thin"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t1_3",
+              "q": "What causes the outer layer of tempered glass to be compressed?",
+              "options": [
+                "The inside of the glass shrinks as it cools",
+                "Jets of air push hard against the surface",
+                "The glass is heated a second time",
+                "Machines squeeze the sheet while it is soft"
+              ],
+              "answer": 0
+            },
+            {
+              "id": "l1_t1_4",
+              "q": "What does the professor say about cutting tempered glass?",
+              "options": [
+                "It can be done easily with special tools",
+                "It makes the glass stronger",
+                "It must happen before tempering",
+                "It produces long, sharp pieces"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "type": "talk",
+          "title": "Listen to an Academic Talk",
+          "audio": "l_talk2",
+          "items": [
+            {
+              "id": "l1_t2_1",
+              "q": "What is the talk mainly about?",
+              "options": [
+                "How gold was mined in seventeenth-century England",
+                "How goldsmiths' practices laid the foundations of modern banking",
+                "Why the king borrowed money from merchants",
+                "How deposit insurance protects customers"
+              ],
+              "answer": 1
+            },
+            {
+              "id": "l1_t2_2",
+              "q": "Why did goldsmiths' receipts begin to circulate like money?",
+              "options": [
+                "The king ordered merchants to use them",
+                "Gold coins were in short supply",
+                "Receipts could not be stolen",
+                "Receipts were easier to hand over"
+              ],
+              "answer": 3
+            },
+            {
+              "id": "l1_t2_3",
+              "q": "According to the professor, why could even a well-run goldsmith fail?",
+              "options": [
+                "Goldsmiths charged too much interest",
+                "Receipts were easy to copy",
+                "Its gold was lent out during a rush",
+                "Vaults were often broken into"
+              ],
+              "answer": 2
+            },
+            {
+              "id": "l1_t2_4",
+              "q": "Why does the professor mention the year 1672?",
+              "options": [
+                "To show the risk of unpaid loans",
+                "To mark the year receipts were first used",
+                "To show that the king supported the goldsmiths",
+                "To introduce the topic of deposit insurance"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    "stage2": {
+      "lower": {
+        "id": "l2l",
+        "cefr": "A1-B1",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2l_c1",
+                "audio": "l_c11",
+                "q": "Choose the best response.",
+                "options": [
+                  "It opens at nine.",
+                  "Next to the library.",
+                  "Yes, I've been there.",
+                  "I want a career in art."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c2",
+                "audio": "l_c12",
+                "q": "Choose the best response.",
+                "options": [
+                  "Yes, please.",
+                  "I liked it a lot.",
+                  "At three o'clock.",
+                  "No, I'm not tired."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_c3",
+                "audio": "l_c13",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's a long bus.",
+                  "I rode it once.",
+                  "Tickets are five dollars.",
+                  "About twenty minutes."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_c4",
+                "audio": "l_c14",
+                "q": "Choose the best response.",
+                "options": [
+                  "It's a nice phone.",
+                  "Where did you last see it?",
+                  "I'll call you this morning.",
+                  "Yes, I found mine."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_c5",
+                "audio": "l_c15",
+                "q": "Choose the best response.",
+                "options": [
+                  "I took the bus.",
+                  "It's in Room 4.",
+                  "I haven't decided yet.",
+                  "Yes, I took it last year."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_c6",
+                "audio": "l_c16",
+                "q": "Choose the best response.",
+                "options": [
+                  "Because I studied already.",
+                  "I don't know why.",
+                  "Last night was fun.",
+                  "Good idea. Your place or mine?"
+                ],
+                "answer": 3
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv3",
+            "items": [
+              {
+                "id": "l2l_v1_1",
+                "q": "Why are the plant's leaves turning yellow?",
+                "options": [
+                  "It does not get enough sun",
+                  "It is the wrong kind of plant",
+                  "The woman waters it too often",
+                  "The pot is too small"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_v1_2",
+                "q": "What will the man do if the plant does not get better?",
+                "options": [
+                  "Give the woman a new plant",
+                  "Give the woman her money back",
+                  "Visit the woman's home",
+                  "Sell her a bigger pot"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv4",
+            "items": [
+              {
+                "id": "l2l_v2_1",
+                "q": "What did the interviewers ask the woman about?",
+                "options": [
+                  "Her favorite food",
+                  "Her classes at school",
+                  "Her plans for Friday",
+                  "Her work at a café"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_v2_2",
+                "q": "What will the woman do on Thursday?",
+                "options": [
+                  "Find out if she got the job",
+                  "Start her new job",
+                  "Meet the manager",
+                  "Work at the café"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann3",
+            "items": [
+              {
+                "id": "l2l_n1_1",
+                "q": "What time should students arrive tomorrow?",
+                "options": [
+                  "8:15",
+                  "8:30",
+                  "3:00",
+                  "8:00"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_n1_2",
+                "q": "What should students bring?",
+                "options": [
+                  "Money for lunch and a drink",
+                  "Lunch and water",
+                  "A notebook and a pen",
+                  "A museum ticket and a map"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_n1_3",
+                "q": "What will students see at the museum?",
+                "options": [
+                  "A show about stars and planets",
+                  "A film about animals",
+                  "A show about the brain",
+                  "A science contest"
+                ],
+                "answer": 2
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk3",
+            "items": [
+              {
+                "id": "l2l_t1_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How plants grow in a garden",
+                  "How some plants warn nearby plants",
+                  "Why animals like tomatoes",
+                  "How farmers use chemicals"
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2l_t1_2",
+                "q": "What do the nearby plants do after they notice the smell?",
+                "options": [
+                  "They grow faster",
+                  "They lose their leaves",
+                  "They move away from the animal",
+                  "Their leaves taste bad"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2l_t1_3",
+                "q": "How might farmers use this idea in the future?",
+                "options": [
+                  "To protect crops without chemicals",
+                  "To grow bigger, sweeter tomatoes",
+                  "To make plants smell better to bees",
+                  "To keep wild animals off farms"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk4",
+            "items": [
+              {
+                "id": "l2l_t2_1",
+                "q": "What happens when you practice a skill?",
+                "options": [
+                  "Your brain gets bigger",
+                  "You make new brain cells every day",
+                  "The neurons for it connect more",
+                  "You forget other skills"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2l_t2_2",
+                "q": "What happens if you stop practicing?",
+                "options": [
+                  "Some links weaken",
+                  "The brain stops changing",
+                  "The skill becomes easier",
+                  "New neurons appear"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2l_t2_3",
+                "q": "What did scientists use to think?",
+                "options": [
+                  "Adults learn faster than children",
+                  "Only children's brains could change",
+                  "Practice does not help",
+                  "Music is bad for the brain"
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      },
+      "upper": {
+        "id": "l2u",
+        "cefr": "B2-C2",
+        "tasks": [
+          {
+            "type": "choose",
+            "title": "Listen and Choose a Response",
+            "items": [
+              {
+                "id": "l2u_c1",
+                "audio": "l_c17",
+                "q": "Choose the best response.",
+                "options": [
+                  "I realized it yesterday.",
+                  "Does that change your mind about applying?",
+                  "I'll pay for it later.",
+                  "Yes, it was paid in full."
+                ],
+                "answer": 1
+              },
+              {
+                "id": "l2u_c2",
+                "audio": "l_c18",
+                "q": "Choose the best response.",
+                "options": [
+                  "I'll review the movie tonight.",
+                  "Yes, I've already drafted her.",
+                  "Yes, I'll review it next week.",
+                  "She's only read chapter one."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_c3",
+                "audio": "l_c19",
+                "q": "Choose the best response.",
+                "options": [
+                  "Who told you it's been filled?",
+                  "I'll fill out the form.",
+                  "Point to the position on the map.",
+                  "They applied last week."
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_c4",
+                "audio": "l_c20",
+                "q": "Choose the best response.",
+                "options": [
+                  "I swore I'd never do that again.",
+                  "The crash happened tomorrow morning.",
+                  "Did you check the recovery folder?",
+                  "I'll save you a seat."
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_c5",
+                "audio": "l_c21",
+                "q": "Choose the best response.",
+                "options": [
+                  "I'll book a flight online for her.",
+                  "She speaks very well.",
+                  "Let's move the chairs.",
+                  "Shame, I hoped to see her live."
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_c6",
+                "audio": "l_c22",
+                "q": "Choose the best response.",
+                "options": [
+                  "Hardly anyone had lunch.",
+                  "You're right. Maybe we should bring it up at the meeting.",
+                  "The schedule is new.",
+                  "I'm not hungry yet."
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "conversation",
+            "title": "Listen to a Conversation",
+            "audio": "l_conv5",
+            "items": [
+              {
+                "id": "l2u_v1_1",
+                "q": "Why does the student go to see the professor?",
+                "options": [
+                  "He wants permission to use the sealed chambers",
+                  "He needs help writing his discussion section",
+                  "His experiment found nothing",
+                  "He believes the greenhouse fans are broken"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_v1_2",
+                "q": "Why does the professor ask whether the ventilation was on?",
+                "options": [
+                  "She suspects moving air exposed the control plants to the signals",
+                  "She is concerned that the plants became too hot",
+                  "She wants to know whether the fans need repair",
+                  "She thinks the protocol requires the fans to be off"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_v1_3",
+                "q": "What does the student mean when he says, 'So my controls weren't really controls'?",
+                "options": [
+                  "He forgot to include a control group",
+                  "He placed the control plants on the wrong bench",
+                  "He damaged the control plants by mistake",
+                  "The controls may have been exposed too"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_v1_4",
+                "q": "What does the professor recommend?",
+                "options": [
+                  "Repeating the experiment right away on another bench",
+                  "Writing up results while waiting for a chamber",
+                  "Abandoning the project because of the null result",
+                  "Asking the department to turn off the fans"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "announcement",
+            "title": "Listen to an Announcement",
+            "audio": "l_ann4",
+            "items": [
+              {
+                "id": "l2u_n1_1",
+                "q": "Why has Career Services introduced the new review process?",
+                "options": [
+                  "Some posted organizations were fake",
+                  "Too many students were applying for each job",
+                  "Employers asked for more time to post jobs",
+                  "The career portal was being redesigned"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_n1_2",
+                "q": "What does the speaker say about postings that are already on the portal?",
+                "options": [
+                  "They will be removed within three days",
+                  "They will be reviewed again",
+                  "They are not affected by the change",
+                  "They must be reported to Career Services"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_n1_3",
+                "q": "What does the speaker imply about an employer that asks applicants to pay a fee?",
+                "options": [
+                  "It is probably a large company",
+                  "It is probably not a genuine employer",
+                  "It will be reviewed within three business days",
+                  "It may ask for bank details later"
+                ],
+                "answer": 1
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk5",
+            "items": [
+              {
+                "id": "l2u_t1_1",
+                "q": "What is the professor mainly discussing?",
+                "options": [
+                  "How Braille was invented",
+                  "Why sighted people read faster than blind people",
+                  "How magnetic stimulation is used to treat blindness",
+                  "How a brain region can take on new jobs"
+                ],
+                "answer": 3
+              },
+              {
+                "id": "l2u_t1_2",
+                "q": "Why does the professor describe the magnetic stimulation experiment?",
+                "options": [
+                  "To show that the stimulation improves Braille reading",
+                  "To compare the eyesight of blind and sighted people",
+                  "To show the visual cortex aids Braille reading",
+                  "To prove that the visual cortex is inactive in blind people"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_t1_3",
+                "q": "What can be inferred about a person who became blind at age forty?",
+                "options": [
+                  "Their visual cortex is probably less reorganized",
+                  "Their visual cortex would soon stop working entirely",
+                  "They would be unable to learn Braille",
+                  "Their brain would show no plasticity at all"
+                ],
+                "answer": 0
+              }
+            ]
+          },
+          {
+            "type": "talk",
+            "title": "Listen to an Academic Talk",
+            "audio": "l_talk6",
+            "items": [
+              {
+                "id": "l2u_t2_1",
+                "q": "What is the talk mainly about?",
+                "options": [
+                  "How the Church regulated trade in Florence",
+                  "Why merchants carried coins across the Alps",
+                  "How bills of exchange worked and why they were useful",
+                  "How modern banks calculate exchange rates"
+                ],
+                "answer": 2
+              },
+              {
+                "id": "l2u_t2_2",
+                "q": "According to the professor, how did bills of exchange help bankers deal with the ban on usury?",
+                "options": [
+                  "Profit was hidden in the exchange rate",
+                  "The Church approved them as a special kind of loan",
+                  "They let bankers avoid exchanging currencies",
+                  "They were used only outside Italy"
+                ],
+                "answer": 0
+              },
+              {
+                "id": "l2u_t2_3",
+                "q": "What is the professor's position on the historians' debate?",
+                "options": [
+                  "Bills mainly existed to disguise lending",
+                  "One bill often did both jobs",
+                  "Bills existed only to support trade",
+                  "The debate has finally been settled"
+                ],
+                "answer": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "writing": {
+    "build": {
+      "title": "Build a Sentence",
+      "instructions": "Arrange the words to build a correct sentence. One box may not be needed.",
+      "items": [
+        {
+          "id": "w_b1",
+          "context": "I need to talk to someone about my résumé.",
+          "after": "today?",
+          "chunks": [
+            "is",
+            "do",
+            "the career center",
+            "if",
+            "you",
+            "open",
+            "know"
+          ],
+          "answer": "do you know if the career center is open"
+        },
+        {
+          "id": "w_b2",
+          "context": "What did you learn in your neuroscience class today?",
+          "before": "We",
+          "after": ".",
+          "chunks": [
+            "reorganize",
+            "how",
+            "itself",
+            "the brain",
+            "does",
+            "learned",
+            "can"
+          ],
+          "answer": "learned how the brain can reorganize itself"
+        },
+        {
+          "id": "w_b3",
+          "context": "Why is the old bank building closed?",
+          "before": "It",
+          "after": ".",
+          "chunks": [
+            "converted",
+            "a museum",
+            "is",
+            "been",
+            "into",
+            "being"
+          ],
+          "answer": "is being converted into a museum"
+        },
+        {
+          "id": "w_b4",
+          "context": "Did you finish your glass sculpture?",
+          "before": "Not yet. I",
+          "after": "down first.",
+          "chunks": [
+            "to",
+            "wait",
+            "it",
+            "have",
+            "cool",
+            "for",
+            "to"
+          ],
+          "answer": "have to wait for it to cool"
+        },
+        {
+          "id": "w_b5",
+          "context": "The workshop on plant biology was fantastic.",
+          "after": ".",
+          "chunks": [
+            "had",
+            "I",
+            "it",
+            "wish",
+            "have",
+            "attended",
+            "I"
+          ],
+          "answer": "I wish I had attended it"
+        },
+        {
+          "id": "w_b6",
+          "context": "Can you help me with my cover letter?",
+          "before": "Sure.",
+          "after": ".",
+          "chunks": [
+            "are",
+            "about",
+            "what",
+            "worried",
+            "tell me",
+            "you"
+          ],
+          "answer": "tell me what you are worried about"
+        },
+        {
+          "id": "w_b7",
+          "context": "Has the lab received the new microscopes yet?",
+          "before": "They",
+          "after": "yet.",
+          "chunks": [
+            "but",
+            "delivered",
+            "have",
+            "not",
+            "been",
+            "ordered",
+            "were"
+          ],
+          "answer": "have been ordered but not delivered",
+          "alts": [
+            "were ordered but have not been delivered"
+          ]
+        },
+        {
+          "id": "w_b8",
+          "context": "Why were the plants on the left side so much taller?",
+          "before": "They",
+          "after": ".",
+          "chunks": [
+            "sunlight",
+            "the others",
+            "had",
+            "than",
+            "more",
+            "received"
+          ],
+          "answer": "had received more sunlight than the others",
+          "alts": [
+            "received more sunlight than the others",
+            "had more sunlight than the others"
+          ]
+        },
+        {
+          "id": "w_b9",
+          "context": "What did the interviewer ask you?",
+          "before": "She",
+          "after": "to start.",
+          "chunks": [
+            "I",
+            "when",
+            "to know",
+            "available",
+            "would be",
+            "will",
+            "wanted"
+          ],
+          "answer": "wanted to know when I would be available"
+        },
+        {
+          "id": "w_b10",
+          "context": "Is it true that early banks lent out their customers' gold?",
+          "before": "Yes, but",
+          "after": ".",
+          "chunks": [
+            "anyone",
+            "to pay",
+            "they",
+            "asked for it",
+            "who",
+            "enough gold",
+            "kept"
+          ],
+          "answer": "they kept enough gold to pay anyone who asked for it"
+        }
+      ]
+    },
+    "email": {
+      "title": "Write an Email",
+      "to": "Mr. Okonkwo",
+      "subject": "Feedback on my résumé",
+      "prompt": "Last week you attended a résumé workshop at your university's career center. At the end, the advisor, Mr. Okonkwo, offered to review your résumé and send you comments by email. You sent him your résumé the same day, but you have not received any feedback. You plan to apply for a summer internship that closes next Wednesday.\n\nWrite an email to Mr. Okonkwo. In your email, do the following:\n- Mention something from the workshop that you found useful.\n- Explain your situation.\n- Ask for his help and suggest a way he could give it.\n\nUse full sentences, and write as much as you can.",
+      "rubric": "Task: polite follow-up email to a career advisor. Must cover all 3 bullets: (1) a specific useful point from the workshop, (2) the situation (resume sent, no reply yet, internship deadline next Wednesday), (3) a clear request plus a concrete suggestion (short meeting, drop-in visit, quick comments by a date). Look for a tactful tone that does not blame the advisor, greeting and sign-off, logical order, accurate grammar and precise vocabulary. Typical strong length 100-150 words."
+    },
+    "discussion": {
+      "title": "Write for an Academic Discussion",
+      "prompt": "Your professor is teaching a class on education. Post a reply to the professor's question. In your reply, do these two things.\n- State your view and back it up.\n- Add something new to the thread, in your own words.\nAim for at least 100 words.",
+      "professor": {
+        "name": "Dr. Harlow",
+        "text": "Research on neuroplasticity shows that the brain can change throughout life, but some skills, such as speaking a language with a native-like accent, seem easier to develop when we are young. Because of this, some people argue that schools should start teaching a foreign language in the first year of primary school. Others say young children should focus on their first language and basic skills, and that foreign languages can be learned well later. Which view do you agree with, and why?"
+      },
+      "students": [
+        {
+          "name": "Priya",
+          "text": "I think schools should start early. Children copy sounds easily and are not afraid of making mistakes. My cousin started English at six and now speaks it much more naturally than I do, even though I started at fourteen."
+        },
+        {
+          "name": "Lukas",
+          "text": "I disagree. An hour or two a week in primary school is not enough to learn a language anyway. It would be better to spend that time on reading and math, and then teach languages more intensively when students are older and can study grammar seriously."
+        }
+      ],
+      "rubric": "Task: academic discussion post, 100+ words. Look for a clear position, specific support (age and accent, amount of class time, motivation, cost, teacher quality), engagement with Priya's or Lukas's point that adds a new angle rather than repeating it, coherence, and varied accurate grammar and vocabulary."
+    }
+  },
+  "speaking": {
+    "repeat": {
+      "title": "Listen and Repeat",
+      "instructions": "Listen to each sentence once. After the beep, repeat it exactly as you heard it. No preparation time.",
+      "context": "You are training as a guide at a science museum. Listen to your manager and repeat what he says. You hear each sentence one time.",
+      "maxSeconds": 14,
+      "items": [
+        {
+          "id": "sp_r1",
+          "audio": "sp_r1",
+          "text": "Welcome to the science museum."
+        },
+        {
+          "id": "sp_r2",
+          "audio": "sp_r2",
+          "text": "The glass exhibit is on the second floor."
+        },
+        {
+          "id": "sp_r3",
+          "audio": "sp_r3",
+          "text": "Please don't touch the objects in the display cases."
+        },
+        {
+          "id": "sp_r4",
+          "audio": "sp_r4",
+          "text": "Guided tours start every hour from the main entrance."
+        },
+        {
+          "id": "sp_r5",
+          "audio": "sp_r5",
+          "text": "Visitors who want to try the brain games should line up near the café."
+        },
+        {
+          "id": "sp_r6",
+          "audio": "sp_r6",
+          "text": "If a child gets separated from their group, bring them to the information desk right away."
+        },
+        {
+          "id": "sp_r7",
+          "audio": "sp_r7",
+          "text": "Because the greenhouse is warm and humid, visitors should know that their glasses may fog up."
+        }
+      ]
+    },
+    "interview": {
+      "title": "Take an Interview",
+      "instructions": "An interviewer will ask you four questions. There is no preparation time. You have 45 seconds to answer each question.",
+      "context": "You are joining a research study about how students prepare for their careers. A researcher will ask you some questions in a short online interview.",
+      "maxSeconds": 45,
+      "items": [
+        {
+          "id": "sp_i1",
+          "audio": "sp_i1",
+          "text": "Thanks for taking part in this study about how people prepare for their careers. First, could you tell me what kind of work you hope to do in the future?"
+        },
+        {
+          "id": "sp_i2",
+          "audio": "sp_i2",
+          "text": "When people need career advice, some talk to family and friends, while others prefer professional advisors. Who would you go to for advice, and why?"
+        },
+        {
+          "id": "sp_i3",
+          "audio": "sp_i3",
+          "text": "Some people think it's better to stay in one job for a long time, while others think that changing jobs every few years helps people grow. What's your view?"
+        },
+        {
+          "id": "sp_i4",
+          "audio": "sp_i4",
+          "text": "Finally, some universities now require every student to complete an internship before graduating. Do you think internships should be required? Why or why not?"
+        }
+      ]
+    }
+  }
+}
